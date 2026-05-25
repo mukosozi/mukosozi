@@ -6,7 +6,7 @@
 [![Data License: CC BY-NC-SA 4.0](https://img.shields.io/badge/data%20license-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-DATA)
 [![Status](https://img.shields.io/badge/status-v0.1.0%20early%20development-orange.svg)](#status--roadmap)
 
-**Mukosozi** (Kinyarwanda: *helper*, *one who corrects*) is a Kinyarwanda text correction tool. It targets punctuation, spacing, capitalization, and morphological errors that affect written Kinyarwanda — a Bantu language spoken by approximately 12 million people, with limited NLP tooling available.
+**Mukosozi** (Kinyarwanda: *the corrector, the one who corrects*) is a Kinyarwanda text correction tool. It targets punctuation, spacing, capitalization, and morphological errors that affect written Kinyarwanda — a Bantu language spoken by approximately 12 million people, with limited NLP tooling available.
 
 The project is **authored and maintained by a native Kinyarwanda speaker** and grounded in explicit, documented linguistic rules — not opaque models. Every correction is traceable to a rule with a clear, reviewable explanation.
 
