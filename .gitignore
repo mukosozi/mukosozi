@@ -1,0 +1,153 @@
+# ==============================================================================
+# Mukosozi — .gitignore
+# ==============================================================================
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# --- Windows ---
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Linux ---
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+.history/
+
+# --- JetBrains IDEs ---
+.idea/
+*.iml
+*.iws
+
+# --- Vim / Emacs ---
+*.swp
+*.swo
+*.swn
+\#*\#
+.\#*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# --- Python virtual environments ---
+venv/
+env/
+ENV/
+.venv/
+.env/
+virtualenv/
+
+# --- Node.js (in case of future tooling) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+.yarn/
+.pnp.*
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Environment variables & secrets ---
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+secrets/
+*.pem
+*.key
+
+# --- Build outputs ---
+dist/
+out/
+*.tsbuildinfo
+
+# --- Coverage & test artifacts ---
+coverage/
+.nyc_output/
+
+# --- Temporary files ---
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# ==============================================================================
+# Project-specific
+# ==============================================================================
+# Local notes, drafts, and experiments not meant for the public repo
+notes/
+drafts/
+scratch/
+local/
+private/
+
+# Backups and work-in-progress versions of word bank or data files
+data/*.bak
+data/*_draft.json
+data/*_full.json
+data/word_bank_private.json
+
+# Output from the private kinyarwanda-nlp-toolkit (if symlinked or copied locally)
+toolkit/
+training_data/

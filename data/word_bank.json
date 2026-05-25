@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "name": "Mukosozi Word Bank",
+    "version": "0.1.0",
+    "language": "Kinyarwanda",
+    "iso_code": "rw",
+    "creator": "Christophe Mumaragishyika",
+    "created": "2026-05-22",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "description": "A structured linguistic knowledge base for Kinyarwanda: grammar rules, lexical exceptions, and neologisms. Each entry is reviewed by a native speaker and traceable to a documented rule ID.",
+    "contact": "mukosozi.rw@gmail.com",
+    "repository": "https://github.com/mukosozi/mukosozi"
+  },
+
+  "grammar_rules": [
+    {
+      "id": "QM-001",
+      "name": "Quotative Marker Agreement",
+      "category": "quotative_markers",
+      "description": "The quotative marker (the particle introducing direct or reported speech) must agree with the subject prefix of the reporting verb.",
+      "rule": "Subject prefix determines the quotative marker: n- (1sg) -> nti; u- (2sg) -> uti; a- (3sg) -> ati; tu- (1pl) -> tuti; mu- (2pl) -> muti; ba- (3pl) -> bati.",
+      "examples": {
+        "correct": [
+          {
+            "text": "baravuga bati \"ndagukunda\"",
+            "translation": "they say \"I love you\"",
+            "gloss": "ba-ra-vug-a ba-ti"
+          },
+          {
+            "text": "turavuga tuti \"tuzaza ejo\"",
+            "translation": "we say \"we will come tomorrow\"",
+            "gloss": "tu-ra-vug-a tu-ti"
+          },
+          {
+            "text": "aravuga ati \"sinzi\"",
+            "translation": "he/she says \"I don't know\"",
+            "gloss": "a-ra-vug-a a-ti"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "baravuga ati \"ndagukunda\"",
+            "error": "Singular quotative ('ati') used with plural subject prefix ('ba-')"
+          },
+          {
+            "text": "turavuga ati \"tuzaza ejo\"",
+            "error": "Singular quotative ('ati') used with plural subject prefix ('tu-')"
+          }
+        ]
+      },
+      "contributor": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-01-01"
+    }
+  ],
+
+  "lexical_exceptions": [
+    {
+      "id": "LE-001",
+      "word": "ubukwe",
+      "category": "uncountable_nouns",
+      "pos": "noun",
+      "noun_class": "14 (ubu-)",
+      "definition": "wedding; marriage ceremony",
+      "rule": "This noun has no plural form. The form *amakwe (formed by analogy with class 6 ama-) is not valid in standard Kinyarwanda.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ubukwe bwabo bwari bwiza",
+            "translation": "Their wedding was beautiful"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Amakwe yabo yari meza",
+            "error": "ubukwe has no plural form; should remain as 'ubukwe bwabo bwari bwiza'"
+          }
+        ]
+      },
+      "contributor": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-01-01"
+    },
+    {
+      "id": "LE-002",
+      "word": "Kabgayi",
+      "category": "proper_nouns",
+      "pos": "proper_noun",
+      "type": "place",
+      "location": "Southern Province, Rwanda",
+      "definition": "A historic town in the Southern Province of Rwanda, known for its Catholic mission established in 1906.",
+      "rule": "Unique historical spelling preserving the 'bg' consonant cluster. Should not be 'corrected' to phonetic variants such as *kabwayi or *Kagwayi.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nagiye i Kabgayi",
+            "translation": "I went to Kabgayi"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Nagiye i kabwayi",
+            "error": "Incorrect spelling; the standard form preserves 'bg' as in 'Kabgayi'"
+          },
+          {
+            "text": "Nagiye i Kagwayi",
+            "error": "Incorrect spelling; the standard form is 'Kabgayi'"
+          }
+        ]
+      },
+      "contributor": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-01-01"
+    },
+    {
+      "id": "SP-001",
+      "word": "ni ukuri",
+      "category": "spacing_rules",
+      "pos": "phrase",
+      "definition": "it is true; truly; indeed",
+      "rule": "Must be written as two words when 'ni' functions as the copula ('it is'). The contraction 'n'ukuri' is valid only when 'n'' represents 'na' (and / with), not when it represents the copula 'ni'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni ukuri ko yaje",
+            "translation": "It is true that he came",
+            "note": "'ni' is the copula 'it is' — must be separated from 'ukuri'"
+          },
+          {
+            "text": "Uwo muntu n'ukuri bwe",
+            "translation": "That person and his truth",
+            "note": "'n'' is a contraction of 'na' (and) — contraction is valid here"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Nukuri ko yaje",
+            "error": "Missing space — the copula 'ni' must be separated from 'ukuri'"
+          },
+          {
+            "text": "N'ukuri ko yaje",
+            "error": "Wrong contraction — the copula 'ni' should not be contracted to 'n'' here"
+          }
+        ]
+      },
+      "contributor": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-01-01"
+    }
+  ],
+
+  "neologisms": [
+    {
+      "id": "NEO-001",
+      "proposed_word": "ikoranabuhanga",
+      "definition": "technology",
+      "category": "modern_concepts",
+      "morphological_analysis": "i-koran-a-bu-hanga (class 7 'thing' + 'work together with' + class 14 'abstract' + 'create/innovate')",
+      "rationale": "Compound describing 'the thing of working together with creation/innovation' — captures both tools and the activity of building or innovating.",
+      "alternatives_considered": [
+        {
+          "form": "tekinoloji",
+          "type": "loanword",
+          "source": "English/French"
+        }
+      ],
+      "status": "widely_accepted",
+      "notes": "Adopted by the Rwanda Education Board (REB) and used in official terminology and curricula.",
+      "contributor": "Christophe Mumaragishyika",
+      "added_date": "2026-01-01"
+    }
+  ],
+
+  "schema": {
+    "description": "This file documents only a curated subset of the maintainer's full linguistic knowledge base. Additional rules, exceptions, and neologisms are added over time as they are verified.",
+    "entry_categories": [
+      "grammar_rules",
+      "lexical_exceptions",
+      "neologisms"
+    ],
+    "status_values": [
+      "verified",
+      "proposed",
+      "under_review",
+      "widely_accepted",
+      "deprecated"
+    ]
+  }
+}

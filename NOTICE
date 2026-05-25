@@ -1,0 +1,110 @@
+================================================================================
+Mukosozi — Kinyarwanda grammar correction tool
+Copyright (C) 2026 Christophe Mumaragishyika
+All rights reserved except where licensed otherwise below.
+================================================================================
+
+This project uses DUAL LICENSING. Different parts of this repository are
+governed by different licenses depending on whether the content is source
+code or linguistic data.
+
+
+--------------------------------------------------------------------------------
+1. SOURCE CODE
+--------------------------------------------------------------------------------
+
+All source code in this repository, including but not limited to:
+
+    - mukosozi.html (and any future scripts, modules, frontend, or backend code)
+    - Any build scripts, configuration files, or development tooling
+
+is licensed under the GNU Affero General Public License, version 3.0
+(AGPL-3.0). The full license text is in the LICENSE file at the root of
+this repository.
+
+Summary:
+    You may use, modify, and distribute this code under AGPL terms,
+    including the requirement to make source code available for any
+    network-accessible derivative work (the "Affero" clause).
+
+
+--------------------------------------------------------------------------------
+2. LINGUISTIC DATA
+--------------------------------------------------------------------------------
+
+All linguistic data in this repository, including but not limited to:
+
+    - data/word_bank.json
+    - Documented grammar rules, lexical exceptions, and neologisms
+    - Any future structured linguistic datasets within this repository
+
+is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International License (CC BY-NC-SA 4.0). The full license text is in
+the LICENSE-DATA file at the root of this repository.
+
+Summary:
+    You may use, share, and adapt this data for research, education, and
+    other non-commercial purposes, provided you give appropriate credit
+    and share derivative works under the same license. Commercial use
+    requires separate written permission from the maintainer.
+
+
+--------------------------------------------------------------------------------
+3. NEOLOGISMS
+--------------------------------------------------------------------------------
+
+Original Kinyarwanda neologisms (newly coined words for modern concepts)
+that originate with this project are considered original linguistic
+creations. While they are distributed under the CC BY-NC-SA 4.0 license,
+the maintainer reserves the right to manage their authoritative form,
+spelling, and review process. Use of these neologisms must respect their
+documented canonical form.
+
+
+--------------------------------------------------------------------------------
+4. COMMERCIAL LICENSING
+--------------------------------------------------------------------------------
+
+For commercial use of either the source code (in ways incompatible with
+AGPL-3.0) or the linguistic data, please contact the maintainer to
+discuss commercial licensing terms:
+
+    Maintainer: Christophe Mumaragishyika
+    Contact:    mukosozi.rw@gmail.com
+
+
+--------------------------------------------------------------------------------
+5. CONTRIBUTIONS
+--------------------------------------------------------------------------------
+
+By submitting contributions to this project (via pull request, issue,
+discussion, or other means), contributors agree that:
+
+    a. Their contributions are original work or properly attributed.
+    b. Their contributions will be licensed under the same terms as this
+       project: AGPL-3.0 for code, CC BY-NC-SA 4.0 for data.
+    c. The maintainer may edit, reorganize, or decline contributions to
+       keep the project linguistically accurate and architecturally
+       coherent.
+    d. The maintainer may relicense contributions if necessary for the
+       long-term sustainability of the project, provided that the new
+       license is consistent with the original open-source spirit of
+       this work.
+
+
+--------------------------------------------------------------------------------
+6. ATTRIBUTION
+--------------------------------------------------------------------------------
+
+When using or referencing this project, please cite:
+
+    Mumaragishyika, C. (2026). Mukosozi: A Kinyarwanda grammar correction
+    tool (v0.1.0). https://github.com/mukosozi/mukosozi
+
+
+================================================================================
+For the full text of each license, see:
+    - LICENSE          (AGPL-3.0, source code)
+    - LICENSE-DATA     (CC BY-NC-SA 4.0, linguistic data)
+    - CONTRIBUTING.md  (contribution guidelines)
+================================================================================
