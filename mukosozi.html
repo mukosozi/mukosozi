@@ -141,23 +141,50 @@
             align-items: center;
             justify-content: space-between;
             background: var(--bg-tertiary);
+            gap: 0.75rem;
+            flex-wrap: wrap;
         }
 
         .panel-title {
             font-weight: 600;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             color: var(--text-secondary);
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            line-height: 1.4;
         }
 
-        .panel-badge {
+        /* Panel header: label + numeric badge (label first per Kinyarwanda order) */
+        .panel-info {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-shrink: 0;
+            white-space: nowrap;
+        }
+
+        .panel-info-label {
             font-size: 0.75rem;
-            padding: 0.25rem 0.6rem;
-            border-radius: 20px;
-            background: var(--bg-primary);
             color: var(--text-muted);
             font-family: 'JetBrains Mono', monospace;
+            text-transform: lowercase;
+            white-space: nowrap;
+        }
+
+        .count-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 1.75rem;
+            height: 1.75rem;
+            padding: 0 0.5rem;
+            border-radius: 999px;
+            border: 1.5px solid var(--accent-gold);
+            background: rgba(212, 168, 83, 0.10);
+            color: var(--accent-gold);
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 700;
+            font-size: 0.85rem;
         }
 
         textarea {
@@ -215,6 +242,81 @@
             border-bottom: 2px dotted var(--accent-blue);
             padding: 0.1em 0.2em;
             border-radius: 3px;
+        }
+
+        /* Corrections list (shown below corrected text) */
+        .corrections-list {
+            margin-top: 1.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .corrections-list-title {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+
+        .correction-item {
+            padding: 0.6rem 0;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.9rem;
+        }
+
+        .correction-item:last-child {
+            border-bottom: none;
+        }
+
+        .correction-change {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+        }
+
+        .correction-original {
+            color: var(--accent-terracotta);
+            text-decoration: line-through;
+        }
+
+        .correction-arrow {
+            color: var(--text-muted);
+        }
+
+        .correction-fixed {
+            color: var(--accent-green);
+        }
+
+        /* Capitalization corrections use blue (matching legend) */
+        .correction-item-capitalization .correction-fixed {
+            color: var(--accent-blue);
+        }
+
+        .correction-item-capitalization .correction-rule-id {
+            color: var(--accent-blue);
+        }
+
+        .correction-message {
+            margin-top: 0.3rem;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            line-height: 1.5;
+        }
+
+        .correction-rule-id {
+            display: inline-block;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            background: var(--bg-tertiary);
+            color: var(--accent-gold);
+            padding: 0.1rem 0.4rem;
+            border-radius: 4px;
+            margin-right: 0.4rem;
         }
 
         /* Action Button */
@@ -279,13 +381,26 @@
 
         .stat-item {
             text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
         }
 
-        .stat-value {
-            font-size: 1.5rem;
-            font-weight: 700;
+        .stat-value-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 2.5rem;
+            height: 2.5rem;
+            padding: 0 0.75rem;
+            border-radius: 999px;
+            border: 2px solid var(--accent-gold);
+            background: rgba(212, 168, 83, 0.08);
             color: var(--accent-gold);
             font-family: 'JetBrains Mono', monospace;
+            font-weight: 700;
+            font-size: 1.15rem;
         }
 
         .stat-label {
@@ -418,7 +533,7 @@
                 <div class="logo-icon">✍️</div>
                 <h1>Mukosozi</h1>
             </div>
-            <p class="tagline">Kinyarwanda Text Corrector — Gusuzuma no gukosora inyandiko</p>
+            <p class="tagline">Kinyarwanda Text Corrector · Gusuzuma no gukosora inyandiko z'ikinyarwanda</p>
         </header>
 
         <div class="legend">
@@ -440,23 +555,29 @@
             <div class="editor-panel">
                 <div class="panel-header">
                     <span class="panel-title">Inyandiko yawe / Your Text</span>
-                    <span class="panel-badge" id="char-count">0 amagambo</span>
+                    <div class="panel-info">
+                        <span class="panel-info-label">amagambo</span>
+                        <span class="count-badge" id="char-count">0</span>
+                    </div>
                 </div>
                 <textarea 
                     id="input-text" 
                     placeholder="Andika cyangwa ushyireho inyandiko yawe hano...
 
-Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye igihugu cyacu."
+Urugero: muraho neza mwese. ndashaka kubabwira inkuru nziza ku gihugu cyacu."
                 ></textarea>
             </div>
 
             <div class="editor-panel">
                 <div class="panel-header">
-                    <span class="panel-title">Inyandiko yatosowe / Corrected</span>
-                    <span class="panel-badge" id="correction-count">0 amakosa</span>
+                    <span class="panel-title">Inyandiko yakosowe / Corrected Text</span>
+                    <div class="panel-info">
+                        <span class="panel-info-label">amakosa yakosowe</span>
+                        <span class="count-badge" id="correction-count">0</span>
+                    </div>
                 </div>
                 <div class="output-area" id="output-area">
-                    <span class="output-placeholder">Ibyavuye mu gusuzuma bizagaragara hano...</span>
+                    <span class="output-placeholder">Inyandiko ikosoye igaragara hano...</span>
                 </div>
                 <div class="loading" id="loading">
                     <div class="spinner"></div>
@@ -476,34 +597,35 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
             </button>
             <button class="btn btn-secondary" id="copy-btn">
                 <span>📋</span>
-                Gukopa / Copy
+                Koporora / Copy
             </button>
         </div>
 
         <div class="stats-bar">
             <div class="stat-item">
-                <div class="stat-value" id="stat-words">0</div>
                 <div class="stat-label">Amagambo</div>
+                <div class="stat-value-badge" id="stat-words">0</div>
             </div>
             <div class="stat-item">
-                <div class="stat-value" id="stat-sentences">0</div>
                 <div class="stat-label">Interuro</div>
+                <div class="stat-value-badge" id="stat-sentences">0</div>
             </div>
             <div class="stat-item">
-                <div class="stat-value" id="stat-corrections">0</div>
-                <div class="stat-label">Amakosora</div>
+                <div class="stat-label">Amakosa yakosowe</div>
+                <div class="stat-value-badge" id="stat-corrections">0</div>
             </div>
         </div>
 
         <footer>
-            <p>Mukosozi — Kubakwa na <a href="#">Khris</a> ku bw'Ikinyarwanda</p>
-            <p style="margin-top: 0.5rem; font-size: 0.8rem;">Version 0.1.0 — Rule-based corrections</p>
+            <p>Umushinga w'ubushakashatsi wa <a href="#">"Anda</a> hamwe na <a href="#">KhrisEducates"</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.8rem;">Version 0.1.0 · Rule-based corrections</p>
         </footer>
     </div>
 
     <script>
         // =====================================================
         // MUKOSOZI - Kinyarwanda Text Correction Engine
+        // Version 0.1.0
         // =====================================================
 
         // Configuration
@@ -513,6 +635,7 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 'Rwanda', 'Kigali', 'Butare', 'Gisenyi', 'Ruhengeri', 'Cyangugu',
                 'Kibungo', 'Gitarama', 'Byumba', 'Nyanza', 'Muhanga', 'Huye',
                 'Musanze', 'Rubavu', 'Rusizi', 'Karongi', 'Ngoma', 'Kayonza',
+                'Kabgayi',
                 'Umwami', 'Imana', 'Yezu', 'Kristu', 'Pawulo', 'Petero',
                 'Afrika', 'Burundi', 'Uganda', 'Tanzaniya', 'Kenya',
                 // Days and months
@@ -526,11 +649,23 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
             // Common greetings that should be capitalized at start
             greetings: ['muraho', 'mwaramutse', 'mwiriwe', 'amakuru'],
 
+            // Subject prefix → quotative marker mapping (for QM-001)
+            quotativeMarkers: {
+                'n':  'nti',    // 1sg
+                'u':  'uti',    // 2sg
+                'tu': 'tuti',   // 1pl
+                'mu': 'muti',   // 2pl
+                'ba': 'bati'    // 3pl
+                // 3sg (a-) takes 'ati' — already correct
+            },
+
+            // Verb stems that commonly precede a quotative marker
+            // (verb of speech/communication)
+            reportingVerbStems: ['vug', 'bwir', 'subiz', 'sab'],
+
             // Punctuation rules
             punctuationRules: {
-                // Space before these: none; Space after: required
                 afterOnly: ['.', ',', '!', '?', ':', ';'],
-                // Paired punctuation
                 paired: {
                     '(': ')',
                     '"': '"',
@@ -554,11 +689,19 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
 
                 let corrected = text;
 
-                // Apply corrections in order
+                // Order matters:
+                // 1. Punctuation cleanup (so word boundaries are clean)
+                // 2. Generic spacing cleanup
+                // 3. Lexical exceptions (word-level replacements)
+                // 4. Quotative marker agreement (verb-level corrections)
+                // 5. Capitalization (catches sentence starts after replacements)
+                // 6. Proper noun capitalization (final normalization)
                 corrected = this.fixPunctuation(corrected);
+                corrected = this.fixSpacing(corrected);
+                corrected = this.fixLexicalExceptions(corrected);
+                corrected = this.fixQuotativeMarkers(corrected);
                 corrected = this.fixCapitalization(corrected);
                 corrected = this.fixProperNouns(corrected);
-                corrected = this.fixSpacing(corrected);
 
                 return {
                     corrected: corrected,
@@ -566,14 +709,22 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 };
             }
 
-            // Fix punctuation spacing
+            // ---------------------------------------------------
+            // Punctuation: spacing around .,!?:; and duplicate removal
+            // ---------------------------------------------------
             fixPunctuation(text) {
                 let result = text;
 
                 // Remove space before punctuation
                 const beforePunctuation = /\s+([.,!?:;])/g;
                 result = result.replace(beforePunctuation, (match, punct) => {
-                    this.addCorrection('punctuation', match, punct, 'Remove space before punctuation');
+                    this.addCorrection({
+                        type: 'punctuation',
+                        ruleId: null,
+                        original: match,
+                        corrected: punct,
+                        message: 'Remove space before punctuation'
+                    });
                     return punct;
                 });
 
@@ -581,7 +732,13 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 const afterPunctuation = /([.,!?:;])([^\s\d.,!?:;\n])/g;
                 result = result.replace(afterPunctuation, (match, punct, next) => {
                     const fixed = punct + ' ' + next;
-                    this.addCorrection('punctuation', match, fixed, 'Add space after punctuation');
+                    this.addCorrection({
+                        type: 'punctuation',
+                        ruleId: null,
+                        original: match,
+                        corrected: fixed,
+                        message: 'Add space after punctuation'
+                    });
                     return fixed;
                 });
 
@@ -590,7 +747,13 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 result = result.replace(multiplePunctuation, (match) => {
                     const fixed = match[0];
                     if (match !== fixed) {
-                        this.addCorrection('punctuation', match, fixed, 'Remove duplicate punctuation');
+                        this.addCorrection({
+                            type: 'punctuation',
+                            ruleId: null,
+                            original: match,
+                            corrected: fixed,
+                            message: 'Remove duplicate punctuation'
+                        });
                     }
                     return fixed;
                 });
@@ -598,70 +761,36 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 return result;
             }
 
-            // Fix capitalization
-            fixCapitalization(text) {
-                let result = text;
-
-                // Capitalize first letter of text
-                if (result.length > 0 && result[0] !== result[0].toUpperCase()) {
-                    const firstChar = result[0].toUpperCase();
-                    this.addCorrection('capitalization', result[0], firstChar, 'Capitalize first letter');
-                    result = firstChar + result.slice(1);
-                }
-
-                // Capitalize after sentence-ending punctuation
-                const sentenceEnd = /([.!?])\s+([a-z])/g;
-                result = result.replace(sentenceEnd, (match, punct, letter) => {
-                    const fixed = punct + ' ' + letter.toUpperCase();
-                    this.addCorrection('capitalization', letter, letter.toUpperCase(), 'Capitalize after sentence end');
-                    return fixed;
-                });
-
-                // Capitalize after newlines
-                const afterNewline = /(\n\s*)([a-z])/g;
-                result = result.replace(afterNewline, (match, space, letter) => {
-                    const fixed = space + letter.toUpperCase();
-                    this.addCorrection('capitalization', letter, letter.toUpperCase(), 'Capitalize after new line');
-                    return fixed;
-                });
-
-                return result;
-            }
-
-            // Fix proper noun capitalization
-            fixProperNouns(text) {
-                let result = text;
-
-                CONFIG.properNouns.forEach(noun => {
-                    const regex = new RegExp('\\b' + noun.toLowerCase() + '\\b', 'gi');
-                    result = result.replace(regex, (match) => {
-                        if (match !== noun) {
-                            this.addCorrection('proper_noun', match, noun, 'Capitalize proper noun: ' + noun);
-                        }
-                        return noun;
-                    });
-                });
-
-                return result;
-            }
-
-            // Fix general spacing issues
+            // ---------------------------------------------------
+            // General spacing cleanup
+            // ---------------------------------------------------
             fixSpacing(text) {
                 let result = text;
 
                 // Fix multiple spaces
                 const multipleSpaces = /  +/g;
                 result = result.replace(multipleSpaces, (match) => {
-                    this.addCorrection('spacing', match, ' ', 'Remove extra spaces');
+                    this.addCorrection({
+                        type: 'spacing',
+                        ruleId: null,
+                        original: match,
+                        corrected: ' ',
+                        message: 'Remove extra spaces'
+                    });
                     return ' ';
                 });
 
-                // Fix space at beginning of lines
+                // Fix space at beginning of lines (but keep intentional 4+ space indent)
                 const lineStartSpace = /^[ \t]+/gm;
                 result = result.replace(lineStartSpace, (match) => {
-                    // Keep intentional indentation (4+ spaces) but remove accidental leading spaces
                     if (match.length < 4) {
-                        this.addCorrection('spacing', match, '', 'Remove leading space');
+                        this.addCorrection({
+                            type: 'spacing',
+                            ruleId: null,
+                            original: match,
+                            corrected: '',
+                            message: 'Remove leading space'
+                        });
                         return '';
                     }
                     return match;
@@ -670,14 +799,242 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 return result;
             }
 
-            addCorrection(type, original, corrected, message) {
-                if (original !== corrected) {
-                    this.corrections.push({
-                        type,
-                        original,
-                        corrected,
-                        message
+            // ---------------------------------------------------
+            // Lexical exceptions (SP-001, LE-001, LE-002)
+            // ---------------------------------------------------
+            fixLexicalExceptions(text) {
+                let result = text;
+
+                // SP-001: "nukuri" / "Nukuri" → "ni ukuri" / "Ni ukuri"
+                // The copula "ni" + noun "ukuri" must be two words.
+                // Note: "n'ukuri" (with apostrophe) is left alone — it can be
+                // a valid contraction of "na ukuri" (= "and truth"). Word
+                // boundary \b stops the regex from matching across the apostrophe.
+                const nukuriPattern = /\b([Nn])ukuri\b/g;
+                result = result.replace(nukuriPattern, (match, firstChar) => {
+                    const fixed = (firstChar === 'N' ? 'Ni' : 'ni') + ' ukuri';
+                    this.addCorrection({
+                        type: 'spacing',
+                        ruleId: 'SP-001',
+                        original: match,
+                        corrected: fixed,
+                        message: "'nukuri' is incorrect. The copula 'ni' (it is) must be separated from the noun 'ukuri' (truth)."
                     });
+                    return fixed;
+                });
+
+                // LE-002: Kabgayi spelling variants
+                // Canonical: "Kabgayi" (preserves the unique 'bg' cluster).
+                // Errors: kabwayi, Kabwayi, kagwayi, Kagwayi (phonetic guesses).
+                const kabgayiVariants = /\b[Kk]a[bg]wayi\b/g;
+                result = result.replace(kabgayiVariants, (match) => {
+                    const fixed = 'Kabgayi';
+                    if (match !== fixed) {
+                        this.addCorrection({
+                            type: 'proper_noun',
+                            ruleId: 'LE-002',
+                            original: match,
+                            corrected: fixed,
+                            message: "'Kabgayi' is the canonical spelling of this place name (Southern Province). The 'bg' cluster is a historical feature preserved in the official orthography."
+                        });
+                    }
+                    return fixed;
+                });
+
+                // LE-001: "amakwe" → "ubukwe" (uncountable noun, no plural)
+                // The noun "ubukwe" (wedding) is class 14 and has no plural.
+                // The form "amakwe" is a false plural formed by analogy with class 6.
+                // Note: this replaces the noun, but the surrounding agreement words
+                // (yabo/yari/meza) may also be wrong — the user should check those.
+                const amakwePattern = /\b([Aa])makwe\b/g;
+                result = result.replace(amakwePattern, (match, firstChar) => {
+                    const fixed = (firstChar === 'A' ? 'Ubukwe' : 'ubukwe');
+                    this.addCorrection({
+                        type: 'lexical_exception',
+                        ruleId: 'LE-001',
+                        original: match,
+                        corrected: fixed,
+                        message: "'amakwe' is incorrect. 'ubukwe' (wedding, class 14) has no plural form. NOTE: surrounding agreement words may also need to change (e.g. yabo becomes bwabo, yari becomes bwari, meza becomes bwiza)."
+                    });
+                    return fixed;
+                });
+
+                return result;
+            }
+
+            // ---------------------------------------------------
+            // Quotative marker agreement (QM-001)
+            // ---------------------------------------------------
+            // The quotative marker (introducing reported speech) must agree
+            // with the subject prefix of the reporting verb:
+            //   n-  (1sg) → nti
+            //   u-  (2sg) → uti
+            //   a-  (3sg) → ati   ← already correct
+            //   tu- (1pl) → tuti
+            //   mu- (2pl) → muti
+            //   ba- (3pl) → bati
+            //
+            // Common error: using 'ati' (3sg) regardless of subject.
+            // We match: <subject-prefix>(continuous marker -ra-)?<verb-stem><FV> ati
+            fixQuotativeMarkers(text) {
+                let result = text;
+
+                const verbStems = CONFIG.reportingVerbStems.join('|');
+
+                // 3pl: ba- → bati
+                // Matches: bavuga, baravuga, bavuze, babwiye, baravuze, baravuga, baravuze, etc.
+                // ALSO: bara- (3pl present continuous), ba-vug-e (past)
+                const ba_pattern = new RegExp(
+                    `\\b(b[a](?:ra|raa)?(?:${verbStems})[aei])\\s+ati\\b`,
+                    'gi'
+                );
+                result = result.replace(ba_pattern, (match, verb) => {
+                    const fixed = verb + ' bati';
+                    this.addCorrection({
+                        type: 'quotative_marker',
+                        ruleId: 'QM-001',
+                        original: match,
+                        corrected: fixed,
+                        message: "Quotative agreement: the 3pl subject prefix 'ba-' requires 'bati' (not 'ati'). 'ati' is only used with 3sg ('a-')."
+                    });
+                    return fixed;
+                });
+
+                // 1pl: tu- → tuti
+                const tu_pattern = new RegExp(
+                    `\\b(tu(?:ra)?(?:${verbStems})[aei])\\s+ati\\b`,
+                    'gi'
+                );
+                result = result.replace(tu_pattern, (match, verb) => {
+                    const fixed = verb + ' tuti';
+                    this.addCorrection({
+                        type: 'quotative_marker',
+                        ruleId: 'QM-001',
+                        original: match,
+                        corrected: fixed,
+                        message: "Quotative agreement: the 1pl subject prefix 'tu-' requires 'tuti' (not 'ati')."
+                    });
+                    return fixed;
+                });
+
+                // 2pl: mu- → muti
+                const mu_pattern = new RegExp(
+                    `\\b(mu(?:ra)?(?:${verbStems})[aei])\\s+ati\\b`,
+                    'gi'
+                );
+                result = result.replace(mu_pattern, (match, verb) => {
+                    const fixed = verb + ' muti';
+                    this.addCorrection({
+                        type: 'quotative_marker',
+                        ruleId: 'QM-001',
+                        original: match,
+                        corrected: fixed,
+                        message: "Quotative agreement: the 2pl subject prefix 'mu-' requires 'muti' (not 'ati')."
+                    });
+                    return fixed;
+                });
+
+                // 2sg: u- → uti
+                const u_pattern = new RegExp(
+                    `\\b(u(?:ra)?(?:${verbStems})[aei])\\s+ati\\b`,
+                    'gi'
+                );
+                result = result.replace(u_pattern, (match, verb) => {
+                    const fixed = verb + ' uti';
+                    this.addCorrection({
+                        type: 'quotative_marker',
+                        ruleId: 'QM-001',
+                        original: match,
+                        corrected: fixed,
+                        message: "Quotative agreement: the 2sg subject prefix 'u-' requires 'uti' (not 'ati')."
+                    });
+                    return fixed;
+                });
+
+                return result;
+            }
+
+            // ---------------------------------------------------
+            // Capitalization (sentence boundaries, line starts)
+            // ---------------------------------------------------
+            fixCapitalization(text) {
+                let result = text;
+
+                // Capitalize first letter of text
+                if (result.length > 0 && /[a-z]/.test(result[0])) {
+                    const firstChar = result[0].toUpperCase();
+                    this.addCorrection({
+                        type: 'capitalization',
+                        ruleId: null,
+                        original: result[0],
+                        corrected: firstChar,
+                        message: 'Capitalize first letter of text'
+                    });
+                    result = firstChar + result.slice(1);
+                }
+
+                // Capitalize after sentence-ending punctuation
+                const sentenceEnd = /([.!?])\s+([a-z])/g;
+                result = result.replace(sentenceEnd, (match, punct, letter) => {
+                    const fixed = punct + ' ' + letter.toUpperCase();
+                    this.addCorrection({
+                        type: 'capitalization',
+                        ruleId: null,
+                        original: letter,
+                        corrected: letter.toUpperCase(),
+                        message: 'Capitalize first letter of sentence'
+                    });
+                    return fixed;
+                });
+
+                // Capitalize after newlines
+                const afterNewline = /(\n\s*)([a-z])/g;
+                result = result.replace(afterNewline, (match, space, letter) => {
+                    const fixed = space + letter.toUpperCase();
+                    this.addCorrection({
+                        type: 'capitalization',
+                        ruleId: null,
+                        original: letter,
+                        corrected: letter.toUpperCase(),
+                        message: 'Capitalize first letter after newline'
+                    });
+                    return fixed;
+                });
+
+                return result;
+            }
+
+            // ---------------------------------------------------
+            // Proper noun capitalization
+            // ---------------------------------------------------
+            fixProperNouns(text) {
+                let result = text;
+
+                CONFIG.properNouns.forEach(noun => {
+                    const regex = new RegExp('\\b' + noun.toLowerCase() + '\\b', 'gi');
+                    result = result.replace(regex, (match) => {
+                        if (match !== noun) {
+                            this.addCorrection({
+                                type: 'proper_noun',
+                                ruleId: null,
+                                original: match,
+                                corrected: noun,
+                                message: `Capitalize proper noun: '${noun}'`
+                            });
+                        }
+                        return noun;
+                    });
+                });
+
+                return result;
+            }
+
+            // ---------------------------------------------------
+            // Helper: record a correction
+            // ---------------------------------------------------
+            addCorrection(correction) {
+                if (correction.original !== correction.corrected) {
+                    this.corrections.push(correction);
                 }
             }
         }
@@ -704,16 +1061,9 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
             }
 
             bindEvents() {
-                // Input changes
                 this.inputEl.addEventListener('input', () => this.updateCharCount());
-
-                // Correct button
                 document.getElementById('correct-btn').addEventListener('click', () => this.correct());
-
-                // Clear button
                 document.getElementById('clear-btn').addEventListener('click', () => this.clear());
-
-                // Copy button
                 document.getElementById('copy-btn').addEventListener('click', () => this.copy());
 
                 // Keyboard shortcut (Ctrl/Cmd + Enter to correct)
@@ -728,7 +1078,7 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
             updateCharCount() {
                 const text = this.inputEl.value;
                 const words = text.trim() ? text.trim().split(/\s+/).length : 0;
-                this.charCountEl.textContent = `${words} amagambo`;
+                this.charCountEl.textContent = words;
             }
 
             async correct() {
@@ -738,22 +1088,18 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                     return;
                 }
 
-                // Show loading
                 this.loadingEl.classList.add('active');
                 this.outputEl.style.display = 'none';
 
-                // Simulate slight delay for UX (remove in production with real API)
+                // Small delay for UX feedback
                 await new Promise(resolve => setTimeout(resolve, 300));
 
-                // Process
                 const result = this.engine.analyze(text);
                 this.lastResult = result;
 
-                // Update UI
                 this.displayResult(result);
                 this.updateStats(text, result);
 
-                // Hide loading
                 this.loadingEl.classList.remove('active');
                 this.outputEl.style.display = 'block';
             }
@@ -767,12 +1113,41 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                         <div style="margin-top: 1rem;">${this.escapeHtml(result.corrected)}</div>
                     `;
                 } else {
-                    // For now, just show the corrected text
-                    // In a more advanced version, we'd highlight the corrections inline
-                    this.outputEl.innerHTML = this.escapeHtml(result.corrected);
+                    // Show the corrected text first
+                    let html = `<div>${this.escapeHtml(result.corrected)}</div>`;
+
+                    // Then a list of what was corrected and why
+                    html += `
+                        <div class="corrections-list">
+                            <div class="corrections-list-title">
+                                Amakosora yakosowe / Corrections applied (${result.corrections.length})
+                            </div>
+                    `;
+
+                    for (const correction of result.corrections) {
+                        const ruleBadge = correction.ruleId
+                            ? `<span class="correction-rule-id">${this.escapeHtml(correction.ruleId)}</span>`
+                            : '';
+                        const typeClass = `correction-item-${correction.type}`;
+                        html += `
+                            <div class="correction-item ${typeClass}">
+                                <div class="correction-change">
+                                    <span class="correction-original">${this.escapeHtml(correction.original)}</span>
+                                    <span class="correction-arrow">→</span>
+                                    <span class="correction-fixed">${this.escapeHtml(correction.corrected)}</span>
+                                </div>
+                                <div class="correction-message">
+                                    ${ruleBadge}${this.escapeHtml(correction.message)}
+                                </div>
+                            </div>
+                        `;
+                    }
+
+                    html += '</div>';
+                    this.outputEl.innerHTML = html;
                 }
 
-                this.correctionCountEl.textContent = `${result.corrections.length} amakosa`;
+                this.correctionCountEl.textContent = result.corrections.length;
             }
 
             updateStats(originalText, result) {
@@ -792,7 +1167,7 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
                 this.statWordsEl.textContent = '0';
                 this.statSentencesEl.textContent = '0';
                 this.statCorrectionsEl.textContent = '0';
-                this.correctionCountEl.textContent = '0 amakosa';
+                this.correctionCountEl.textContent = '0';
             }
 
             async copy() {
@@ -801,10 +1176,9 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
 
                 try {
                     await navigator.clipboard.writeText(textToCopy);
-                    // Brief visual feedback
                     const btn = document.getElementById('copy-btn');
                     const originalText = btn.innerHTML;
-                    btn.innerHTML = '<span>✓</span> Byakopowe!';
+                    btn.innerHTML = '<span>✓</span> Byakoporowe!';
                     setTimeout(() => {
                         btn.innerHTML = originalText;
                     }, 1500);
@@ -824,7 +1198,7 @@ Urugero: muraho neza mwiriwe mwese. ndashaka kubabwira inkuru nziza kubyerekeye 
             }
         }
 
-        // Initialize
+        // Initialize on DOM ready
         document.addEventListener('DOMContentLoaded', () => {
             new UIController();
         });

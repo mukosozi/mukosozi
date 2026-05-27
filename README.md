@@ -40,7 +40,31 @@ Type or paste Kinyarwanda text on the left; corrected text appears on the right.
 
 ## Screenshots
 
-*Coming soon — UI captures of the input/output panels and a worked correction example.*
+### Default state
+
+![Mukosozi default interface — bilingual labels, Imigongo-inspired dark UI](screenshots/01-default-state.png)
+
+The Mukosozi interface on first load. Bilingual labels in Kinyarwanda and English, dark theme with gold accents inspired by Imigongo geometric tradition, and a clear legend mapping correction types to colors.
+
+### Single correction example
+
+![A simple correction: nukuri becomes Ni ukuri](screenshots/02-single-correction.png)
+
+A one-word input — `nukuri` — triggers rule **SP-001**: the copula `ni` ("it is") must be written separately from the noun `ukuri` ("truth"). A capitalization fix is also applied (note the blue styling matching the legend). Each correction shows its rule ID and a bilingual explanation.
+
+### Multi-rule correction
+
+![Multi-rule correction example, top portion of corrections list](screenshots/03-multi-correction-top.png)
+
+![Multi-rule correction example, bottom of corrections list with stats and footer](screenshots/03-multi-correction-bottom.png)
+
+A more complex input — `baravuga ati "ndagukunda".nukuri ko yaje i kabwayi` — demonstrates six corrections across four distinct rule families:
+
+- **Punctuation spacing** — missing space after a period
+- **SP-001** — `nukuri` split into `ni ukuri`
+- **LE-002** — `kabwayi` normalized to the canonical orthography `Kabgayi`
+- **QM-001** — quotative marker agreement: 3rd-person plural subject `ba-` requires `bati` (not `ati`, which only agrees with 3rd-person singular `a-`)
+- **Capitalization** — sentence-initial and post-period capitalization
 
 ---
 
@@ -51,6 +75,7 @@ mukosozi/
 ├── mukosozi.html        # The web app (HTML + CSS + JS, single file)
 ├── data/
 │   └── word_bank.json   # Linguistic rules, exceptions, and neologisms
+├── screenshots/         # README screenshots
 ├── LICENSE              # AGPL-3.0 — governs source code
 ├── LICENSE-DATA         # CC BY-NC-SA 4.0 — governs linguistic data
 ├── NOTICE               # Copyright and dual-licensing summary
