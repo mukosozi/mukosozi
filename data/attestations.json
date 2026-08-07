@@ -4,7 +4,7 @@
     "description": "Evidence behind word-bank entries: each item is a dated, sourced observation with the contributor's English gloss. Receipts keep the text exactly as attested; reviewer rulings are bridged via notes. Terminal punctuation is preserved (writer's tone).",
     "license": "CC BY-NC-SA 4.0",
     "collection": "July 2026 correction corpus",
-    "collector": "Mukosozi Corpus Contributor 01 (name pending signed agreement)",
+    "collector": "Sarah Izabayo",
     "reviewer": "Christophe Mumaragishyika",
     "repository": "https://github.com/mukosozi/mukosozi",
     "created": "2026-08-07"

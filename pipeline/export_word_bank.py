@@ -43,7 +43,7 @@ from classify_pairs import load_collection, norm_ws
 TERMC = " .!?\u2026,;:"
 TODAY = datetime.date.today().isoformat()
 REVIEWER = "Christophe Mumaragishyika"
-COLLECTOR = "Mukosozi Corpus Contributor 01 (name pending signed agreement)"
+COLLECTOR = "Sarah Izabayo"
 
 VERDICTS = {"lexical exception", "grammar rule", "neologism",
             "generic-normalization", "duplicate", "skip"}
