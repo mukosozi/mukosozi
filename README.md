@@ -31,7 +31,7 @@ Mukosozi v0.1.0 is a single-file web application. No build step, no dependencies
 ```bash
 git clone https://github.com/mukosozi/mukosozi.git
 cd mukosozi
-open mukosozi.html       # macOS — or just double-click the file
+open index.html       # macOS — or just double-click the file
 ```
 
 Type or paste Kinyarwanda text on the left; corrected text appears on the right.
@@ -72,7 +72,7 @@ A more complex input — `baravuga ati "ndagukunda".nukuri ko yaje i kabwayi` �
 
 ```
 mukosozi/
-├── mukosozi.html        # The web app (HTML + CSS + JS, single file)
+├── index.html           # The web app (HTML + CSS + JS, single file)
 ├── data/
 │   └── word_bank.json   # Linguistic rules, exceptions, and neologisms
 ├── screenshots/         # README screenshots
