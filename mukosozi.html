@@ -625,14 +625,15 @@ Urugero: muraho neza mwese. ndashaka kubabwira inkuru nziza ku gihugu cyacu."
 
         <footer>
             <p>Umushinga w'ubushakashatsi wa <a href="#">"Anda</a> hamwe na <a href="#">KhrisEducates"</a></p>
-            <p style="margin-top: 0.5rem; font-size: 0.8rem;">Version 0.1.0 · Rule-based corrections</p>
+            <p style="margin-top: 0.5rem; font-size: 0.8rem;"><span id="version-line">Version 0.2.0 · Rule-based corrections</span></p>
         </footer>
     </div>
 
+    <script src="data/word_bank.js"></script>
     <script>
         // =====================================================
         // MUKOSOZI - Kinyarwanda Text Correction Engine
-        // Version 0.1.0
+        // Version 0.2.0 — adds the word-bank loader (data/word_bank.js)
         // =====================================================
 
         // Configuration
@@ -688,6 +689,7 @@ Urugero: muraho neza mwese. ndashaka kubabwira inkuru nziza ku gihugu cyacu."
         class CorrectionEngine {
             constructor() {
                 this.corrections = [];
+                this.buildBankRules();
             }
 
             analyze(text) {
@@ -706,6 +708,7 @@ Urugero: muraho neza mwese. ndashaka kubabwira inkuru nziza ku gihugu cyacu."
                 corrected = this.fixPunctuation(corrected);
                 corrected = this.fixSpacing(corrected);
                 corrected = this.fixLexicalExceptions(corrected);
+                corrected = this.fixBankLexicon(corrected);   // 3b. word-bank lexicon (data-driven)
                 corrected = this.fixQuotativeMarkers(corrected);
                 corrected = this.fixCapitalization(corrected);
                 corrected = this.fixProperNouns(corrected);
@@ -1037,6 +1040,72 @@ Urugero: muraho neza mwese. ndashaka kubabwira inkuru nziza ku gihugu cyacu."
             }
 
             // ---------------------------------------------------
+            // Word-bank lexicon (loaded from data/word_bank.js)
+            // ---------------------------------------------------
+            // Applies every reviewed lexical exception generically.
+            // - built-in ids (SP-001, LE-001, LE-002) are skipped: their
+            //   hand-written logic above stays authoritative
+            // - keys are core forms: terminal punctuation stripped,
+            //   matching is case-insensitive, first-letter case of the
+            //   match is restored on the replacement
+            // - terminal punctuation in the text is never touched
+            //   (writer's tone, per NORMALIZATION.md)
+            buildBankRules() {
+                this.bankRules = [];
+                this.bankSize = 0;
+                const bank = (typeof window !== 'undefined') ? window.MUKOSOZI_WORD_BANK : null;
+                if (!bank || !bank.lexical_exceptions) return;
+                const BUILT_IN = { 'SP-001': 1, 'LE-001': 1, 'LE-002': 1 };
+                const entries = [];
+                for (const e of bank.lexical_exceptions) {
+                    if (!e || !e.id || BUILT_IN[e.id]) continue;
+                    const incEx = e.examples && e.examples.incorrect && e.examples.incorrect[0];
+                    const inc = incEx ? String(incEx.text || '') : '';
+                    const core = String(e.word || '');
+                    const key = inc.replace(/[\s.!?\u2026,;:]+$/, '').trim().toLowerCase();
+                    if (!key || !core || key === core.toLowerCase()) continue;
+                    entries.push({
+                        id: e.id,
+                        key: key,
+                        fixed: core,
+                        type: (String(e.category || '').indexOf('spacing') !== -1)
+                            ? 'spacing' : 'lexical_exception',
+                        message: e.rule || ("Standard form: '" + core + "'.")
+                    });
+                }
+                entries.sort((a, b) => b.key.length - a.key.length);
+                for (const en of entries) {
+                    const pattern = en.key.split(/\s+/)
+                        .map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+                        .join('\\s+');
+                    en.regex = new RegExp("(^|[^A-Za-z'])(" + pattern + ")(?![A-Za-z'])", 'gi');
+                }
+                this.bankRules = entries;
+                this.bankSize = entries.length;
+            }
+
+            fixBankLexicon(text) {
+                let result = text;
+                for (const en of (this.bankRules || [])) {
+                    result = result.replace(en.regex, (match, pre, hit) => {
+                        let fixed = en.fixed;
+                        if (hit.charAt(0) !== hit.charAt(0).toLowerCase()) {
+                            fixed = fixed.charAt(0).toUpperCase() + fixed.slice(1);
+                        }
+                        this.addCorrection({
+                            type: en.type,
+                            ruleId: en.id,
+                            original: hit,
+                            corrected: fixed,
+                            message: en.message
+                        });
+                        return pre + fixed;
+                    });
+                }
+                return result;
+            }
+
+            // ---------------------------------------------------
             // Helper: record a correction
             // ---------------------------------------------------
             addCorrection(correction) {
@@ -1062,6 +1131,11 @@ Urugero: muraho neza mwese. ndashaka kubabwira inkuru nziza ku gihugu cyacu."
                 this.statCorrectionsEl = document.getElementById('stat-corrections');
 
                 this.engine = new CorrectionEngine();
+                const vEl = document.getElementById('version-line');
+                if (vEl && this.engine.bankSize > 0) {
+                    vEl.textContent = 'Version 0.2.0 · Word bank: ' +
+                        this.engine.bankSize + ' corpus entries + built-in rules';
+                }
                 this.lastResult = null;
 
                 this.bindEvents();

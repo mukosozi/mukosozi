@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Mukosozi word-bank exporter, v1.1.
+Mukosozi word-bank exporter, v1.2 (also emits word_bank.js for the browser loader).
 
 Turns Christophe's reviewed triage rows into word_bank.json entries with their
 evidence attached in attestations.json.
@@ -364,6 +364,10 @@ def main():
               encoding="utf-8"), indent=2, ensure_ascii=False)
     json.dump(attdoc, open(att_path, "w", encoding="utf-8"),
               indent=2, ensure_ascii=False)
+    with open(os.path.join(args.out, "word_bank.js"), "w", encoding="utf-8") as f:
+        f.write("window.MUKOSOZI_WORD_BANK = ")
+        json.dump(bank, f, ensure_ascii=False)
+        f.write(";\n")
 
     lines = [
         f"Mukosozi export report — {TODAY}",
