@@ -1,0 +1,787 @@
+{
+  "metadata": {
+    "name": "Mukosozi Attestation Bank",
+    "description": "Evidence behind word-bank entries: each item is a dated, sourced observation with the contributor's English gloss. Receipts keep the text exactly as attested; reviewer rulings are bridged via notes. Terminal punctuation is preserved (writer's tone).",
+    "license": "CC BY-NC-SA 4.0",
+    "collection": "July 2026 correction corpus",
+    "collector": "Mukosozi Corpus Contributor 01 (name pending signed agreement)",
+    "reviewer": "Christophe Mumaragishyika",
+    "repository": "https://github.com/mukosozi/mukosozi",
+    "created": "2026-08-07"
+  },
+  "index": {
+    "aba hungu": "SP-002",
+    "ababantu": "SP-003",
+    "ababantu bari kunda": "SP-004",
+    "abobaribo": "SP-005",
+    "ahahantu harahenze": "SP-006",
+    "ahanihe": "SP-007",
+    "ahazazahacu": "SP-008",
+    "ahobigeze ndarambiwe": "SP-009",
+    "ahoyicaye": "SP-010",
+    "akazi koguteka": "SP-011",
+    "akirimuto": "SP-016",
+    "akokanya": "SP-017",
+    "akuremubwenge": "SP-018",
+    "amagambomabi": "SP-019",
+    "amagamboyanciranye.": "SP-020",
+    "amagamboyo ku mushima": "SP-021",
+    "amakuruyo murugo": "SP-022",
+    "amarangamutima": "SP-023",
+    "amavuta yokwisiga": "SP-024",
+    "arikondashaka": "SP-025",
+    "arikukubwirako": "SP-026",
+    "arikuririmba": "SP-027",
+    "asananyina": "SP-028",
+    "asubira yo amaramasa": "SP-029",
+    "ayamashaza wayakuyehe": "SP-030",
+    "ayobakorera ajyahe": "SP-031",
+    "bababarabyigiyehe?": "SP-032",
+    "bahora bifuzako": "SP-033",
+    "bajyahe": "SP-034",
+    "bara beshya": "SP-035",
+    "barajyahe": "SP-036",
+    "baribaragiyehe": "SP-037",
+    "barinokundakaza": "SP-038",
+    "bashikibe": "SP-039",
+    "baza musenyera": "SP-040",
+    "baza nkubita": "SP-041",
+    "benese": "SP-042",
+    "bibabibishyese?": "SP-043",
+    "bibabigoye": "SP-044",
+    "bigishepe": "SP-045",
+    "bimenyekaneho se": "SP-046",
+    "bina gabanya": "SP-047",
+    "birakorase": "SP-048",
+    "birakurebase": "SP-049",
+    "birasaneza": "SP-050",
+    "birashi mishijepe": "SP-051",
+    "birikunuka": "SP-052",
+    "bitesha": "SP-053",
+    "bivamu byuyape": "SP-054",
+    "bizakurangira gute": "SP-055",
+    "burigihe": "SP-056",
+    "burimunsi": "SP-057",
+    "burindabucya": "SP-058",
+    "burindabwira": "SP-059",
+    "buriwese": "SP-060",
+    "bwokoki": "SP-061",
+    "byabereyehe": "SP-062",
+    "byari ibyanyabyo": "SP-063",
+    "byaribiryoshye": "SP-064",
+    "byarikubabyiza": "SP-065",
+    "byizacyane": "SP-066",
+    "cumi nakabiri": "SP-067",
+    "duteyekimwe": "SP-068",
+    "ejobundi": "SP-069",
+    "esekomutarikuvuga": "SP-070",
+    "girabwa ngu": "SP-071",
+    "gu sesengura": "SP-072",
+    "gucimanza": "SP-012",
+    "gusa zana": "SP-073",
+    "habuzegato": "SP-074",
+    "i bwota masimbi": "SP-075",
+    "iyumuntu": "SP-013",
+    "mwabantumwe": "SP-014",
+    "vahano": "SP-015"
+  },
+  "entries": {
+    "SP-002": [
+      {
+        "observed": "ABA hungu",
+        "text": "Abahungu.",
+        "gloss": "\"Boys.\"",
+        "source": "Snapchat",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-003": [
+      {
+        "observed": "ababantu",
+        "text": "Aba bantu.",
+        "gloss": "These people.\"",
+        "source": "Other",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-004": [
+      {
+        "observed": "ababantu bari kunda",
+        "text": "Aba bantu barikunda!",
+        "gloss": "\"These people are selfish!\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-005": [
+      {
+        "observed": "abobaribo",
+        "text": "Abo bari bo.",
+        "gloss": "\"Who they are..\"",
+        "source": "Facebook",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-006": [
+      {
+        "observed": "ahahantu harahenze",
+        "text": "Aha hantu harahenze",
+        "gloss": "\"This place is expensive.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-007": [
+      {
+        "observed": "ahanihe",
+        "text": "Aha ni he?",
+        "gloss": "\"Where is this place\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-12"
+      }
+    ],
+    "SP-008": [
+      {
+        "observed": "ahazazahacu",
+        "text": "Ahazaza hacu.",
+        "gloss": "\"Our future.\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-009": [
+      {
+        "observed": "ahobigeze ndarambiwe",
+        "text": "Aho bigeze ndarambiwe.",
+        "gloss": "\"At this point, I am fed up\"",
+        "source": "Website/blog",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-010": [
+      {
+        "observed": "ahoyicaye",
+        "text": "Aho yicaye.",
+        "gloss": "\"Where she/he is sitting...\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-011": [
+      {
+        "observed": "akazi koguteka",
+        "text": "Akazi ko guteka.",
+        "gloss": "\"Cooking job.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-016": [
+      {
+        "observed": "akirimuto",
+        "text": "Akiri muto.",
+        "gloss": "\"While she or he is still young.\"",
+        "source": "TikTok",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-017": [
+      {
+        "observed": "akokanya",
+        "text": "Ako kanya.",
+        "gloss": "\"Immediately\"",
+        "source": "WhatsApp",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-018": [
+      {
+        "observed": "akuremubwenge",
+        "text": "Akure mu bwenge.",
+        "gloss": "\"May he/she grows in knowing..\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-019": [
+      {
+        "observed": "amagambomabi",
+        "text": "Amagambo mabi.",
+        "gloss": "\"Bad words.\"",
+        "source": "Other",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-020": [
+      {
+        "observed": "amagamboyanciranye.",
+        "text": "Amagambo yanciranye.",
+        "gloss": "\"I am out of words.\"",
+        "source": "TikTok",
+        "date": "2026-07-16",
+        "note": "reviewer ruling: standard form is 'amagambo yanshiranye'"
+      }
+    ],
+    "SP-021": [
+      {
+        "observed": "amagamboyo ku mushima",
+        "text": "Amagambo yo kumushima.",
+        "gloss": "\"Words to appreciate the person\"",
+        "source": "WhatsApp",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-022": [
+      {
+        "observed": "amakuruyo murugo",
+        "text": "Amakuru yo mu rugo?",
+        "gloss": "\"How is home?\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-023": [
+      {
+        "observed": "amarangamutima",
+        "text": "amarangamutima",
+        "gloss": "Means \"emotions\"",
+        "source": "TikTok",
+        "date": "2026-07-03",
+        "note": "attested in the standard form; the split in the collection file was a collection-side error"
+      }
+    ],
+    "SP-024": [
+      {
+        "observed": "amavuta yokwisiga",
+        "text": "Amavuta yo kwisiga.",
+        "gloss": "\"Body lotion\"",
+        "source": "Instagram",
+        "date": "2026-07-09"
+      }
+    ],
+    "SP-025": [
+      {
+        "observed": "arikondashaka",
+        "text": "Ariko ndashaka...",
+        "gloss": "\"But I want...\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-026": [
+      {
+        "observed": "arikukubwirako",
+        "text": "Ari kukubwira ko...",
+        "gloss": "\"He/she is telling you that..\"",
+        "source": "Other",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-027": [
+      {
+        "observed": "arikuririmba",
+        "text": "Ari kuririmba.",
+        "gloss": "\"She/he is singing\"",
+        "source": "Website/blog",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-028": [
+      {
+        "observed": "asananyina",
+        "text": "Asa na nyina.",
+        "gloss": "\"She looks like her mom.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-029": [
+      {
+        "observed": "asubira yo amaramasa",
+        "text": "Asubirayo amara masa!",
+        "gloss": "Means \"She/He went back with empty hands\"",
+        "source": "TikTok",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-030": [
+      {
+        "observed": "ayamashaza wayakuyehe",
+        "text": "Aya mashaza wayakuye he?",
+        "gloss": "A question asking \"where did you get these peas?\"",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-031": [
+      {
+        "observed": "Ayobakorera ajyahe",
+        "text": "Ayo bakorera ajya he?",
+        "gloss": "This was describing money\"asking what does the money they worked for did?\" it is said when you do not have what you need despite the amount you earn.",
+        "source": "Instagram",
+        "date": "2026-07-02"
+      }
+    ],
+    "SP-032": [
+      {
+        "observed": "bababarabyigiyehe?",
+        "text": "Baba barabyigiye he?",
+        "gloss": "\"Where did they learn that?\"",
+        "source": "Website/blog",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-033": [
+      {
+        "observed": "bahora bifuzako",
+        "text": "Bahora bifuza ko.",
+        "gloss": "Means \"they always wish\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-034": [
+      {
+        "observed": "bajyahe",
+        "text": "Bajya he?",
+        "gloss": "\"Where do they go?\"",
+        "source": "Other",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-035": [
+      {
+        "observed": "bara beshya",
+        "text": "Barabeshya.",
+        "gloss": "\"They are lying\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-036": [
+      {
+        "observed": "barajyahe",
+        "text": "Barajya he?",
+        "gloss": "\"Where are they going?\"",
+        "source": "WhatsApp",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-037": [
+      {
+        "observed": "baribaragiyehe",
+        "text": "Bari baragiye he?",
+        "gloss": "\"\"Where had they gone?\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-038": [
+      {
+        "observed": "barinokundakaza",
+        "text": "Bari no kundakaza.",
+        "gloss": "\"They are even making me angry.\"",
+        "source": "Instagram",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-039": [
+      {
+        "observed": "bashikibe",
+        "text": "Bashiki be.",
+        "gloss": "\"His sisters.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-040": [
+      {
+        "observed": "baza musenyera",
+        "text": "Bazamusenyera.",
+        "gloss": "\"They will destroy his/her home.\"",
+        "source": "Other",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-041": [
+      {
+        "observed": "baza nkubita",
+        "text": "Bazankubita.",
+        "gloss": "\"They will beat me\"",
+        "source": "WhatsApp",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-042": [
+      {
+        "observed": "benese",
+        "text": "Bene se.",
+        "gloss": "\"Siblings.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-043": [
+      {
+        "observed": "bibabibishyese?",
+        "text": "Biba bibishye se?",
+        "gloss": "\"Does it taste bad?\"",
+        "source": "Other",
+        "date": "2026-07-16"
+      }
+    ],
+    "SP-044": [
+      {
+        "observed": "bibabigoye",
+        "text": "Biba bigoye.",
+        "gloss": "\"It's usually difficult.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-045": [
+      {
+        "observed": "bigishepe",
+        "text": "Bigishe pe.",
+        "gloss": "\"Teach them.\"",
+        "source": "Other",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-046": [
+      {
+        "observed": "bimenyekaneho se",
+        "text": "Bimenyekane hose.",
+        "gloss": "\"Let it be known everywhere.\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-047": [
+      {
+        "observed": "bina gabanya",
+        "text": "Binagabanya.",
+        "gloss": "\"It also reduces\"",
+        "source": "Website/blog",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-048": [
+      {
+        "observed": "birakorase",
+        "text": "Birakora se?",
+        "gloss": "\"Does it work?\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-049": [
+      {
+        "observed": "birakurebase",
+        "text": "Birakureba se?",
+        "gloss": "\"How is that your business?\"",
+        "source": "WhatsApp",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-050": [
+      {
+        "observed": "birasaneza",
+        "text": "Birasa neza.",
+        "gloss": "\"They look good.\"",
+        "source": "Instagram",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-051": [
+      {
+        "observed": "birashi mishijepe",
+        "text": "Birashimishije pe!",
+        "gloss": "\"It's really pleasing\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-052": [
+      {
+        "observed": "birikunuka",
+        "text": "Biri kunuka.",
+        "gloss": "\"They are stinking.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-053": [
+      {
+        "observed": "bitesha",
+        "text": "Bite sha?",
+        "gloss": "\"Whatsup\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-054": [
+      {
+        "observed": "bivamu byuyape",
+        "text": "Biva mu byuya pe.",
+        "gloss": "\"It comes from hard work, really\"",
+        "source": "Website/blog",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-055": [
+      {
+        "observed": "bizakurangira gute",
+        "text": "Biza kurangira gute?",
+        "gloss": "\"How did it end?\"",
+        "source": "Other",
+        "date": "2026-07-13",
+        "note": "reviewer ruling: standard form is 'biza kurangira bite'"
+      }
+    ],
+    "SP-056": [
+      {
+        "observed": "burigihe",
+        "text": "Buri gihe.",
+        "gloss": "\"Every time\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-057": [
+      {
+        "observed": "burimunsi",
+        "text": "Buri munsi.",
+        "gloss": "\"Everyday\"",
+        "source": "Other",
+        "date": "2026-07-09"
+      }
+    ],
+    "SP-058": [
+      {
+        "observed": "burindabucya",
+        "text": "Burinda bucya!",
+        "gloss": "Means \"Until in the morning\"",
+        "source": "Other",
+        "date": "2026-07-03"
+      }
+    ],
+    "SP-059": [
+      {
+        "observed": "burindabwira",
+        "text": "Burinda bwira.",
+        "gloss": "\"Till the night\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-12"
+      }
+    ],
+    "SP-060": [
+      {
+        "observed": "buriwese",
+        "text": "Buri wese.",
+        "gloss": "\"Each one\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-061": [
+      {
+        "observed": "bwokoki",
+        "text": "Bwoko ki?",
+        "gloss": "\"Which kind?\"",
+        "source": "Other",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-062": [
+      {
+        "observed": "byabereyehe",
+        "text": "Byabereye he?",
+        "gloss": "\"At which place did it happen?\"",
+        "source": "Other",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-063": [
+      {
+        "observed": "byari ibyanyabyo",
+        "text": "Byari ibya nyabyo!",
+        "gloss": "\"It was for real.\"",
+        "source": "TikTok",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-064": [
+      {
+        "observed": "byaribiryoshye",
+        "text": "Byari biryoshye!",
+        "gloss": "\"It was sweet!\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-065": [
+      {
+        "observed": "byarikubabyiza",
+        "text": "Byari kuba byiza.",
+        "gloss": "\"It was going to be nice.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-066": [
+      {
+        "observed": "byizacyane",
+        "text": "Byiza cyane.",
+        "gloss": "\"That's nice.\"",
+        "source": "Other",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-067": [
+      {
+        "observed": "cumi nakabiri",
+        "text": "Cumi na kabiri.",
+        "gloss": "\"Twelve\"",
+        "source": "WhatsApp",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-068": [
+      {
+        "observed": "duteyekimwe",
+        "text": "Duteye kimwe.",
+        "gloss": "\"We are the same.\"",
+        "source": "Website/blog",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-069": [
+      {
+        "observed": "ejobundi",
+        "text": "Ejo bundi.",
+        "gloss": "\"Yesterday\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-070": [
+      {
+        "observed": "esekomutarikuvuga",
+        "text": "Ese ko mutari kuvuga?",
+        "gloss": "\"Why aren't you talking?\"",
+        "source": "Website/blog",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-071": [
+      {
+        "observed": "girabwa ngu",
+        "text": "Gira bwangu.",
+        "gloss": "\"Hurry up'",
+        "source": "X (Twitter)",
+        "date": "2026-07-12"
+      }
+    ],
+    "SP-072": [
+      {
+        "observed": "gu sesengura",
+        "text": "Gusesengura.",
+        "gloss": "To analyse",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-012": [
+      {
+        "observed": "gucimanza",
+        "text": "Guca imanza",
+        "gloss": "It means \"judging\"",
+        "source": "Other",
+        "date": "2026-07-02"
+      },
+      {
+        "observed": "gucimanza",
+        "text": "Guca imanza.",
+        "gloss": "\"To be judgmental\"",
+        "source": "Other",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-073": [
+      {
+        "observed": "gusa zana",
+        "text": "Gusazana.",
+        "gloss": "\"Getting old together.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-074": [
+      {
+        "observed": "habuzegato",
+        "text": "Habuze gato...",
+        "gloss": "\"Almost..\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-075": [
+      {
+        "observed": "i bwota masimbi",
+        "text": "Ibwotamasimbi.",
+        "gloss": "Means\"Abroad'",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-013": [
+      {
+        "observed": "iyumuntu",
+        "text": "Iyo umuntu.",
+        "gloss": "\"When a person.\"",
+        "source": "TikTok",
+        "date": "2026-07-24"
+      },
+      {
+        "observed": "iyumuntu",
+        "text": "Iyo umuntu...",
+        "gloss": "\"When a person...\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-014": [
+      {
+        "observed": "mwabantumwe",
+        "text": "Mwa bantu mwe!",
+        "gloss": "\"Hey you people!\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-22"
+      },
+      {
+        "observed": "mwabantumwe",
+        "text": "Mwa bantu mwe.",
+        "gloss": "\"You people.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-015": [
+      {
+        "observed": "vahano",
+        "text": "Va hano!",
+        "gloss": "\"Leave this place.\"",
+        "source": "Instagram",
+        "date": "2026-07-09"
+      },
+      {
+        "observed": "vahano",
+        "text": "Va hano.",
+        "gloss": "\"Leave this place.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-21"
+      }
+    ]
+  }
+}
