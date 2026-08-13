@@ -11,7 +11,7 @@
     "description": "A structured linguistic knowledge base for Kinyarwanda: grammar rules, lexical exceptions, and neologisms. Each entry is reviewed by a native speaker and traceable to a documented rule ID.",
     "contact": "mukosozi.rw@gmail.com",
     "repository": "https://github.com/mukosozi/mukosozi",
-    "last_export": "2026-08-07"
+    "last_export": "2026-08-13"
   },
   "grammar_rules": [
     {
@@ -206,7 +206,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-003",
@@ -231,7 +231,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -257,7 +257,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-005",
@@ -282,7 +282,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -308,7 +308,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -334,7 +334,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-008",
@@ -359,7 +359,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -385,7 +385,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-010",
@@ -410,7 +410,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -436,7 +436,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -462,7 +462,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -488,7 +488,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -514,7 +514,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -540,7 +540,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -566,7 +566,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "notes": "Reviewer emendation: yanciranye -> yanshiranye"
     },
     {
@@ -592,7 +592,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -618,7 +618,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-023",
@@ -643,7 +643,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "flip: amarangamutima is one word (reviewer ruling)"
     },
@@ -670,7 +670,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -696,7 +696,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -722,7 +722,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -748,7 +748,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-028",
@@ -773,7 +773,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -799,7 +799,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-030",
@@ -824,7 +824,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-031",
@@ -849,7 +849,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -875,7 +875,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -901,7 +901,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -927,7 +927,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -953,7 +953,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -979,7 +979,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1005,7 +1005,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1031,7 +1031,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1057,7 +1057,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1083,7 +1083,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1109,7 +1109,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1135,7 +1135,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-043",
@@ -1160,7 +1160,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1186,7 +1186,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1212,7 +1212,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1238,7 +1238,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1264,7 +1264,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1290,7 +1290,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Interrogative (reviewer)"
     },
@@ -1317,7 +1317,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Interrogative (reviewer)"
     },
@@ -1344,7 +1344,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Exclamative (reviewer); period preserved per tone rule"
     },
@@ -1371,7 +1371,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Exclamative (reviewer)"
     },
@@ -1398,7 +1398,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1424,7 +1424,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Interrogative (reviewer)"
     },
@@ -1451,7 +1451,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Reviewer gloss emendation."
     },
@@ -1478,7 +1478,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "Reviewer emendation: gute -> bite, agreement with 2nd person plural (cf. ati/bati pattern)"
     },
@@ -1505,7 +1505,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "buri covers both English 'every' and 'each' (reviewer)"
     },
@@ -1532,7 +1532,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "buri covers both English 'every' and 'each' (reviewer)"
     },
@@ -1559,7 +1559,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1585,7 +1585,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1611,7 +1611,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "buri covers both English 'every' and 'each' (reviewer)."
     },
@@ -1638,7 +1638,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1664,7 +1664,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1690,7 +1690,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1716,7 +1716,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1742,7 +1742,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1768,7 +1768,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase",
       "notes": "cyane adds emphasis: 'indeed' (reviewer)."
     },
@@ -1795,7 +1795,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1821,7 +1821,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1847,7 +1847,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "notes": "Split is correct; collector gloss 'Yesterday' emended per TR-001 (ejo temporal system)."
     },
     {
@@ -1873,7 +1873,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-071",
@@ -1898,7 +1898,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1924,7 +1924,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1954,7 +1954,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -1980,7 +1980,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
     },
     {
       "id": "SP-074",
@@ -2005,7 +2005,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -2031,7 +2031,266 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07"
+      "added_date": "2026-08-13"
+    },
+    {
+      "id": "SP-076",
+      "word": "ibaze ko",
+      "category": "spacing_rules",
+      "definition": "\"Imagine that\"",
+      "rule": "Standard form: 'ibaze ko'. The form 'ibazeko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibaze ko",
+            "translation": "\"Imagine that\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibazeko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-077",
+      "word": "ibi birandenze",
+      "category": "spacing_rules",
+      "definition": "Means \"this is beyond my thinking\"",
+      "rule": "Standard form: 'ibi birandenze'. The form 'Ibibirandenze' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibi birandenze!",
+            "translation": "Means \"this is beyond my thinking\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ibibirandenze",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-078",
+      "word": "ibi byo",
+      "category": "spacing_rules",
+      "definition": "\"As for this...\"",
+      "rule": "Standard form: 'ibi byo'. The form 'ibibyo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibi byo...",
+            "translation": "\"As for this...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibibyo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-079",
+      "word": "ibihe byose",
+      "category": "spacing_rules",
+      "definition": "\"All the time.\"",
+      "rule": "Standard form: 'ibihe byose'. The form 'ibihebyose' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibihe byose.",
+            "translation": "\"All the time.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibihebyose",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-080",
+      "word": "ibyo kurya",
+      "category": "spacing_rules",
+      "definition": "\"Things to eat..\"",
+      "rule": "Standard form: 'ibyo kurya'. The form 'ibyokurya' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibyo kurya.",
+            "translation": "\"Things to eat..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibyokurya",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-081",
+      "word": "ibyo se wabisomye he",
+      "category": "spacing_rules",
+      "definition": "\"Where have you read that from?",
+      "rule": "Standard form: 'ibyo se wabisomye he'. The form 'ibyose wabisomyehe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibyo se wabisomye he?",
+            "translation": "\"Where have you read that from?"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibyose wabisomyehe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-082",
+      "word": "ibyo twari dukeneye",
+      "category": "spacing_rules",
+      "definition": "\"What we needed.\"",
+      "rule": "Standard form: 'ibyo twari dukeneye'. The form 'ibyotwaridukeneye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibyo twari dukeneye.",
+            "translation": "\"What we needed.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibyotwaridukeneye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-083",
+      "word": "ibyo wambaye si byiza",
+      "category": "spacing_rules",
+      "definition": "\"What you are wearing is not nice.\"",
+      "rule": "Standard form: 'ibyo wambaye si byiza'. The form 'ibyowambaye sibyiza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibyo wambaye si byiza.",
+            "translation": "\"What you are wearing is not nice.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibyowambaye sibyiza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13"
+    },
+    {
+      "id": "SP-084",
+      "word": "ibyo yakosora",
+      "category": "spacing_rules",
+      "definition": "\"Things He/she could correct.\"",
+      "rule": "Standard form: 'ibyo yakosora'. The form 'ibyoyakosora' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibyo yakosora.",
+            "translation": "\"Things He/she could correct.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibyoyakosora",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-085",
+      "word": "icyo bita",
+      "category": "spacing_rules",
+      "definition": "\"What we call.\"",
+      "rule": "Standard form: 'icyo bita'. The form 'icyobita' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyo bita.",
+            "translation": "\"What we call.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyobita",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-13",
+      "pos": "phrase"
     },
     {
       "id": "SP-013",
@@ -2060,7 +2319,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -2090,7 +2349,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     },
     {
@@ -2120,7 +2379,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-07",
+      "added_date": "2026-08-13",
       "pos": "phrase"
     }
   ],

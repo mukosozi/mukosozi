@@ -7,7 +7,7 @@
     "collector": "Sarah Izabayo",
     "reviewer": "Christophe Mumaragishyika",
     "repository": "https://github.com/mukosozi/mukosozi",
-    "created": "2026-08-07"
+    "created": "2026-08-13"
   },
   "index": {
     "aba hungu": "SP-002",
@@ -81,6 +81,16 @@
     "gusa zana": "SP-073",
     "habuzegato": "SP-074",
     "i bwota masimbi": "SP-075",
+    "ibazeko": "SP-076",
+    "ibibirandenze": "SP-077",
+    "ibibyo": "SP-078",
+    "ibihebyose": "SP-079",
+    "ibyokurya": "SP-080",
+    "ibyose wabisomyehe": "SP-081",
+    "ibyotwaridukeneye": "SP-082",
+    "ibyowambaye sibyiza": "SP-083",
+    "ibyoyakosora": "SP-084",
+    "icyobita": "SP-085",
     "iyumuntu": "SP-013",
     "mwabantumwe": "SP-014",
     "vahano": "SP-015"
@@ -733,6 +743,96 @@
         "gloss": "Means\"Abroad'",
         "source": "Other",
         "date": "2026-07-05"
+      }
+    ],
+    "SP-076": [
+      {
+        "observed": "ibazeko",
+        "text": "Ibaze ko",
+        "gloss": "\"Imagine that\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-077": [
+      {
+        "observed": "Ibibirandenze",
+        "text": "Ibi birandenze!",
+        "gloss": "Means \"this is beyond my thinking\"",
+        "source": "WhatsApp",
+        "date": "2026-07-03"
+      }
+    ],
+    "SP-078": [
+      {
+        "observed": "ibibyo",
+        "text": "Ibi byo...",
+        "gloss": "\"As for this...\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-079": [
+      {
+        "observed": "ibihebyose",
+        "text": "Ibihe byose.",
+        "gloss": "\"All the time.\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-080": [
+      {
+        "observed": "ibyokurya",
+        "text": "Ibyo kurya.",
+        "gloss": "\"Things to eat..\"",
+        "source": "WhatsApp",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-081": [
+      {
+        "observed": "ibyose wabisomyehe",
+        "text": "Ibyo se wabisomye he?",
+        "gloss": "\"Where have you read that from?",
+        "source": "Other",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-082": [
+      {
+        "observed": "ibyotwaridukeneye",
+        "text": "Ibyo twari dukeneye.",
+        "gloss": "\"What we needed.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-083": [
+      {
+        "observed": "ibyowambaye sibyiza",
+        "text": "Ibyo wambaye si byiza.",
+        "gloss": "\"What you are wearing is not nice.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-084": [
+      {
+        "observed": "ibyoyakosora",
+        "text": "Ibyo yakosora.",
+        "gloss": "\"Things He/she could correct.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-085": [
+      {
+        "observed": "icyobita",
+        "text": "Icyo bita.",
+        "gloss": "\"What we call.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
       }
     ],
     "SP-013": [
