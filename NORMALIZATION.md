@@ -23,13 +23,19 @@ are preserved; every first-letter lowering is listed in the export report
 for review. Attestations preserve each observation exactly as written,
 tone marks intact. *Ruled Aug 2026.*
 
+**4. Intrinsic capitals: Imana and proper nouns.**
+'Imana' (God) is always capitalized; lowercase 'imana' refers to gods or
+deities. Intrinsic capitals are preserved in headwords (the exporter's
+keep-capital marking); positional sentence capitals are still stripped.
+*Ruled Aug 2026.*
+
 ## Standing defaults (not yet explicitly ruled; flag to change)
 
-**4. Missing terminal punctuation** at the end of a standalone text is at
+**5. Missing terminal punctuation** at the end of a standalone text is at
 most suggestion-level (Igitekerezo, green), never an error. If the engine
 proposes a mark, it proposes a period only; it never inserts a tone mark.
 
-**5. Colon and semicolon** are not sentence-final: no capitalization is
+**6. Colon and semicolon** are not sentence-final: no capitalization is
 triggered after them.
 
 ## Engine conformance (v0.1.0, checked 2026-08-06)

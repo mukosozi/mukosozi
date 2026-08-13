@@ -91,7 +91,57 @@
     "ibyowambaye sibyiza": "SP-083",
     "ibyoyakosora": "SP-084",
     "icyobita": "SP-085",
+    "icyonzicyo": "SP-086",
+    "igisa magwe": "SP-087",
+    "ihererekanya bubasha": "SP-088",
+    "imanai ra bikoze": "SP-089",
+    "imbangukira gutabara": "SP-090",
+    "imbereheza": "SP-091",
+    "imyitozongororamubiri": "SP-092",
+    "indanga gaciro": "SP-093",
+    "indanga muntu": "SP-094",
+    "ingesombi": "SP-095",
+    "insamba bakecuru": "SP-096",
+    "insanga nyama tsiko": "SP-097",
+    "irijoro.": "SP-098",
+    "irimunda yanjye": "SP-099",
+    "iryojambo": "SP-100",
+    "iryojwi": "SP-101",
+    "itangaza makuru": "SP-102",
+    "iteganya gihe": "SP-103",
+    "itera mbere": "SP-104",
+    "ivuzi vuzi": "SP-105",
+    "iyinayigura": "SP-106",
+    "iyindirimbo": "SP-107",
+    "iyiniyo": "SP-108",
+    "iyofoto": "SP-109",
+    "iyokayi nda yishaka.": "SP-110",
+    "iyombimenya": "SP-111",
+    "iyowibeshya": "SP-112",
     "iyumuntu": "SP-013",
+    "iyumvirenawe": "SP-113",
+    "izinarye": "SP-114",
+    "izindirimbo": "SP-115",
+    "izonkweto": "SP-116",
+    "jyaguhinga": "SP-117",
+    "kandiwasanga": "SP-118",
+    "karangiyentabishaka": "SP-119",
+    "kombona aritwese": "SP-120",
+    "kombonamusa": "SP-121",
+    "komeracyane": "SP-122",
+    "komutarikutubwira": "SP-123",
+    "koyahise": "SP-124",
+    "koyananutse": "SP-125",
+    "ku ko": "SP-126",
+    "kubabatabakubise": "SP-127",
+    "kubabona murikumwe..": "SP-128",
+    "kubamaso": "SP-129",
+    "kubwawe": "SP-130",
+    "kucyavu": "SP-131",
+    "kucyicaro": "SP-132",
+    "kugasongero": "SP-133",
+    "kugirango": "SP-134",
+    "kumugoroba": "SP-135",
     "mwabantumwe": "SP-014",
     "vahano": "SP-015"
   },
@@ -835,6 +885,250 @@
         "date": "2026-07-23"
       }
     ],
+    "SP-086": [
+      {
+        "observed": "icyonzicyo",
+        "text": "Icyo nzi cyo...",
+        "gloss": "\"The only thing I know for sure is...\"",
+        "source": "Snapchat",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-087": [
+      {
+        "observed": "igisa magwe",
+        "text": "Igisamagwe.",
+        "gloss": "This is a leopard",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-088": [
+      {
+        "observed": "ihererekanya bubasha",
+        "text": "Ihererekanyabubasha.",
+        "gloss": "\"Handover of power\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-089": [
+      {
+        "observed": "imanai ra bikoze",
+        "text": "Imana irabikoze!",
+        "gloss": "\"God did it!\"",
+        "source": "TikTok",
+        "date": "2026-07-21",
+        "note": "reviewer ruling: standard form is 'Imana irabikoze'"
+      }
+    ],
+    "SP-090": [
+      {
+        "observed": "imbangukira gutabara",
+        "text": "Imbangukiragutabara",
+        "gloss": "\"Ambulance\"",
+        "source": "Website/blog",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-091": [
+      {
+        "observed": "imbereheza",
+        "text": "Imbere heza.",
+        "gloss": "\"The bright future.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-092": [
+      {
+        "observed": "imyitozongororamubiri",
+        "text": "Imyitozo ngorora mubiri.",
+        "gloss": "\"Body exercise\"",
+        "source": "WhatsApp",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-093": [
+      {
+        "observed": "indanga gaciro",
+        "text": "Indangagaciro.",
+        "gloss": "\"Morals\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-094": [
+      {
+        "observed": "indanga muntu",
+        "text": "Indangamuntu.",
+        "gloss": "\"Identity\"",
+        "source": "Other",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-095": [
+      {
+        "observed": "ingesombi",
+        "text": "Ingeso mbi.",
+        "gloss": "\"Bad habit.\"",
+        "source": "Other",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-096": [
+      {
+        "observed": "insamba bakecuru",
+        "text": "Insambabakecuru.",
+        "gloss": "\" A sickness where your skin near the nails comes off\"",
+        "source": "Other",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-097": [
+      {
+        "observed": "insanga nyama tsiko",
+        "text": "Insanganyamatsiko!",
+        "gloss": "\"Topic\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-098": [
+      {
+        "observed": "irijoro.",
+        "text": "Iri joro.",
+        "gloss": "\"Tonight.\"",
+        "source": "Other",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-099": [
+      {
+        "observed": "irimunda yanjye",
+        "text": "Iri mu nda yanjye.",
+        "gloss": "\"Which is in my tummy.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-100": [
+      {
+        "observed": "iryojambo",
+        "text": "Iryo jambo.",
+        "gloss": "\"That word\"",
+        "source": "TikTok",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-101": [
+      {
+        "observed": "iryojwi",
+        "text": "Iryo jwi.",
+        "gloss": "\"That voice.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-102": [
+      {
+        "observed": "itangaza makuru",
+        "text": "Itangazamakuru.",
+        "gloss": "Journalism",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-103": [
+      {
+        "observed": "iteganya gihe",
+        "text": "Iteganyagihe.",
+        "gloss": "\"Weather forecast.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-16"
+      }
+    ],
+    "SP-104": [
+      {
+        "observed": "itera mbere",
+        "text": "Iterambere.",
+        "gloss": "\"Development.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-105": [
+      {
+        "observed": "ivuzi vuzi",
+        "text": "Ivuzivuzi.",
+        "gloss": "\"Gossip.\"",
+        "source": "Other",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-106": [
+      {
+        "observed": "iyinayigura",
+        "text": "Iyi nayigura.",
+        "gloss": "\"I can buy this one.\"",
+        "source": "TikTok",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-107": [
+      {
+        "observed": "iyindirimbo",
+        "text": "Iyi ndirimbo.",
+        "gloss": "\"This song.\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-108": [
+      {
+        "observed": "iyiniyo",
+        "text": "Iyi ni yo.",
+        "gloss": "\"This is it\"",
+        "source": "Other",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-109": [
+      {
+        "observed": "iyofoto",
+        "text": "Iyo foto.",
+        "gloss": "\"That picture.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-110": [
+      {
+        "observed": "iyokayi nda yishaka.",
+        "text": "Iyo kayi ndayishaka.",
+        "gloss": "\"I want that book.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-111": [
+      {
+        "observed": "iyombimenya",
+        "text": "Iyo mbimenya.",
+        "gloss": "\"If only I had known..\"",
+        "source": "TikTok",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-112": [
+      {
+        "observed": "iyowibeshya",
+        "text": "Iyo wibeshya..",
+        "gloss": "\"If you make a mistake...\"",
+        "source": "Website/blog",
+        "date": "2026-07-28"
+      }
+    ],
     "SP-013": [
       {
         "observed": "iyumuntu",
@@ -849,6 +1143,213 @@
         "gloss": "\"When a person...\"",
         "source": "TikTok",
         "date": "2026-07-26"
+      }
+    ],
+    "SP-113": [
+      {
+        "observed": "iyumvirenawe",
+        "text": "Iyumvire nawe.",
+        "gloss": "\"Just listen for yourself.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-114": [
+      {
+        "observed": "izinarye",
+        "text": "Izina rye.",
+        "gloss": "\"His/Her name\"",
+        "source": "TikTok",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-115": [
+      {
+        "observed": "izindirimbo",
+        "text": "Izi ndirimbo...",
+        "gloss": "\"These songs.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-116": [
+      {
+        "observed": "izonkweto",
+        "text": "Izo nkweto.",
+        "gloss": "\"Those shoes\"",
+        "source": "WhatsApp",
+        "date": "2026-07-09"
+      }
+    ],
+    "SP-117": [
+      {
+        "observed": "jyaguhinga",
+        "text": "Jya guhinga.",
+        "gloss": "\"Go to farm.\"",
+        "source": "Snapchat",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-118": [
+      {
+        "observed": "kandiwasanga",
+        "text": "Kandi wasanga....",
+        "gloss": "\"And you might find..\"",
+        "source": "Other",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-119": [
+      {
+        "observed": "karangiyentabishaka",
+        "text": "Karangiye ntabishaka.",
+        "gloss": "\"I didn't want it to end.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-120": [
+      {
+        "observed": "kombona aritwese",
+        "text": "Ko mbona ari twese?",
+        "gloss": "\"Seems like it's all of us, isn't it?\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-121": [
+      {
+        "observed": "kombonamusa",
+        "text": "Ko mbona musa?",
+        "gloss": "\"But you look alike?\"",
+        "source": "TikTok",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-122": [
+      {
+        "observed": "komeracyane",
+        "text": "Komera cyane.",
+        "gloss": "It says \"be strong\" sometimes it is used to greet people",
+        "source": "WhatsApp",
+        "date": "2026-07-01"
+      }
+    ],
+    "SP-123": [
+      {
+        "observed": "komutarikutubwira",
+        "text": "Ko mutari kutubwira?",
+        "gloss": "people asking why you are not informing them",
+        "source": "Instagram",
+        "date": "2026-07-01"
+      }
+    ],
+    "SP-124": [
+      {
+        "observed": "koyahise",
+        "text": "Ko yahise?",
+        "gloss": "\"How come did She/He?",
+        "source": "X (Twitter)",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-125": [
+      {
+        "observed": "koyananutse",
+        "text": "Ko yananutse?",
+        "gloss": "\"Why is he/she so thin?\"",
+        "source": "Other",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-126": [
+      {
+        "observed": "ku ko",
+        "text": "Kuko",
+        "gloss": "\"Because\"",
+        "source": "WhatsApp",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-127": [
+      {
+        "observed": "kubabatabakubise",
+        "text": "Kuba batabakubise.",
+        "gloss": "\"The fact that they didn't beat them.\"",
+        "source": "Facebook",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-128": [
+      {
+        "observed": "kubabona murikumwe..",
+        "text": "Kubabona muri kumwe..",
+        "gloss": "\"Seeing you together..\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-129": [
+      {
+        "observed": "kubamaso",
+        "text": "Kuba maso.",
+        "gloss": "\"Being alert\"",
+        "source": "Instagram",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-130": [
+      {
+        "observed": "kubwawe",
+        "text": "Ku bwawe.",
+        "gloss": "\"For you.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-131": [
+      {
+        "observed": "kucyavu",
+        "text": "Ku cyavu.",
+        "gloss": "\"Extreme poverty\"",
+        "source": "WhatsApp",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-132": [
+      {
+        "observed": "kucyicaro",
+        "text": "Ku cyicaro.",
+        "gloss": "\"At the headquarter.\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-133": [
+      {
+        "observed": "Kugasongero",
+        "text": "Ku gasongero.",
+        "gloss": "On the top of the tall building",
+        "source": "WhatsApp",
+        "date": "2026-07-02"
+      }
+    ],
+    "SP-134": [
+      {
+        "observed": "kugirango",
+        "text": "Kugira ngo.",
+        "gloss": "this works like \"so that...\"",
+        "source": "Other",
+        "date": "2026-07-01"
+      }
+    ],
+    "SP-135": [
+      {
+        "observed": "kumugoroba",
+        "text": "Ku mugoroba",
+        "gloss": "Means \"in the evening\"",
+        "source": "TikTok",
+        "date": "2026-07-05"
       }
     ],
     "SP-014": [
