@@ -243,6 +243,56 @@
     "nzarindampfa": "SP-232",
     "nzedu sangire?.": "SP-233",
     "nzikubyina": "SP-234",
+    "nziyuko": "SP-236",
+    "rebahano": "SP-237",
+    "rebaneza": "SP-238",
+    "rekambyuke": "SP-239",
+    "rekananawe": "SP-240",
+    "siburiwese": "SP-241",
+    "sina guseka": "SP-242",
+    "sina sinziriye.": "SP-243",
+    "sinarimpari": "SP-244",
+    "siwe wabikoze": "SP-245",
+    "tahawamwanawe": "SP-246",
+    "tekerezako": "SP-247",
+    "tubi furije": "SP-248",
+    "tubonereho nokunenga": "SP-249",
+    "tukajyadukuraho": "SP-250",
+    "turaba kunda": "SP-251",
+    "turi kukazi": "SP-252",
+    "turibamwe": "SP-253",
+    "turikuganira": "SP-254",
+    "turikumwe": "SP-255",
+    "turinda ne": "SP-256",
+    "tuzabaduhari": "SP-257",
+    "twaritubakumbuye": "SP-258",
+    "ububuzima": "SP-259",
+    "ubukori kori": "SP-260",
+    "ubukuru gutwa": "SP-261",
+    "ubundise": "SP-262",
+    "ubuntayo dufite": "SP-263",
+    "ubute kamutwe": "SP-264",
+    "ubuyabaye mwiza": "SP-265",
+    "ubwoburyo ni bwizacyane": "SP-266",
+    "ubwondize": "SP-267",
+    "ugombaguhinduka": "SP-268",
+    "ukobiri kose": "SP-269",
+    "ukobukeye": "SP-270",
+    "ukorerahe": "SP-271",
+    "umu nyarwandakazi": "SP-272",
+    "umucunga mari": "SP-273",
+    "umufatanyabikorwa": "SP-274",
+    "umukwewacu": "SP-275",
+    "umumara rungu": "SP-276",
+    "umunsikuwundi.": "SP-277",
+    "umunya mahanga": "SP-278",
+    "umunya mugisha": "SP-279",
+    "umurirowatse": "SP-280",
+    "umutega rugori": "SP-281",
+    "umutindinya kujya": "SP-282",
+    "umuva ndimwe": "SP-283",
+    "umvarero nkubwire": "SP-284",
+    "ura rondogora": "SP-285",
     "vahano": "SP-015"
   },
   "entries": {
@@ -2393,6 +2443,460 @@
         "gloss": "\"I know how to dance.\"",
         "source": "TikTok",
         "date": "2026-07-23"
+      }
+    ],
+    "SP-236": [
+      {
+        "observed": "nziyuko",
+        "text": "Nzi yuko.",
+        "gloss": "\"I know that...\"",
+        "source": "WhatsApp",
+        "date": "2026-07-10",
+        "note": "reviewer ruling: standard form is 'nzi y'uko'"
+      }
+    ],
+    "SP-237": [
+      {
+        "observed": "rebahano",
+        "text": "Reba hano.",
+        "gloss": "\"Look at here\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-238": [
+      {
+        "observed": "rebaneza",
+        "text": "Reba neza.",
+        "gloss": "\"Check well.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-239": [
+      {
+        "observed": "rekambyuke",
+        "text": "Reka mbyuke.",
+        "gloss": "\"Let me wake up.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-240": [
+      {
+        "observed": "rekananawe",
+        "text": "Rekana nawe.",
+        "gloss": "It means \"let him/her be\"",
+        "source": "WhatsApp",
+        "date": "2026-07-02",
+        "note": "reviewer ruling: standard form is 'rekana na we'"
+      }
+    ],
+    "SP-241": [
+      {
+        "observed": "siburiwese",
+        "text": "Si buri wese.",
+        "gloss": "\"Not everyone.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-242": [
+      {
+        "observed": "sina guseka",
+        "text": "Sinaguseka.",
+        "gloss": "\"I can't laugh at you.\"",
+        "source": "TikTok",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-243": [
+      {
+        "observed": "sina sinziriye.",
+        "text": "Sinasinziriye.",
+        "gloss": "\"I didnt sleep\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-244": [
+      {
+        "observed": "sinarimpari",
+        "text": "Sinari mpari.",
+        "gloss": "\"I was not around.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-245": [
+      {
+        "observed": "siwe wabikoze",
+        "text": "Si we wabikoze.",
+        "gloss": "Not him who did it.",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-246": [
+      {
+        "observed": "tahawamwanawe",
+        "text": "Taha wa mwana we.",
+        "gloss": "\"Go home kiddo\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-247": [
+      {
+        "observed": "tekerezako",
+        "text": "Tekereza ko.",
+        "gloss": "\"Suppose that..\"",
+        "source": "Other",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-248": [
+      {
+        "observed": "tubi furije",
+        "text": "Tubifurije.",
+        "gloss": "\"We wish you.\"",
+        "source": "Instagram",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-249": [
+      {
+        "observed": "tubonereho nokunenga",
+        "text": "Tubonereho no kunenga...",
+        "gloss": "\"Let us also take this opportunity to criticize...\"",
+        "source": "WhatsApp",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-250": [
+      {
+        "observed": "tukajyadukuraho",
+        "text": "Tukajya dukuraho.",
+        "gloss": "\"And we would keep removing,\"",
+        "source": "Other",
+        "date": "2026-07-17"
+      }
+    ],
+    "SP-251": [
+      {
+        "observed": "turaba kunda",
+        "text": "Turabakunda!",
+        "gloss": "\"We love you!\"",
+        "source": "Other",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-252": [
+      {
+        "observed": "turi kukazi",
+        "text": "Turi ku kazi.",
+        "gloss": "\"We are at work.\"",
+        "source": "Instagram",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-253": [
+      {
+        "observed": "turibamwe",
+        "text": "Turi bamwe.",
+        "gloss": "\"We are the same.\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-254": [
+      {
+        "observed": "turikuganira",
+        "text": "Turi kuganira.",
+        "gloss": "\"We are having a conversation.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-255": [
+      {
+        "observed": "turikumwe",
+        "text": "Turi kumwe.",
+        "gloss": "\"We are together.\"",
+        "source": "Other",
+        "date": "2026-07-17"
+      }
+    ],
+    "SP-256": [
+      {
+        "observed": "turinda ne",
+        "text": "Turindane.",
+        "gloss": "\"Let's protect each other.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-257": [
+      {
+        "observed": "tuzabaduhari",
+        "text": "Tuzaba duhari.",
+        "gloss": "We will be there (in form of attending a certain event)",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-258": [
+      {
+        "observed": "twaritubakumbuye",
+        "text": "Twari tubakumbuye.",
+        "gloss": "*We missed you.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-259": [
+      {
+        "observed": "ububuzima",
+        "text": "Ubu buzima.",
+        "gloss": "\"This life..\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-260": [
+      {
+        "observed": "ubukori kori",
+        "text": "Ubukorikori.",
+        "gloss": "Magic",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-261": [
+      {
+        "observed": "ubukuru gutwa",
+        "text": "Ubukurugutwa.",
+        "gloss": "\"Earwax\"",
+        "source": "Other",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-262": [
+      {
+        "observed": "ubundise",
+        "text": "Ubundi se..",
+        "gloss": "\"Besides..\"",
+        "source": "Other",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-263": [
+      {
+        "observed": "ubuntayo dufite",
+        "text": "Ubu ntayo dufite.",
+        "gloss": "\"We do not have it now.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-264": [
+      {
+        "observed": "ubute kamutwe",
+        "text": "Ubutekamutwe.",
+        "gloss": "\"Scam.\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-265": [
+      {
+        "observed": "ubuyabaye mwiza",
+        "text": "Ubu yabaye mwiza.",
+        "gloss": "\"Now she looks beautiful\"",
+        "source": "WhatsApp",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-266": [
+      {
+        "observed": "ubwoburyo ni bwizacyane",
+        "text": "Ubwo buryo ni bwiza cyane.",
+        "gloss": "\"That method is very good\"",
+        "source": "Snapchat",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-267": [
+      {
+        "observed": "ubwondize",
+        "text": "Ubwo ndize.",
+        "gloss": "\"Now that I have learned...\"",
+        "source": "TikTok",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-268": [
+      {
+        "observed": "ugombaguhinduka",
+        "text": "Ugomba guhinduka.",
+        "gloss": "\"You have to change.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-269": [
+      {
+        "observed": "Ukobiri kose",
+        "text": "Uko biri kose.",
+        "gloss": "As much as it is!",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-270": [
+      {
+        "observed": "ukobukeye",
+        "text": "Uko bukeye.",
+        "gloss": "Means \"as the new morning comes...\"",
+        "source": "TikTok",
+        "date": "2026-07-03"
+      }
+    ],
+    "SP-271": [
+      {
+        "observed": "ukorerahe",
+        "text": "Ukorera he?",
+        "gloss": "\"Where do you work?\"",
+        "source": "WhatsApp",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-272": [
+      {
+        "observed": "umu nyarwandakazi",
+        "text": "Umunyarwanda kazi.",
+        "gloss": "A Rwandan woma",
+        "source": "Other",
+        "date": "2026-07-04",
+        "note": "reviewer ruling: standard form is 'umunyarwandakazi'"
+      }
+    ],
+    "SP-273": [
+      {
+        "observed": "umucunga mari",
+        "text": "Umucungamari.",
+        "gloss": "\"The person in charge of finance.\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-274": [
+      {
+        "observed": "umufatanyabikorwa",
+        "text": "umufatanyabikorwa",
+        "gloss": "This is a partner",
+        "source": "WhatsApp",
+        "date": "2026-07-04",
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
+      }
+    ],
+    "SP-275": [
+      {
+        "observed": "umukwewacu",
+        "text": "Umukwe wacu.",
+        "gloss": "\"Our brother in law\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-276": [
+      {
+        "observed": "umumara rungu",
+        "text": "Umumararungu.",
+        "gloss": "\"The entertainer.\"",
+        "source": "TikTok",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-277": [
+      {
+        "observed": "umunsikuwundi.",
+        "text": "Umunsi ku wundi.",
+        "gloss": "\"Day after day.\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-278": [
+      {
+        "observed": "umunya mahanga",
+        "text": "Umunyamahanga.",
+        "gloss": "\"A foreigner\"",
+        "source": "Other",
+        "date": "2026-07-09"
+      }
+    ],
+    "SP-279": [
+      {
+        "observed": "umunya mugisha",
+        "text": "Umunyamugisha.",
+        "gloss": "\"The blessed one\"",
+        "source": "WhatsApp",
+        "date": "2026-07-12"
+      }
+    ],
+    "SP-280": [
+      {
+        "observed": "umurirowatse",
+        "text": "Umuriro watse.",
+        "gloss": "Means the fire is burning",
+        "source": "Other",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-281": [
+      {
+        "observed": "umutega rugori",
+        "text": "Umutegarugori.",
+        "gloss": "A woman who has started a motherhood journey",
+        "source": "Other",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-282": [
+      {
+        "observed": "umutindinya kujya",
+        "text": "Umutindi nyakujya.",
+        "gloss": "\"A very poor person.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-17"
+      }
+    ],
+    "SP-283": [
+      {
+        "observed": "umuva ndimwe",
+        "text": "Umuvandimwe.",
+        "gloss": "A sibling.",
+        "source": "Other",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-284": [
+      {
+        "observed": "umvarero nkubwire",
+        "text": "Umva rero nkubwire.",
+        "gloss": "\"Listen to me carefully.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-285": [
+      {
+        "observed": "ura rondogora",
+        "text": "Urarondogora.",
+        "gloss": "\"You are talking endlessly without making sense.\"",
+        "source": "Other",
+        "date": "2026-07-20"
       }
     ],
     "SP-015": [
