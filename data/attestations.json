@@ -293,7 +293,48 @@
     "umuva ndimwe": "SP-283",
     "umvarero nkubwire": "SP-284",
     "ura rondogora": "SP-285",
-    "vahano": "SP-015"
+    "urakazaneza": "SP-286",
+    "uratuba ngamiye": "SP-287",
+    "uretseko": "SP-288",
+    "urikwiganirira": "SP-289",
+    "urimubiki": "SP-290",
+    "uru hererekane": "SP-291",
+    "uruhinjarwarize": "SP-292",
+    "urwa menyo": "SP-293",
+    "usekaneza": "SP-294",
+    "usubizaneza": "SP-295",
+    "utekaneza": "SP-296",
+    "uteyeneza": "SP-297",
+    "utitayekubyo ubona": "SP-298",
+    "utumyendira": "SP-299",
+    "utumyeniyakira": "SP-300",
+    "uyumu nya merica": "SP-301",
+    "uyumugabo nimubi": "SP-302",
+    "uziguteka": "SP-303",
+    "uzikonta rinziko": "SP-304",
+    "uzikonyuma": "SP-305",
+    "uzwinande": "SP-306",
+    "vahano": "SP-015",
+    "vubavuba": "SP-307",
+    "vugawisanzuye": "SP-308",
+    "wagarukiyehe": "SP-309",
+    "wageze yo": "SP-310",
+    "wagisambowe": "SP-311",
+    "wamushonjiwe": "SP-312",
+    "warimwiza": "SP-313",
+    "wavuyekure": "SP-314",
+    "waza nyishyuriye": "SP-315",
+    "wi ngora": "SP-316",
+    "winzanaho iterabwoba": "SP-317",
+    "wowe sekowabikoze": "SP-318",
+    "wowesekira": "SP-319",
+    "yagizeneza": "SP-320",
+    "yambayeneza": "SP-321",
+    "yanyayo": "SP-322",
+    "yara byaye": "SP-323",
+    "yariyagizengo": "SP-324",
+    "yirindako": "SP-325",
+    "yitwande": "SP-326"
   },
   "entries": {
     "SP-002": [
@@ -2899,6 +2940,197 @@
         "date": "2026-07-20"
       }
     ],
+    "SP-286": [
+      {
+        "observed": "urakazaneza",
+        "text": "Urakaza neza.",
+        "gloss": "\"you are welcome\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-287": [
+      {
+        "observed": "uratuba ngamiye",
+        "text": "Uratubangamiye.",
+        "gloss": "\"You are disturbing us\"",
+        "source": "TikTok",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-288": [
+      {
+        "observed": "uretseko",
+        "text": "Uretse ko.",
+        "gloss": "\"Except that.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-289": [
+      {
+        "observed": "urikwiganirira",
+        "text": "Uri kwiganirira.",
+        "gloss": "\"You are just bragging.\"",
+        "source": "Instagram",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-290": [
+      {
+        "observed": "urimubiki",
+        "text": "Uri mu biki?",
+        "gloss": "\"What are you doing?\"",
+        "source": "WhatsApp",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-291": [
+      {
+        "observed": "uru hererekane",
+        "text": "Uruhererekane.",
+        "gloss": "\"Continuous flow\"",
+        "source": "Website/blog",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-292": [
+      {
+        "observed": "uruhinjarwarize",
+        "text": "Uruhinja rwarize.",
+        "gloss": "\"The baby cried\"",
+        "source": "Other",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-293": [
+      {
+        "observed": "urwa menyo",
+        "text": "Urwamenyo.",
+        "gloss": "\"They use this word to mock the person.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-12",
+        "note": "reviewer ruling: standard form is 'urw'amenyo'"
+      }
+    ],
+    "SP-294": [
+      {
+        "observed": "usekaneza",
+        "text": "Useka neza.",
+        "gloss": "\"You smile nice.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-295": [
+      {
+        "observed": "usubizaneza",
+        "text": "Usubiza neza.",
+        "gloss": "\"You reply nicely.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-296": [
+      {
+        "observed": "utekaneza",
+        "text": "Uteka neza!",
+        "gloss": "\"You are a good cook.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-297": [
+      {
+        "observed": "uteyeneza",
+        "text": "Uteye neza.",
+        "gloss": "\"You have a nice shape.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-298": [
+      {
+        "observed": "utitayekubyo ubona",
+        "text": "Utitaye ku byo ubona.",
+        "gloss": "\"Regardless of what you see.\"",
+        "source": "Other",
+        "date": "2026-07-17"
+      }
+    ],
+    "SP-299": [
+      {
+        "observed": "utumyendira",
+        "text": "Utumye ndira.",
+        "gloss": "\"You made me cry\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-300": [
+      {
+        "observed": "utumyeniyakira",
+        "text": "Utumye niyakira,",
+        "gloss": "\"You motivated me in accepting myself.\"",
+        "source": "Website/blog",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-301": [
+      {
+        "observed": "uyumu nya merica",
+        "text": "Uyu munyamerica.",
+        "gloss": "\"This American\"",
+        "source": "WhatsApp",
+        "date": "2026-07-12",
+        "note": "reviewer ruling: standard form is 'uyu munyamerika'"
+      }
+    ],
+    "SP-302": [
+      {
+        "observed": "uyumugabo nimubi",
+        "text": "Uyu mugabo ni mubi!",
+        "gloss": "It means \"this man is ugly\"",
+        "source": "WhatsApp",
+        "date": "2026-07-02"
+      }
+    ],
+    "SP-303": [
+      {
+        "observed": "uziguteka",
+        "text": "Uzi guteka.",
+        "gloss": "\"You are good at cooking.\"",
+        "source": "TikTok",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-304": [
+      {
+        "observed": "uzikonta rinziko",
+        "text": "Uzi ko ntari nzi ko.....",
+        "gloss": "I actually didn't know that...\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-305": [
+      {
+        "observed": "uzikonyuma",
+        "text": "Uzi ko nyuma.",
+        "gloss": "\"Did you know that after..\"",
+        "source": "WhatsApp",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-306": [
+      {
+        "observed": "uzwinande",
+        "text": "Uzwi na nde?",
+        "gloss": "\"By whom are you known?\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
     "SP-015": [
       {
         "observed": "vahano",
@@ -2913,6 +3145,187 @@
         "gloss": "\"Leave this place.\"",
         "source": "X (Twitter)",
         "date": "2026-07-21"
+      }
+    ],
+    "SP-307": [
+      {
+        "observed": "vubavuba",
+        "text": "Vuba vuba.",
+        "gloss": "\"Quickly quickly \"",
+        "source": "X (Twitter)",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-308": [
+      {
+        "observed": "vugawisanzuye",
+        "text": "Vuga wisanzuye.",
+        "gloss": "\"Speak freely or openly.\"",
+        "source": "Other",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-309": [
+      {
+        "observed": "wagarukiyehe",
+        "text": "Wagarukiye he?",
+        "gloss": "\"How far did you get?\"",
+        "source": "Website/blog",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-310": [
+      {
+        "observed": "Wageze yo",
+        "text": "Wagezeyo?",
+        "gloss": "Have you arrived?",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-311": [
+      {
+        "observed": "Wagisambowe",
+        "text": "Wa gisambo we!",
+        "gloss": "Means \"you greedy man!\"",
+        "source": "Other",
+        "date": "2026-07-03"
+      }
+    ],
+    "SP-312": [
+      {
+        "observed": "wamushonjiwe",
+        "text": "Wa mushonji we!",
+        "gloss": "\"You hungry person!\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-313": [
+      {
+        "observed": "warimwiza",
+        "text": "Wari mwiza.",
+        "gloss": "\"You were beautiful.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-314": [
+      {
+        "observed": "wavuyekure",
+        "text": "Wavuye kure.",
+        "gloss": "\"You came from far\"",
+        "source": "TikTok",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-315": [
+      {
+        "observed": "waza nyishyuriye",
+        "text": "Wazanyishyuriye..",
+        "gloss": "\"Could you pay for me ...\"",
+        "source": "TikTok",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-316": [
+      {
+        "observed": "wi ngora",
+        "text": "Wingora.",
+        "gloss": "\"Do not complicate things for me.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-317": [
+      {
+        "observed": "winzanaho iterabwoba",
+        "text": "Winzana ho itera bwoba.",
+        "gloss": "\"Stop threatening me...\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06",
+        "note": "reviewer ruling: standard form is 'winzana ho iterabwoba'"
+      }
+    ],
+    "SP-318": [
+      {
+        "observed": "wowe sekowabikoze",
+        "text": "Wowe se ko wabikoze?",
+        "gloss": "\"But you did it?\"",
+        "source": "AI-generated",
+        "date": "2026-07-17"
+      }
+    ],
+    "SP-319": [
+      {
+        "observed": "wowesekira",
+        "text": "Wowe se ki ra?",
+        "gloss": "\"And what about you then?\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-320": [
+      {
+        "observed": "yagizeneza",
+        "text": "Yagize neza.",
+        "gloss": "\"She/he did well.\"",
+        "source": "TikTok",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-321": [
+      {
+        "observed": "yambayeneza",
+        "text": "Yambaye neza.",
+        "gloss": "\"He/She dresses well.\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-322": [
+      {
+        "observed": "yanyayo",
+        "text": "Ya nyayo.",
+        "gloss": "\"The real one...\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-323": [
+      {
+        "observed": "yara byaye",
+        "text": "Yarabyaye.",
+        "gloss": "She gave birth.",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-324": [
+      {
+        "observed": "yariyagizengo",
+        "text": "Yari yagize ngo.",
+        "gloss": "\"He/she thought that..\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-325": [
+      {
+        "observed": "yirindako",
+        "text": "Yirinda ko.",
+        "gloss": "\"He avoids that..\"",
+        "source": "TikTok",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-326": [
+      {
+        "observed": "yitwande",
+        "text": "Yitwa nde?",
+        "gloss": "\"What's his/her name?\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-26"
       }
     ]
   }

@@ -7598,6 +7598,544 @@
       "pos": "phrase"
     },
     {
+      "id": "SP-286",
+      "word": "urakaza neza",
+      "category": "spacing_rules",
+      "definition": "\"you are welcome\"",
+      "rule": "Standard form: 'urakaza neza'. The form 'urakazaneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Urakaza neza.",
+            "translation": "\"you are welcome\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "urakazaneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-287",
+      "word": "uratubangamiye",
+      "category": "spacing_rules",
+      "definition": "\"You are disturbing us\"",
+      "rule": "Standard form: 'uratubangamiye'. The form 'uratuba ngamiye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uratubangamiye.",
+            "translation": "\"You are disturbing us\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uratuba ngamiye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-288",
+      "word": "uretse ko",
+      "category": "spacing_rules",
+      "definition": "\"Except that.\"",
+      "rule": "Standard form: 'uretse ko'. The form 'uretseko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uretse ko.",
+            "translation": "\"Except that.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uretseko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-289",
+      "word": "uri kwiganirira",
+      "category": "spacing_rules",
+      "definition": "You are just kidding.",
+      "rule": "Standard form: 'uri kwiganirira'. The form 'urikwiganirira' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uri kwiganirira.",
+            "translation": "You are just kidding."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "urikwiganirira",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-290",
+      "word": "uri mu biki",
+      "category": "spacing_rules",
+      "definition": "\"What are you doing?\"",
+      "rule": "Standard form: 'uri mu biki'. The form 'urimubiki' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uri mu biki?",
+            "translation": "\"What are you doing?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "urimubiki",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-291",
+      "word": "uruhererekane",
+      "category": "spacing_rules",
+      "definition": "\"Continuous flow\"",
+      "rule": "Standard form: 'uruhererekane'. The form 'uru hererekane' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uruhererekane.",
+            "translation": "\"Continuous flow\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uru hererekane",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-292",
+      "word": "uruhinja rwarize",
+      "category": "spacing_rules",
+      "definition": "\"The baby cried\"",
+      "rule": "Standard form: 'uruhinja rwarize'. The form 'uruhinjarwarize' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uruhinja rwarize.",
+            "translation": "\"The baby cried\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uruhinjarwarize",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-293",
+      "word": "urw'amenyo",
+      "category": "spacing_rules",
+      "definition": "Laughing stock.",
+      "rule": "Standard form: 'urw'amenyo'. The form 'urwa menyo' joins or splits word boundaries incorrectly. Reviewer emendation: the collected correction 'Urwamenyo' was amended to 'urw'amenyo'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Urw'amenyo.",
+            "translation": "Laughing stock."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "urwa menyo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "notes": "Reviewer emendation: the contraction 'urw'amenyo', not fused."
+    },
+    {
+      "id": "SP-294",
+      "word": "useka neza",
+      "category": "spacing_rules",
+      "definition": "\"You smile nice.\"",
+      "rule": "Standard form: 'useka neza'. The form 'usekaneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Useka neza.",
+            "translation": "\"You smile nice.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "usekaneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-295",
+      "word": "usubiza neza",
+      "category": "spacing_rules",
+      "definition": "\"You reply nicely.\"",
+      "rule": "Standard form: 'usubiza neza'. The form 'usubizaneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Usubiza neza.",
+            "translation": "\"You reply nicely.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "usubizaneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-296",
+      "word": "uteka neza",
+      "category": "spacing_rules",
+      "definition": "\"You are a good cook.\"",
+      "rule": "Standard form: 'uteka neza'. The form 'utekaneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uteka neza!",
+            "translation": "\"You are a good cook.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "utekaneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-297",
+      "word": "uteye neza",
+      "category": "spacing_rules",
+      "definition": "\"You have a nice shape.\"",
+      "rule": "Standard form: 'uteye neza'. The form 'uteyeneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uteye neza.",
+            "translation": "\"You have a nice shape.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uteyeneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-298",
+      "word": "utitaye ku byo ubona",
+      "category": "spacing_rules",
+      "definition": "\"Regardless of what you see.\"",
+      "rule": "Standard form: 'utitaye ku byo ubona'. The form 'utitayekubyo ubona' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Utitaye ku byo ubona.",
+            "translation": "\"Regardless of what you see.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "utitayekubyo ubona",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-299",
+      "word": "utumye ndira",
+      "category": "spacing_rules",
+      "definition": "\"You made me cry\"",
+      "rule": "Standard form: 'utumye ndira'. The form 'utumyendira' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Utumye ndira.",
+            "translation": "\"You made me cry\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "utumyendira",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-300",
+      "word": "utumye niyakira",
+      "category": "spacing_rules",
+      "definition": "\"You motivated me in accepting myself.\"",
+      "rule": "Standard form: 'utumye niyakira'. The form 'utumyeniyakira' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Utumye niyakira,",
+            "translation": "\"You motivated me in accepting myself.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "utumyeniyakira",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-301",
+      "word": "uyu munyamerika",
+      "category": "spacing_rules",
+      "definition": "\"This American\"",
+      "rule": "Standard form: 'uyu munyamerika'. The form 'uyumu nya merica' joins or splits word boundaries incorrectly. Reviewer emendation: the collected correction 'Uyu munyamerica' was amended to 'uyu munyamerika'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uyu munyamerika.",
+            "translation": "\"This American\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uyumu nya merica",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "Reviewer emendation: 'k' not 'c' - Kinyarwanda orthography (munyamerika)."
+    },
+    {
+      "id": "SP-302",
+      "word": "uyu mugabo ni mubi",
+      "category": "spacing_rules",
+      "definition": "It means \"this man is ugly\"",
+      "rule": "Standard form: 'uyu mugabo ni mubi'. The form 'uyumugabo nimubi' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uyu mugabo ni mubi!",
+            "translation": "It means \"this man is ugly\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uyumugabo nimubi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-303",
+      "word": "uzi guteka",
+      "category": "spacing_rules",
+      "definition": "\"You are good at cooking.\"",
+      "rule": "Standard form: 'uzi guteka'. The form 'uziguteka' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uzi guteka.",
+            "translation": "\"You are good at cooking.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uziguteka",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-304",
+      "word": "uzi ko ntari nzi ko",
+      "category": "spacing_rules",
+      "definition": "I actually didn't know that...\"",
+      "rule": "Standard form: 'uzi ko ntari nzi ko'. The form 'uzikonta rinziko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uzi ko ntari nzi ko.....",
+            "translation": "I actually didn't know that...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uzikonta rinziko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-305",
+      "word": "uzi ko nyuma",
+      "category": "spacing_rules",
+      "definition": "\"Did you know that after..\"",
+      "rule": "Standard form: 'uzi ko nyuma'. The form 'uzikonyuma' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uzi ko nyuma.",
+            "translation": "\"Did you know that after..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uzikonyuma",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-306",
+      "word": "uzwi na nde",
+      "category": "spacing_rules",
+      "definition": "\"By whom are you known?\"",
+      "rule": "Standard form: 'uzwi na nde'. The form 'uzwinande' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Uzwi na nde?",
+            "translation": "\"By whom are you known?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "uzwinande",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
       "id": "SP-015",
       "word": "va hano",
       "category": "spacing_rules",
@@ -7617,6 +8155,526 @@
         "incorrect": [
           {
             "text": "vahano",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-307",
+      "word": "vuba vuba",
+      "category": "spacing_rules",
+      "definition": "\"Quickly quickly \"",
+      "rule": "Standard form: 'vuba vuba'. The form 'vubavuba' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Vuba vuba.",
+            "translation": "\"Quickly quickly \""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "vubavuba",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-308",
+      "word": "vuga wisanzuye",
+      "category": "spacing_rules",
+      "definition": "\"Speak freely or openly.\"",
+      "rule": "Standard form: 'vuga wisanzuye'. The form 'vugawisanzuye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Vuga wisanzuye.",
+            "translation": "\"Speak freely or openly.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "vugawisanzuye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-309",
+      "word": "wagarukiye he",
+      "category": "spacing_rules",
+      "definition": "\"How far did you get?\"",
+      "rule": "Standard form: 'wagarukiye he'. The form 'wagarukiyehe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wagarukiye he?",
+            "translation": "\"How far did you get?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "wagarukiyehe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-310",
+      "word": "wagezeyo",
+      "category": "spacing_rules",
+      "definition": "Have you arrived?",
+      "rule": "Standard form: 'wagezeyo'. The form 'Wageze yo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wagezeyo?",
+            "translation": "Have you arrived?"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Wageze yo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-311",
+      "word": "wa gisambo we",
+      "category": "spacing_rules",
+      "definition": "Means \"you greedy man!\"",
+      "rule": "Standard form: 'wa gisambo we'. The form 'Wagisambowe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wa gisambo we!",
+            "translation": "Means \"you greedy man!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Wagisambowe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-312",
+      "word": "wa mushonji we",
+      "category": "spacing_rules",
+      "definition": "\"You hungry person!\"",
+      "rule": "Standard form: 'wa mushonji we'. The form 'wamushonjiwe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wa mushonji we!",
+            "translation": "\"You hungry person!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "wamushonjiwe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-313",
+      "word": "wari mwiza",
+      "category": "spacing_rules",
+      "definition": "\"You were beautiful.\"",
+      "rule": "Standard form: 'wari mwiza'. The form 'warimwiza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wari mwiza.",
+            "translation": "\"You were beautiful.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "warimwiza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-314",
+      "word": "wavuye kure",
+      "category": "spacing_rules",
+      "definition": "\"You came from far\"",
+      "rule": "Standard form: 'wavuye kure'. The form 'wavuyekure' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wavuye kure.",
+            "translation": "\"You came from far\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "wavuyekure",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-315",
+      "word": "wazanyishyuriye",
+      "category": "spacing_rules",
+      "definition": "\"Could you pay for me ...\"",
+      "rule": "Standard form: 'wazanyishyuriye'. The form 'waza nyishyuriye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wazanyishyuriye..",
+            "translation": "\"Could you pay for me ...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "waza nyishyuriye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-316",
+      "word": "wingora",
+      "category": "spacing_rules",
+      "definition": "\"Do not complicate things for me.\"",
+      "rule": "Standard form: 'wingora'. The form 'wi ngora' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wingora.",
+            "translation": "\"Do not complicate things for me.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "wi ngora",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-317",
+      "word": "winzana ho iterabwoba",
+      "category": "spacing_rules",
+      "definition": "\"Stop threatening me...\"",
+      "rule": "Standard form: 'winzana ho iterabwoba'. The form 'winzanaho iterabwoba' joins or splits word boundaries incorrectly. Reviewer emendation: the collected correction 'Winzana ho itera bwoba' was amended to 'winzana ho iterabwoba'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Winzana ho iterabwoba.",
+            "translation": "\"Stop threatening me...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "winzanaho iterabwoba",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "Reviewer emendation: 'iterabwoba' is one word (compound)."
+    },
+    {
+      "id": "SP-318",
+      "word": "wowe se ko wabikoze",
+      "category": "spacing_rules",
+      "definition": "\"But you did it?\"",
+      "rule": "Standard form: 'wowe se ko wabikoze'. The form 'wowe sekowabikoze' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wowe se ko wabikoze?",
+            "translation": "\"But you did it?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "wowe sekowabikoze",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-319",
+      "word": "wowe se ki ra",
+      "category": "spacing_rules",
+      "definition": "\"And what about you then?\"",
+      "rule": "Standard form: 'wowe se ki ra'. The form 'wowesekira' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Wowe se ki ra?",
+            "translation": "\"And what about you then?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "wowesekira",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "Reviewer: sarcastic conversational construction."
+    },
+    {
+      "id": "SP-320",
+      "word": "yagize neza",
+      "category": "spacing_rules",
+      "definition": "\"She/he did well.\"",
+      "rule": "Standard form: 'yagize neza'. The form 'yagizeneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Yagize neza.",
+            "translation": "\"She/he did well.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yagizeneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-321",
+      "word": "yambaye neza",
+      "category": "spacing_rules",
+      "definition": "\"He/She dresses well.\"",
+      "rule": "Standard form: 'yambaye neza'. The form 'yambayeneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Yambaye neza.",
+            "translation": "\"He/She dresses well.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yambayeneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-322",
+      "word": "ya nyayo",
+      "category": "spacing_rules",
+      "definition": "\"The real one...\"",
+      "rule": "Standard form: 'ya nyayo'. The form 'yanyayo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ya nyayo.",
+            "translation": "\"The real one...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yanyayo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-323",
+      "word": "yarabyaye",
+      "category": "spacing_rules",
+      "definition": "She gave birth.",
+      "rule": "Standard form: 'yarabyaye'. The form 'yara byaye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Yarabyaye.",
+            "translation": "She gave birth."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yara byaye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-324",
+      "word": "yari yagize ngo",
+      "category": "spacing_rules",
+      "definition": "\"He/she thought that..\"",
+      "rule": "Standard form: 'yari yagize ngo'. The form 'yariyagizengo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Yari yagize ngo.",
+            "translation": "\"He/she thought that..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yariyagizengo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-325",
+      "word": "yirinda ko",
+      "category": "spacing_rules",
+      "definition": "\"He avoids that..\"",
+      "rule": "Standard form: 'yirinda ko'. The form 'yirindako' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Yirinda ko.",
+            "translation": "\"He avoids that..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yirindako",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-326",
+      "word": "yitwa nde",
+      "category": "spacing_rules",
+      "definition": "\"What's his/her name?\"",
+      "rule": "Standard form: 'yitwa nde'. The form 'yitwande' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Yitwa nde?",
+            "translation": "\"What's his/her name?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "yitwande",
             "error": "Word-boundary error"
           }
         ]
