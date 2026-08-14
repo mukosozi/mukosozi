@@ -88,6 +88,74 @@
       "contributor": "Christophe Mumaragishyika (native speaker, project lead)",
       "status": "verified",
       "added_date": "2026-08-07"
+    },
+    {
+      "id": "NI-001",
+      "name": "Copula 'ni' vs imperative 'ni-'",
+      "category": "copula_and_imperative",
+      "description": "'Ni' as the copula (to be) stands alone; 'ni-' marking an imperative or supplicative of a state binds to the verb.",
+      "rule": "When 'ni' is the verb 'to be', it remains a separate word: 'Ni muremure' (he/she is tall), 'Ni muzima', 'Ni ngombwa'. When 'ni-' expresses an imperative or a supplicative/pleading of a state - what should be done - it fuses with the verb: 'Nimuntabare' (please help), 'Nimwicare' (please sit), 'Nimwige', 'Nimunyumvire', 'Niyubahwe' (may he/she be respected).",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni muremure.",
+            "translation": "He/She is tall."
+          },
+          {
+            "text": "Nimwicare.",
+            "translation": "Please sit."
+          },
+          {
+            "text": "Niyubahwe.",
+            "translation": "May he/she be respected."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ni yubahwe",
+            "error": "Imperative/supplicative 'ni-' must fuse with the verb"
+          },
+          {
+            "text": "nimuremure",
+            "error": "Copula 'ni' must stand alone"
+          }
+        ]
+      },
+      "contributor": "Christophe Mumaragishyika (native speaker, project lead)",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "NEG-001",
+      "name": "Negation: independent 'nta' vs bound 'nti-'",
+      "category": "negation",
+      "description": "'Nta' (no / there is no) always stands alone; the negative prefix 'nti-' is bound and never splits from its verb.",
+      "rule": "'Nta' negating a noun is always a separate word: 'Nta mwanya' (no time), 'Nta banga', 'Nta kamaro'. The verbal negative prefix 'nti-' always fuses: 'Ntibitureba', 'Ntiwahabonetse', 'Ntimubona ko...'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta mwanya.",
+            "translation": "No time."
+          },
+          {
+            "text": "Ntibitureba.",
+            "translation": "It's none of our business."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ntamwanya",
+            "error": "'Nta' must stand alone"
+          },
+          {
+            "text": "Nti bitureba",
+            "error": "'nti-' is a bound prefix and must not be split"
+          }
+        ]
+      },
+      "contributor": "Christophe Mumaragishyika (native speaker, project lead)",
+      "status": "verified",
+      "added_date": "2026-08-14"
     }
   ],
   "lexical_exceptions": [
@@ -625,7 +693,7 @@
       "word": "amarangamutima",
       "category": "spacing_rules",
       "definition": "Means \"emotions\"",
-      "rule": "Standard form: 'amarangamutima' (one word). The split form 'Amaranga mutima' is invalid.",
+      "rule": "Standard form: 'amarangamutima'. The collected correction 'Amaranga mutima' is invalid; the attested form was already standard.",
       "examples": {
         "correct": [
           {
@@ -636,7 +704,7 @@
         "incorrect": [
           {
             "text": "Amaranga mutima.",
-            "error": "Invalid split; this compound is one word"
+            "error": "Invalid correction; the attested form is standard"
           }
         ]
       },
@@ -4920,6 +4988,1304 @@
         "incorrect": [
           {
             "text": "ngahorero",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-186",
+      "word": "ngo babyumve se",
+      "category": "spacing_rules",
+      "definition": "\"Is it so they get the message?\"",
+      "rule": "Standard form: 'ngo babyumve se'. The form 'ngo babyumvese' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ngo babyumve se?",
+            "translation": "\"Is it so they get the message?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ngo babyumvese",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-187",
+      "word": "ngo mve yo",
+      "category": "spacing_rules",
+      "definition": "\"That I should leave there..\"",
+      "rule": "Standard form: 'ngo mve yo'. The form 'ngomveyo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ngo mve yo.",
+            "translation": "\"That I should leave there..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ngomveyo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-188",
+      "word": "ngo yarankundaga",
+      "category": "spacing_rules",
+      "definition": "\"That he/she loved me...\"",
+      "rule": "Standard form: 'ngo yarankundaga'. The form 'ngoyarankundaga' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ngo yarankundaga.",
+            "translation": "\"That he/she loved me...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ngoyarankundaga",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-189",
+      "word": "ngwino twibanire",
+      "category": "spacing_rules",
+      "definition": "\"Come and stay with me.\"",
+      "rule": "Standard form: 'ngwino twibanire'. The form 'ngwinotwibanire' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ngwino twibanire.",
+            "translation": "\"Come and stay with me.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ngwinotwibanire",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-190",
+      "word": "nimuntabare",
+      "category": "spacing_rules",
+      "definition": "\"Please help!\"",
+      "rule": "Standard form: 'nimuntabare'. The form 'ni muntabare' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nimuntabare!",
+            "translation": "\"Please help!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ni muntabare",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-191",
+      "word": "nimwicare",
+      "category": "spacing_rules",
+      "definition": "\"Please sit.\"",
+      "rule": "Standard form: 'nimwicare'. The form 'ni mwicare' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nimwicare.",
+            "translation": "\"Please sit.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ni mwicare",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-192",
+      "word": "nimwige neza muzatsinda",
+      "category": "spacing_rules",
+      "definition": "Means\"study well you shall pass\"",
+      "rule": "Standard form: 'nimwige neza muzatsinda'. The form 'ni mwige neza mu zatsinda' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nimwige neza muzatsinda.",
+            "translation": "Means\"study well you shall pass\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ni mwige neza mu zatsinda",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-193",
+      "word": "nibajya babashora ho urugamba",
+      "category": "spacing_rules",
+      "definition": "\"When they wage war against you...\"",
+      "rule": "Standard form: 'nibajya babashora ho urugamba'. The form 'nibajyababa shoraho urugamba' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nibajya babashora ho urugamba...",
+            "translation": "\"When they wage war against you...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nibajyababa shoraho urugamba",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-194",
+      "word": "ni bo bazemerewe gusa",
+      "category": "spacing_rules",
+      "definition": "\"They are the only ones allowed\"",
+      "rule": "Standard form: 'ni bo bazemerewe gusa'. The form 'nibobazemerewe gusa' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni bo bazemerewe gusa.",
+            "translation": "\"They are the only ones allowed\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nibobazemerewe gusa",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-195",
+      "word": "ni ko twaziguraga",
+      "category": "spacing_rules",
+      "definition": "\"That's how we used to buy them.\"",
+      "rule": "Standard form: 'ni ko twaziguraga'. The form 'nikotwaziguraga' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni ko twaziguraga.",
+            "translation": "\"That's how we used to buy them.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nikotwaziguraga",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-196",
+      "word": "ni mabi pe",
+      "category": "spacing_rules",
+      "definition": "\"They are truly terrible.\"",
+      "rule": "Standard form: 'ni mabi pe'. The form 'nimabi pe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni mabi pe!",
+            "translation": "\"They are truly terrible.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nimabi pe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-197",
+      "word": "nimunyumvire",
+      "category": "spacing_rules",
+      "definition": "\"Obey me\" Telling a lot of people.",
+      "rule": "Standard form: 'nimunyumvire'. The form 'nimu nyumvire' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nimunyumvire.",
+            "translation": "\"Obey me\" Telling a lot of people."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nimu nyumvire",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-235",
+      "word": "ni muremure",
+      "category": "spacing_rules",
+      "definition": "\"He/She is tall\"",
+      "rule": "Standard form: 'ni muremure'. The form 'nimuremure' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni muremure.",
+            "translation": "\"He/She is tall\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nimuremure",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-198",
+      "word": "ni mu ruhe rurimi",
+      "category": "spacing_rules",
+      "definition": "\"In which language?\"",
+      "rule": "Standard form: 'ni mu ruhe rurimi'. The form 'nimuruherurimi' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni mu ruhe rurimi",
+            "translation": "\"In which language?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nimuruherurimi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-199",
+      "word": "ni muzima",
+      "category": "spacing_rules",
+      "definition": "Means \"he/she is alive\"",
+      "rule": "Standard form: 'ni muzima'. The form 'nimuzima' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni muzima",
+            "translation": "Means \"he/she is alive\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nimuzima",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-200",
+      "word": "ni mwebwe mbese",
+      "category": "spacing_rules",
+      "definition": "\"So, is it you?\"",
+      "rule": "Standard form: 'ni mwebwe mbese'. The form 'nimwebwe mbese' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni mwebwe mbese?",
+            "translation": "\"So, is it you?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nimwebwe mbese",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-201",
+      "word": "ni ngombwa",
+      "category": "spacing_rules",
+      "definition": "Its necessary.",
+      "rule": "Standard form: 'ni ngombwa'. The form 'ningombwa' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni ngombwa!",
+            "translation": "Its necessary."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ningombwa",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-202",
+      "word": "ni we wabivuze",
+      "category": "spacing_rules",
+      "definition": "Not him who said it",
+      "rule": "Standard form: 'ni we wabivuze'. The form 'niwe wabivuze' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni we wabivuze.",
+            "translation": "Not him who said it"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "niwe wabivuze",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-203",
+      "word": "ni yo mpamvu",
+      "category": "spacing_rules",
+      "definition": "\"That is why.\"",
+      "rule": "Standard form: 'ni yo mpamvu'. The form 'niyompamvu' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni yo mpamvu.",
+            "translation": "\"That is why.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "niyompamvu",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-204",
+      "word": "ni yo ntandaro ya byose",
+      "category": "spacing_rules",
+      "definition": "This means\"this is the beginning of everything\"",
+      "rule": "Standard form: 'ni yo ntandaro ya byose'. The form 'niyontandaro yabyose' joins or splits word boundaries incorrectly. Reviewer emendation: the collected correction 'Niyo ntandaro ya byose' was amended to 'ni yo ntandaro ya byose'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ni yo ntandaro ya byose.",
+            "translation": "This means\"this is the beginning of everything\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "niyontandaro yabyose",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "notes": "Reviewer emendation: 'Niyo' separates - 'Ni yo' (copula; see NI-001)."
+    },
+    {
+      "id": "SP-205",
+      "word": "niyubahwe",
+      "category": "spacing_rules",
+      "definition": "\"May he/she be respected.\"",
+      "rule": "Standard form: 'niyubahwe'. The collected correction 'Ni yubahwe' is invalid; the attested form was already standard.",
+      "examples": {
+        "correct": [
+          {
+            "text": "niyubahwe",
+            "translation": "\"May he/she be respected.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ni yubahwe.",
+            "error": "Invalid correction; the attested form is standard"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "flip: imperative 'ni-' fuses - 'Niyubahwe' is the standard form (see NI-001)."
+    },
+    {
+      "id": "SP-206",
+      "word": "nizere ko",
+      "category": "spacing_rules",
+      "definition": "\"I hope that.\"",
+      "rule": "Standard form: 'nizere ko'. The form 'nizereko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nizere ko.",
+            "translation": "\"I hope that.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nizereko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-207",
+      "word": "nje kubasura",
+      "category": "spacing_rules",
+      "definition": "\"I am coming to visit you.\"",
+      "rule": "Standard form: 'nje kubasura'. The form 'njekubasura' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nje kubasura.",
+            "translation": "\"I am coming to visit you.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "njekubasura",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-208",
+      "word": "nkazahura nawe",
+      "category": "spacing_rules",
+      "definition": "\"And I will meet with you\"",
+      "rule": "Standard form: 'nkazahura nawe'. The form 'nkazahuranawe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nkazahura nawe.",
+            "translation": "\"And I will meet with you\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nkazahuranawe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-209",
+      "word": "nkunda ko",
+      "category": "spacing_rules",
+      "definition": "\"I love that.\"",
+      "rule": "Standard form: 'nkunda ko'. The form 'nkundako' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nkunda ko.",
+            "translation": "\"I love that.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nkundako",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-210",
+      "word": "nkunze ko",
+      "category": "spacing_rules",
+      "definition": "\"I like the fact that...\"",
+      "rule": "Standard form: 'nkunze ko'. The form 'nkunzeko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nkunze ko..",
+            "translation": "\"I like the fact that...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nkunzeko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-211",
+      "word": "no mu cyaro",
+      "category": "spacing_rules",
+      "definition": "\"In the village as well.\"",
+      "rule": "Standard form: 'no mu cyaro'. The form 'nomucyaro' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "No mu cyaro.",
+            "translation": "\"In the village as well.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nomucyaro",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-212",
+      "word": "no mu gihagararo",
+      "category": "spacing_rules",
+      "definition": "\"Even in height..\"",
+      "rule": "Standard form: 'no mu gihagararo'. The form 'nomugihagararo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "No mu gihagararo.",
+            "translation": "\"Even in height..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nomugihagararo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-213",
+      "word": "nta mwanya",
+      "category": "spacing_rules",
+      "definition": "\"No time\"",
+      "rule": "Standard form: 'nta mwanya'. The collected correction 'Ntamwanya' is invalid; the attested form was already standard.",
+      "examples": {
+        "correct": [
+          {
+            "text": "nta mwanya",
+            "translation": "\"No time\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ntamwanya.",
+            "error": "Invalid correction; the attested form is standard"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "flip: 'Nta' always stands alone - 'Nta mwanya' is the standard form (see NEG-001)."
+    },
+    {
+      "id": "SP-214",
+      "word": "nta banga",
+      "category": "spacing_rules",
+      "definition": "\"No secret\"",
+      "rule": "Standard form: 'nta banga'. The form 'ntabanga' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta banga",
+            "translation": "\"No secret\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntabanga",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-215",
+      "word": "nta bikabyo",
+      "category": "spacing_rules",
+      "definition": "\"No exaggerations,\"",
+      "rule": "Standard form: 'nta bikabyo'. The form 'ntabikabyo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta bikabyo.",
+            "translation": "\"No exaggerations,\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntabikabyo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-216",
+      "word": "nta gusoma",
+      "category": "spacing_rules",
+      "definition": "\"Without reading\"",
+      "rule": "Standard form: 'nta gusoma'. The form 'ntagusoma' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta gusoma,",
+            "translation": "\"Without reading\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntagusoma",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-217",
+      "word": "nta kamaro",
+      "category": "spacing_rules",
+      "definition": "\"No importance\"",
+      "rule": "Standard form: 'nta kamaro'. The form 'ntakamaro' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta kamaro.",
+            "translation": "\"No importance\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntakamaro",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-218",
+      "word": "nta mazi ahari",
+      "category": "spacing_rules",
+      "definition": "It means \"there is no water\"",
+      "rule": "Standard form: 'nta mazi ahari'. The form 'ntamazi ahari' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta mazi ahari.",
+            "translation": "It means \"there is no water\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntamazi ahari",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-219",
+      "word": "nta mukozi",
+      "category": "spacing_rules",
+      "definition": "\"No employee....\"",
+      "rule": "Standard form: 'nta mukozi'. The form 'ntamukozi' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta mukozi.",
+            "translation": "\"No employee....\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntamukozi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-220",
+      "word": "nta munyeshuri numwe watsinzwe",
+      "category": "spacing_rules",
+      "definition": "Means \"no student failed\"",
+      "rule": "Standard form: 'nta munyeshuri numwe watsinzwe'. The form 'ntamunyeshuri numwe watsinzwe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta munyeshuri numwe watsinzwe.",
+            "translation": "Means \"no student failed\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntamunyeshuri numwe watsinzwe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-221",
+      "word": "nta mutekano",
+      "category": "spacing_rules",
+      "definition": "\"There is no security\"",
+      "rule": "Standard form: 'nta mutekano'. The form 'ntamutekano' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta mutekano",
+            "translation": "\"There is no security\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntamutekano",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-222",
+      "word": "nta na rimwe",
+      "category": "spacing_rules",
+      "definition": "\"Not even once\"",
+      "rule": "Standard form: 'nta na rimwe'. The form 'ntanarimwe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta na rimwe.",
+            "translation": "\"Not even once\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntanarimwe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-223",
+      "word": "nta nzira byacamo",
+      "category": "spacing_rules",
+      "definition": "\"There is no way it can happen,\"",
+      "rule": "Standard form: 'nta nzira byacamo'. The form 'ntanzirabyacamo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta nzira byacamo.",
+            "translation": "\"There is no way it can happen,\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntanzirabyacamo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-224",
+      "word": "nta rindi jambo",
+      "category": "spacing_rules",
+      "definition": "\"No other word.\"",
+      "rule": "Standard form: 'nta rindi jambo'. The form 'ntarindijambo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta rindi jambo.",
+            "translation": "\"No other word.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntarindijambo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-225",
+      "word": "nta suku iri mu nzu",
+      "category": "spacing_rules",
+      "definition": "\"The house is not clean\"",
+      "rule": "Standard form: 'nta suku iri mu nzu'. The form 'ntasuku irimunzu' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nta suku iri mu nzu!",
+            "translation": "\"The house is not clean\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntasuku irimunzu",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-226",
+      "word": "ntibitureba",
+      "category": "spacing_rules",
+      "definition": "\"It's none of our business.\"",
+      "rule": "Standard form: 'ntibitureba'. The collected correction 'Nti bitureba' is invalid; the attested form was already standard.",
+      "examples": {
+        "correct": [
+          {
+            "text": "ntibitureba",
+            "translation": "\"It's none of our business.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Nti bitureba.",
+            "error": "Invalid correction; the attested form is standard"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "flip: 'nti-' is bound - 'Ntibitureba' is the standard form (see NEG-001)."
+    },
+    {
+      "id": "SP-227",
+      "word": "ntimubona ko",
+      "category": "spacing_rules",
+      "definition": "\"Don't you see that....\"",
+      "rule": "Standard form: 'ntimubona ko'. The form 'ntimubonako' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ntimubona ko...",
+            "translation": "\"Don't you see that....\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ntimubonako",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-228",
+      "word": "ntiwahabonetse",
+      "category": "spacing_rules",
+      "definition": "\"You were not available.\"",
+      "rule": "Standard form: 'ntiwahabonetse'. The collected correction 'Nti wahabonetse' is invalid; the attested form was already standard.",
+      "examples": {
+        "correct": [
+          {
+            "text": "ntiwahabonetse",
+            "translation": "\"You were not available.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Nti wahabonetse.",
+            "error": "Invalid correction; the attested form is standard"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "flip: 'nti-' is bound - 'Ntiwahabonetse' is the standard form (see NEG-001)."
+    },
+    {
+      "id": "SP-229",
+      "word": "nyiramubande",
+      "category": "spacing_rules",
+      "definition": "\"Echo\"",
+      "rule": "Standard form: 'nyiramubande'. The form 'nyira mubande' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nyiramubande.",
+            "translation": "\"Echo\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nyira mubande",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-230",
+      "word": "nyiri byago",
+      "category": "spacing_rules",
+      "definition": "\"The unfortunate one\"",
+      "rule": "Standard form: 'nyiri byago'. The form 'nyiribyago' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nyiri byago.",
+            "translation": "\"The unfortunate one\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nyiribyago",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-231",
+      "word": "nzajyayo ndebe ko nyibona",
+      "category": "spacing_rules",
+      "definition": "\"I will go and see if i can see it.\"",
+      "rule": "Standard form: 'nzajyayo ndebe ko nyibona'. The form 'nzajyayo ndebeko nyibona' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nzajyayo ndebe ko nyibona.",
+            "translation": "\"I will go and see if i can see it.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nzajyayo ndebeko nyibona",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-232",
+      "word": "nzarinda mpfa",
+      "category": "spacing_rules",
+      "definition": "\"I will until I die\"",
+      "rule": "Standard form: 'nzarinda mpfa'. The form 'nzarindampfa' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nzarinda mpfa..",
+            "translation": "\"I will until I die\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nzarindampfa",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-233",
+      "word": "nze dusangire",
+      "category": "spacing_rules",
+      "definition": "\"Should I come so we can share / eat together?\"",
+      "rule": "Standard form: 'nze dusangire'. The form 'nzedu sangire?.' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nze dusangire?",
+            "translation": "\"Should I come so we can share / eat together?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nzedu sangire?.",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-234",
+      "word": "nzi kubyina",
+      "category": "spacing_rules",
+      "definition": "\"I know how to dance.\"",
+      "rule": "Standard form: 'nzi kubyina'. The form 'nzikubyina' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nzi kubyina.",
+            "translation": "\"I know how to dance.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nzikubyina",
             "error": "Word-boundary error"
           }
         ]

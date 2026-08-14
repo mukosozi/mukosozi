@@ -193,6 +193,56 @@
     "ndimuzima": "SP-183",
     "ndumva ubwobabundenze": "SP-184",
     "ngahorero": "SP-185",
+    "ngo babyumvese": "SP-186",
+    "ngomveyo": "SP-187",
+    "ngoyarankundaga": "SP-188",
+    "ngwinotwibanire": "SP-189",
+    "ni muntabare": "SP-190",
+    "ni mwicare": "SP-191",
+    "ni mwige neza mu zatsinda": "SP-192",
+    "nibajyababa shoraho urugamba": "SP-193",
+    "nibobazemerewe gusa": "SP-194",
+    "nikotwaziguraga": "SP-195",
+    "nimabi pe": "SP-196",
+    "nimu nyumvire": "SP-197",
+    "nimuremure": "SP-235",
+    "nimuruherurimi": "SP-198",
+    "nimuzima": "SP-199",
+    "nimwebwe mbese": "SP-200",
+    "ningombwa": "SP-201",
+    "niwe wabivuze": "SP-202",
+    "niyompamvu": "SP-203",
+    "niyontandaro yabyose": "SP-204",
+    "niyubahwe": "SP-205",
+    "nizereko": "SP-206",
+    "njekubasura": "SP-207",
+    "nkazahuranawe": "SP-208",
+    "nkundako": "SP-209",
+    "nkunzeko": "SP-210",
+    "nomucyaro": "SP-211",
+    "nomugihagararo": "SP-212",
+    "nta mwanya": "SP-213",
+    "ntabanga": "SP-214",
+    "ntabikabyo": "SP-215",
+    "ntagusoma": "SP-216",
+    "ntakamaro": "SP-217",
+    "ntamazi ahari": "SP-218",
+    "ntamukozi": "SP-219",
+    "ntamunyeshuri numwe watsinzwe": "SP-220",
+    "ntamutekano": "SP-221",
+    "ntanarimwe": "SP-222",
+    "ntanzirabyacamo": "SP-223",
+    "ntarindijambo": "SP-224",
+    "ntasuku irimunzu": "SP-225",
+    "ntibitureba": "SP-226",
+    "ntimubonako": "SP-227",
+    "ntiwahabonetse": "SP-228",
+    "nyira mubande": "SP-229",
+    "nyiribyago": "SP-230",
+    "nzajyayo ndebeko nyibona": "SP-231",
+    "nzarindampfa": "SP-232",
+    "nzedu sangire?.": "SP-233",
+    "nzikubyina": "SP-234",
     "vahano": "SP-015"
   },
   "entries": {
@@ -357,7 +407,7 @@
         "gloss": "Means \"emotions\"",
         "source": "TikTok",
         "date": "2026-07-03",
-        "note": "attested in the standard form; the split in the collection file was a collection-side error"
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
       }
     ],
     "SP-024": [
@@ -1881,6 +1931,468 @@
         "gloss": "\"There you go\"",
         "source": "TikTok",
         "date": "2026-07-22"
+      }
+    ],
+    "SP-186": [
+      {
+        "observed": "ngo babyumvese",
+        "text": "Ngo babyumve se?",
+        "gloss": "\"Is it so they get the message?\"",
+        "source": "Other",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-187": [
+      {
+        "observed": "ngomveyo",
+        "text": "Ngo mve yo.",
+        "gloss": "\"That I should leave there..\"",
+        "source": "TikTok",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-188": [
+      {
+        "observed": "ngoyarankundaga",
+        "text": "Ngo yarankundaga.",
+        "gloss": "\"That he/she loved me...\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-189": [
+      {
+        "observed": "ngwinotwibanire",
+        "text": "Ngwino twibanire.",
+        "gloss": "\"Come and stay with me.\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-190": [
+      {
+        "observed": "ni muntabare",
+        "text": "Nimuntabare!",
+        "gloss": "\"Please help!\"",
+        "source": "TikTok",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-191": [
+      {
+        "observed": "ni mwicare",
+        "text": "Nimwicare.",
+        "gloss": "\"Please sit.\"",
+        "source": "",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-192": [
+      {
+        "observed": "ni mwige neza mu zatsinda",
+        "text": "Nimwige neza muzatsinda.",
+        "gloss": "Means\"study well you shall pass\"",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-193": [
+      {
+        "observed": "nibajyababa shoraho urugamba",
+        "text": "Nibajya babashora ho urugamba...",
+        "gloss": "\"When they wage war against you...\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-194": [
+      {
+        "observed": "nibobazemerewe gusa",
+        "text": "Ni bo bazemerewe gusa.",
+        "gloss": "\"They are the only ones allowed\"",
+        "source": "WhatsApp",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-195": [
+      {
+        "observed": "nikotwaziguraga",
+        "text": "Ni ko twaziguraga.",
+        "gloss": "\"That's how we used to buy them.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-29"
+      }
+    ],
+    "SP-196": [
+      {
+        "observed": "nimabi pe",
+        "text": "Ni mabi pe!",
+        "gloss": "\"They are truly terrible.\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-197": [
+      {
+        "observed": "nimu nyumvire",
+        "text": "Nimunyumvire.",
+        "gloss": "\"Obey me\" Telling a lot of people.",
+        "source": "WhatsApp",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-235": [
+      {
+        "observed": "nimuremure",
+        "text": "Ni muremure.",
+        "gloss": "\"He/She is tall\"",
+        "source": "Other",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-198": [
+      {
+        "observed": "nimuruherurimi",
+        "text": "Ni mu ruhe rurimi",
+        "gloss": "\"In which language?\"",
+        "source": "Instagram",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-199": [
+      {
+        "observed": "nimuzima",
+        "text": "Ni muzima",
+        "gloss": "Means \"he/she is alive\"",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-200": [
+      {
+        "observed": "nimwebwe mbese",
+        "text": "Ni mwebwe mbese?",
+        "gloss": "\"So, is it you?\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-201": [
+      {
+        "observed": "ningombwa",
+        "text": "Ni ngombwa!",
+        "gloss": "Its necessary.",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-202": [
+      {
+        "observed": "niwe wabivuze",
+        "text": "Ni we wabivuze.",
+        "gloss": "Not him who said it",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-203": [
+      {
+        "observed": "niyompamvu",
+        "text": "Ni yo mpamvu.",
+        "gloss": "\"That is why.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-204": [
+      {
+        "observed": "niyontandaro yabyose",
+        "text": "Niyo ntandaro ya byose.",
+        "gloss": "This means\"this is the beginning of everything\"",
+        "source": "Other",
+        "date": "2026-07-03",
+        "note": "reviewer ruling: standard form is 'ni yo ntandaro ya byose'"
+      }
+    ],
+    "SP-205": [
+      {
+        "observed": "niyubahwe",
+        "text": "niyubahwe",
+        "gloss": "\"May he/she be respected.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-30",
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
+      }
+    ],
+    "SP-206": [
+      {
+        "observed": "nizereko",
+        "text": "Nizere ko.",
+        "gloss": "\"I hope that.\"",
+        "source": "Other",
+        "date": "2026-07-18"
+      },
+      {
+        "observed": "nizereko",
+        "text": "Nizere ko.",
+        "gloss": "\"i hope that..\"",
+        "source": "Other",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-207": [
+      {
+        "observed": "njekubasura",
+        "text": "Nje kubasura.",
+        "gloss": "\"I am coming to visit you.\"",
+        "source": "Other",
+        "date": "2026-07-09"
+      }
+    ],
+    "SP-208": [
+      {
+        "observed": "nkazahuranawe",
+        "text": "Nkazahura nawe.",
+        "gloss": "\"And I will meet with you\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-209": [
+      {
+        "observed": "nkundako",
+        "text": "Nkunda ko.",
+        "gloss": "\"I love that.\"",
+        "source": "Other",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-210": [
+      {
+        "observed": "nkunzeko",
+        "text": "Nkunze ko..",
+        "gloss": "\"I like the fact that...\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-211": [
+      {
+        "observed": "nomucyaro",
+        "text": "No mu cyaro.",
+        "gloss": "\"In the village as well.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-212": [
+      {
+        "observed": "nomugihagararo",
+        "text": "No mu gihagararo.",
+        "gloss": "\"Even in height..\"",
+        "source": "TikTok",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-213": [
+      {
+        "observed": "nta mwanya",
+        "text": "nta mwanya",
+        "gloss": "\"No time\"",
+        "source": "TikTok",
+        "date": "2026-07-08",
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
+      }
+    ],
+    "SP-214": [
+      {
+        "observed": "ntabanga",
+        "text": "Nta banga",
+        "gloss": "\"No secret\"",
+        "source": "WhatsApp",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-215": [
+      {
+        "observed": "ntabikabyo",
+        "text": "Nta bikabyo.",
+        "gloss": "\"No exaggerations,\"",
+        "source": "WhatsApp",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-216": [
+      {
+        "observed": "ntagusoma",
+        "text": "Nta gusoma,",
+        "gloss": "\"Without reading\"",
+        "source": "Other",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-217": [
+      {
+        "observed": "ntakamaro",
+        "text": "Nta kamaro.",
+        "gloss": "\"No importance\"",
+        "source": "Instagram",
+        "date": "2026-07-10"
+      }
+    ],
+    "SP-218": [
+      {
+        "observed": "ntamazi ahari",
+        "text": "Nta mazi ahari.",
+        "gloss": "It means \"there is no water\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-219": [
+      {
+        "observed": "ntamukozi",
+        "text": "Nta mukozi.",
+        "gloss": "\"No employee....\"",
+        "source": "Other",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-220": [
+      {
+        "observed": "ntamunyeshuri numwe watsinzwe",
+        "text": "Nta munyeshuri numwe watsinzwe.",
+        "gloss": "Means \"no student failed\"",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-221": [
+      {
+        "observed": "ntamutekano",
+        "text": "Nta mutekano",
+        "gloss": "\"There is no security\"",
+        "source": "Other",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-222": [
+      {
+        "observed": "ntanarimwe",
+        "text": "Nta na rimwe.",
+        "gloss": "\"Not even once\"",
+        "source": "Instagram",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-223": [
+      {
+        "observed": "ntanzirabyacamo",
+        "text": "Nta nzira byacamo.",
+        "gloss": "\"There is no way it can happen,\"",
+        "source": "WhatsApp",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-224": [
+      {
+        "observed": "ntarindijambo",
+        "text": "Nta rindi jambo.",
+        "gloss": "\"No other word.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-225": [
+      {
+        "observed": "ntasuku irimunzu",
+        "text": "Nta suku iri mu nzu!",
+        "gloss": "\"The house is not clean\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-226": [
+      {
+        "observed": "ntibitureba",
+        "text": "ntibitureba",
+        "gloss": "\"It's none of our business.\"",
+        "source": "TikTok",
+        "date": "2026-07-26",
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
+      }
+    ],
+    "SP-227": [
+      {
+        "observed": "ntimubonako",
+        "text": "Ntimubona ko...",
+        "gloss": "\"Don't you see that....\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-228": [
+      {
+        "observed": "ntiwahabonetse",
+        "text": "ntiwahabonetse",
+        "gloss": "\"You were not available.\"",
+        "source": "TikTok",
+        "date": "2026-07-24",
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
+      }
+    ],
+    "SP-229": [
+      {
+        "observed": "nyira mubande",
+        "text": "Nyiramubande.",
+        "gloss": "\"Echo\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-230": [
+      {
+        "observed": "nyiribyago",
+        "text": "Nyiri byago.",
+        "gloss": "\"The unfortunate one\"",
+        "source": "Other",
+        "date": "2026-07-15"
+      }
+    ],
+    "SP-231": [
+      {
+        "observed": "nzajyayo ndebeko nyibona",
+        "text": "Nzajyayo ndebe ko nyibona.",
+        "gloss": "\"I will go and see if i can see it.\"",
+        "source": "TikTok",
+        "date": "2026-07-16"
+      }
+    ],
+    "SP-232": [
+      {
+        "observed": "nzarindampfa",
+        "text": "Nzarinda mpfa..",
+        "gloss": "\"I will until I die\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-233": [
+      {
+        "observed": "nzedu sangire?.",
+        "text": "Nze dusangire?",
+        "gloss": "\"Should I come so we can share / eat together?\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-234": [
+      {
+        "observed": "nzikubyina",
+        "text": "Nzi kubyina.",
+        "gloss": "\"I know how to dance.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
       }
     ],
     "SP-015": [
