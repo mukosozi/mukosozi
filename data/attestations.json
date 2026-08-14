@@ -7,7 +7,7 @@
     "collector": "Sarah Izabayo",
     "reviewer": "Christophe Mumaragishyika",
     "repository": "https://github.com/mukosozi/mukosozi",
-    "created": "2026-08-13"
+    "created": "2026-08-14"
   },
   "index": {
     "aba hungu": "SP-002",
@@ -142,7 +142,57 @@
     "kugasongero": "SP-133",
     "kugirango": "SP-134",
     "kumugoroba": "SP-135",
+    "kungufu": "SP-136",
+    "kuruhande.": "SP-137",
+    "kurwegorwo hejuru": "SP-138",
+    "kwita kubidukikije": "SP-139",
+    "mbandindiriyeko": "SP-140",
+    "mubukwebwanjye": "SP-141",
+    "mubuzimabwe": "SP-142",
+    "mugikoni": "SP-143",
+    "mukwambere": "SP-144",
+    "mumabarayose": "SP-145",
+    "mumagambo": "SP-146",
+    "mumahugurwa": "SP-147",
+    "mumazinaye": "SP-148",
+    "mumbwirirengo": "SP-149",
+    "mumenyo": "SP-150",
+    "mumutwewawe": "SP-151",
+    "mundazabanyina": "SP-152",
+    "muntara": "SP-153",
+    "munya kazi": "SP-154",
+    "mura shobokanye": "SP-155",
+    "murakazaneza": "SP-156",
+    "muri sanga": "SP-157",
+    "muribande": "SP-158",
+    "murikumutuka": "SP-159",
+    "murikumwe": "SP-160",
+    "muruhande rwanyu.": "SP-161",
+    "muruturuturu": "SP-162",
+    "mvugi rango": "SP-163",
+    "mwabantu mwe": "SP-164",
     "mwabantumwe": "SP-014",
+    "mwabayegutekoko": "SP-165",
+    "mwarimwarambabaje": "SP-166",
+    "n'ikimenyi menyi": "SP-167",
+    "nabyo nibibi": "SP-168",
+    "nanjyendumva": "SP-169",
+    "narinarakubuze": "SP-170",
+    "naringizengo": "SP-171",
+    "narintwite": "SP-172",
+    "ndabiziko": "SP-173",
+    "ndagirante": "SP-174",
+    "ndagukundape": "SP-175",
+    "ndaribwa munda": "SP-176",
+    "ndashaka kotubana": "SP-177",
+    "ndashakagu korankawe": "SP-178",
+    "ndebahasi": "SP-179",
+    "ndiguseka": "SP-180",
+    "ndikwayura": "SP-181",
+    "ndimurukundo": "SP-182",
+    "ndimuzima": "SP-183",
+    "ndumva ubwobabundenze": "SP-184",
+    "ngahorero": "SP-185",
     "vahano": "SP-015"
   },
   "entries": {
@@ -1352,6 +1402,267 @@
         "date": "2026-07-05"
       }
     ],
+    "SP-136": [
+      {
+        "observed": "kungufu",
+        "text": "Ku ngufu",
+        "gloss": "\"By force\"",
+        "source": "Other",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-137": [
+      {
+        "observed": "kuruhande.",
+        "text": "Ku ruhande.",
+        "gloss": "\"Aside.\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-138": [
+      {
+        "observed": "kurwegorwo hejuru",
+        "text": "Ku rwego rwo hejuru.",
+        "gloss": "\"At a high level\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-139": [
+      {
+        "observed": "kwita kubidukikije",
+        "text": "Kwita ku bidukikije.",
+        "gloss": "Mans \"Taking care of the environment.\"",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "SP-140": [
+      {
+        "observed": "mbandindiriyeko",
+        "text": "Mba ndindiriye ko....",
+        "gloss": "\"I stay waiting for\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-141": [
+      {
+        "observed": "mubukwebwanjye",
+        "text": "Mu bukwe bwanjye.",
+        "gloss": "\"In my wedding.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-142": [
+      {
+        "observed": "mubuzimabwe",
+        "text": "Mu buzima bwe.",
+        "gloss": "\"In his/her life.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-143": [
+      {
+        "observed": "mugikoni",
+        "text": "Mu gikoni.",
+        "gloss": "\"In the kitchen.\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-144": [
+      {
+        "observed": "mukwambere",
+        "text": "Mu kwa mbere.",
+        "gloss": "\"In January.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-145": [
+      {
+        "observed": "mumabarayose",
+        "text": "Mu mabara yose.",
+        "gloss": "\"In all colors.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-146": [
+      {
+        "observed": "mumagambo",
+        "text": "Mu magambo.",
+        "gloss": "\"In words.\"",
+        "source": "Instagram",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-147": [
+      {
+        "observed": "mumahugurwa",
+        "text": "Mu mahugurwa.",
+        "gloss": "\"In the trainings\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-148": [
+      {
+        "observed": "mumazinaye",
+        "text": "Mu mazina ye.",
+        "gloss": "\"In his or her name.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-149": [
+      {
+        "observed": "mumbwirirengo",
+        "text": "Mumbwirire ngo..",
+        "gloss": "*Tell him or her on my behalf that....\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-150": [
+      {
+        "observed": "mumenyo",
+        "text": "Mu menyo.",
+        "gloss": "\"In the teeth.\"",
+        "source": "Facebook",
+        "date": "2026-07-30"
+      }
+    ],
+    "SP-151": [
+      {
+        "observed": "mumutwewawe",
+        "text": "Mu mutwe wawe.",
+        "gloss": "\"In your head..\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-152": [
+      {
+        "observed": "mundazabanyina",
+        "text": "Mu nda za ba nyina.",
+        "gloss": "\"In the womb of their mothers\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-153": [
+      {
+        "observed": "muntara",
+        "text": "Mu ntara.",
+        "gloss": "\"In the province.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-18"
+      }
+    ],
+    "SP-154": [
+      {
+        "observed": "munya kazi",
+        "text": "Munyakazi.",
+        "gloss": "\"Hard worker.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-155": [
+      {
+        "observed": "mura shobokanye",
+        "text": "Murashobokanye.",
+        "gloss": "\"You are a perfect match\"",
+        "source": "Other",
+        "date": "2026-07-28"
+      }
+    ],
+    "SP-156": [
+      {
+        "observed": "murakazaneza",
+        "text": "Murakaza neza.",
+        "gloss": "\"You are welcome\"",
+        "source": "WhatsApp",
+        "date": "2026-07-17"
+      }
+    ],
+    "SP-157": [
+      {
+        "observed": "muri sanga",
+        "text": "Murisanga.",
+        "gloss": "\"You are welcome\"",
+        "source": "Other",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-158": [
+      {
+        "observed": "muribande",
+        "text": "Muri ba nde?",
+        "gloss": "\"Who are you?\"",
+        "source": "TikTok",
+        "date": "2026-07-07"
+      }
+    ],
+    "SP-159": [
+      {
+        "observed": "murikumutuka",
+        "text": "Muri kumutuka.",
+        "gloss": "\"You are insulting him/her.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-20"
+      }
+    ],
+    "SP-160": [
+      {
+        "observed": "murikumwe",
+        "text": "Muri kumwe.",
+        "gloss": "\"You are together.\"",
+        "source": "TikTok",
+        "date": "2026-07-24"
+      }
+    ],
+    "SP-161": [
+      {
+        "observed": "muruhande rwanyu.",
+        "text": "Mu ruhande rwanyu.",
+        "gloss": "\"By your side.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-162": [
+      {
+        "observed": "muruturuturu",
+        "text": "Mu ruturuturu.",
+        "gloss": "\"Early in the morning\"",
+        "source": "WhatsApp",
+        "date": "2026-07-13"
+      }
+    ],
+    "SP-163": [
+      {
+        "observed": "mvugi rango",
+        "text": "Mvugira ngo.",
+        "gloss": "\"Say this for me..\"",
+        "source": "WhatsApp",
+        "date": "2026-07-21"
+      }
+    ],
+    "SP-164": [
+      {
+        "observed": "mwabantu mwe",
+        "text": "Mwa bantu mwe!",
+        "gloss": "Said when addressing to a lot people\"you guys!\"",
+        "source": "Other",
+        "date": "2026-07-04"
+      }
+    ],
     "SP-014": [
       {
         "observed": "mwabantumwe",
@@ -1366,6 +1677,210 @@
         "gloss": "\"You people.\"",
         "source": "X (Twitter)",
         "date": "2026-07-29"
+      }
+    ],
+    "SP-165": [
+      {
+        "observed": "mwabayegutekoko",
+        "text": "Mwabaye gute koko?",
+        "gloss": "\"What on earth happened to you guys?\"",
+        "source": "Instagram",
+        "date": "2026-07-16"
+      }
+    ],
+    "SP-166": [
+      {
+        "observed": "mwarimwarambabaje",
+        "text": "Mwari mwarambabaje.",
+        "gloss": "\"You had made me sad.\"",
+        "source": "Instagram",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-167": [
+      {
+        "observed": "n'ikimenyi menyi",
+        "text": "N'ikimenyimenyi.",
+        "gloss": "\"As a proof\"",
+        "source": "Other",
+        "date": "2026-07-19"
+      }
+    ],
+    "SP-168": [
+      {
+        "observed": "nabyo nibibi",
+        "text": "Nabyo ni bibi.",
+        "gloss": "\"It is bad also\"",
+        "source": "Other",
+        "date": "2026-07-08",
+        "note": "reviewer ruling: standard form is 'na byo ni bibi'"
+      }
+    ],
+    "SP-169": [
+      {
+        "observed": "nanjyendumva",
+        "text": "Nanjye ndumva...",
+        "gloss": "\"I also think....\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-170": [
+      {
+        "observed": "narinarakubuze",
+        "text": "Nari narakubuze.",
+        "gloss": "\"I have not seen you for long.\"",
+        "source": "Other",
+        "date": "2026-07-11"
+      },
+      {
+        "observed": "narinarakubuze",
+        "text": "Nari narakubuze.",
+        "gloss": "\"I had lost touch with you,\"",
+        "source": "WhatsApp",
+        "date": "2026-07-19"
+      },
+      {
+        "observed": "narinarakubuze",
+        "text": "Nari narakubuze.",
+        "gloss": "\"I had lost track of you.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "SP-171": [
+      {
+        "observed": "naringizengo",
+        "text": "Naringize ngo.",
+        "gloss": "It means \"i thought that.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "SP-172": [
+      {
+        "observed": "narintwite",
+        "text": "Nari ntwite.",
+        "gloss": "\"I was pregnant.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "SP-173": [
+      {
+        "observed": "ndabiziko",
+        "text": "Ndabizi ko.",
+        "gloss": "\"I know that\"",
+        "source": "Other",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-174": [
+      {
+        "observed": "ndagirante",
+        "text": "Ndagira nte!",
+        "gloss": "\"What should I do!\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-175": [
+      {
+        "observed": "Ndagukundape",
+        "text": "Ndagukunda pe!",
+        "gloss": "\"I love you for real\"",
+        "source": "Other",
+        "date": "2026-07-02"
+      }
+    ],
+    "SP-176": [
+      {
+        "observed": "ndaribwa munda",
+        "text": "Ndaribwa mu nda.",
+        "gloss": "\"i have a stomachache\"",
+        "source": "TikTok",
+        "date": "2026-07-08"
+      }
+    ],
+    "SP-177": [
+      {
+        "observed": "ndashaka kotubana",
+        "text": "Ndashaka ko tubana.",
+        "gloss": "\"I want us to live together.\"",
+        "source": "Other",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-178": [
+      {
+        "observed": "ndashakagu korankawe",
+        "text": "Ndashaka gukora nkawe.",
+        "gloss": "\"I want to work like you.\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "SP-179": [
+      {
+        "observed": "ndebahasi",
+        "text": "Ndeba hasi.",
+        "gloss": "\"I look down\"",
+        "source": "WhatsApp",
+        "date": "2026-07-14"
+      }
+    ],
+    "SP-180": [
+      {
+        "observed": "ndiguseka",
+        "text": "Ndi guseka.",
+        "gloss": "\"I am laughing\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
+      }
+    ],
+    "SP-181": [
+      {
+        "observed": "ndikwayura",
+        "text": "Ndi kwayura.",
+        "gloss": "\"I am yawning.\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-182": [
+      {
+        "observed": "ndimurukundo",
+        "text": "Ndi mu rukundo.",
+        "gloss": "\"I'm in love.\"",
+        "source": "Instagram",
+        "date": "2026-07-25"
+      }
+    ],
+    "SP-183": [
+      {
+        "observed": "ndimuzima",
+        "text": "Ndi muzima.",
+        "gloss": "\"I am healthy.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-11"
+      }
+    ],
+    "SP-184": [
+      {
+        "observed": "ndumva ubwobabundenze",
+        "text": "Ndumva ubwoba bundenze!",
+        "gloss": "\"I am so afraid!\"",
+        "source": "Other",
+        "date": "2026-07-06"
+      }
+    ],
+    "SP-185": [
+      {
+        "observed": "ngahorero",
+        "text": "Ngaho rero.",
+        "gloss": "\"There you go\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
       }
     ],
     "SP-015": [

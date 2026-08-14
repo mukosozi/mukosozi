@@ -11,7 +11,7 @@
     "description": "A structured linguistic knowledge base for Kinyarwanda: grammar rules, lexical exceptions, and neologisms. Each entry is reviewed by a native speaker and traceable to a documented rule ID.",
     "contact": "mukosozi.rw@gmail.com",
     "repository": "https://github.com/mukosozi/mukosozi",
-    "last_export": "2026-08-13"
+    "last_export": "2026-08-14"
   },
   "grammar_rules": [
     {
@@ -206,7 +206,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-003",
@@ -231,7 +231,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -257,7 +257,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-005",
@@ -282,7 +282,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -308,7 +308,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -334,7 +334,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-008",
@@ -359,7 +359,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -385,7 +385,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-010",
@@ -410,7 +410,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -436,7 +436,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -462,7 +462,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -488,7 +488,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -514,7 +514,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -540,7 +540,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -566,7 +566,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "notes": "Reviewer emendation: yanciranye -> yanshiranye"
     },
     {
@@ -592,7 +592,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -618,7 +618,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-023",
@@ -643,7 +643,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "flip: amarangamutima is one word (reviewer ruling)"
     },
@@ -670,7 +670,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -696,7 +696,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -722,7 +722,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -748,7 +748,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-028",
@@ -773,7 +773,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -799,7 +799,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-030",
@@ -824,7 +824,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-031",
@@ -849,7 +849,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -875,7 +875,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -901,7 +901,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -927,7 +927,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -953,7 +953,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -979,7 +979,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1005,7 +1005,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1031,7 +1031,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1057,7 +1057,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1083,7 +1083,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1109,7 +1109,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1135,7 +1135,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-043",
@@ -1160,7 +1160,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1186,7 +1186,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1212,7 +1212,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1238,7 +1238,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1264,7 +1264,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1290,7 +1290,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Interrogative (reviewer)"
     },
@@ -1317,7 +1317,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Interrogative (reviewer)"
     },
@@ -1344,7 +1344,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Exclamative (reviewer); period preserved per tone rule"
     },
@@ -1371,7 +1371,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Exclamative (reviewer)"
     },
@@ -1398,7 +1398,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1424,7 +1424,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Interrogative (reviewer)"
     },
@@ -1451,7 +1451,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Reviewer gloss emendation."
     },
@@ -1478,7 +1478,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Reviewer emendation: gute -> bite, agreement with 2nd person plural (cf. ati/bati pattern)"
     },
@@ -1505,7 +1505,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "buri covers both English 'every' and 'each' (reviewer)"
     },
@@ -1532,7 +1532,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "buri covers both English 'every' and 'each' (reviewer)"
     },
@@ -1559,7 +1559,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1585,7 +1585,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1611,7 +1611,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "buri covers both English 'every' and 'each' (reviewer)."
     },
@@ -1638,7 +1638,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1664,7 +1664,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1690,7 +1690,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1716,7 +1716,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1742,7 +1742,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1768,7 +1768,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "cyane adds emphasis: 'indeed' (reviewer)."
     },
@@ -1795,7 +1795,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1821,7 +1821,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1847,7 +1847,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "notes": "Split is correct; collector gloss 'Yesterday' emended per TR-001 (ejo temporal system)."
     },
     {
@@ -1873,7 +1873,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-071",
@@ -1898,7 +1898,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1924,7 +1924,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1954,7 +1954,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -1980,7 +1980,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-074",
@@ -2005,7 +2005,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2031,7 +2031,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-076",
@@ -2056,7 +2056,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2082,7 +2082,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2108,7 +2108,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2134,7 +2134,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2160,7 +2160,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2186,7 +2186,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2212,7 +2212,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2238,7 +2238,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-084",
@@ -2263,7 +2263,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2289,7 +2289,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2315,7 +2315,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2341,7 +2341,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-088",
@@ -2366,7 +2366,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-089",
@@ -2391,7 +2391,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Imana (God) always capitalized; lowercase 'imana' = gods (reviewer). Tense: irabikoze = just now; yabikoze = recent past; yarabikoze = far past."
     },
@@ -2418,7 +2418,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-091",
@@ -2443,7 +2443,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2469,7 +2469,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2495,7 +2495,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-094",
@@ -2520,7 +2520,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-095",
@@ -2545,7 +2545,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2571,7 +2571,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-097",
@@ -2596,7 +2596,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-098",
@@ -2621,7 +2621,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2647,7 +2647,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2673,7 +2673,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2699,7 +2699,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2725,7 +2725,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-103",
@@ -2750,7 +2750,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-104",
@@ -2775,7 +2775,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-105",
@@ -2800,7 +2800,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-106",
@@ -2825,7 +2825,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2851,7 +2851,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2877,7 +2877,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2903,7 +2903,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2929,7 +2929,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-111",
@@ -2954,7 +2954,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -2980,7 +2980,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase",
       "notes": "Past tense (reviewer); present would be 'Uramutse wibeshye'."
     },
@@ -3011,7 +3011,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3037,7 +3037,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3063,7 +3063,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3089,7 +3089,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3115,7 +3115,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3141,7 +3141,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3167,7 +3167,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3193,7 +3193,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3219,7 +3219,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3245,7 +3245,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3271,7 +3271,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3297,7 +3297,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-124",
@@ -3322,7 +3322,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3348,7 +3348,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3374,7 +3374,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3400,7 +3400,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3426,7 +3426,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3452,7 +3452,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3478,7 +3478,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3504,7 +3504,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13"
+      "added_date": "2026-08-14"
     },
     {
       "id": "SP-132",
@@ -3529,7 +3529,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3555,7 +3555,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3581,7 +3581,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3607,7 +3607,757 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-136",
+      "word": "ku ngufu",
+      "category": "spacing_rules",
+      "definition": "\"By force\"",
+      "rule": "Standard form: 'ku ngufu'. The form 'kungufu' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ku ngufu",
+            "translation": "\"By force\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "kungufu",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-137",
+      "word": "ku ruhande",
+      "category": "spacing_rules",
+      "definition": "\"Aside.\"",
+      "rule": "Standard form: 'ku ruhande'. The form 'kuruhande.' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ku ruhande.",
+            "translation": "\"Aside.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "kuruhande.",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-138",
+      "word": "ku rwego rwo hejuru",
+      "category": "spacing_rules",
+      "definition": "\"At a high level\"",
+      "rule": "Standard form: 'ku rwego rwo hejuru'. The form 'kurwegorwo hejuru' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ku rwego rwo hejuru.",
+            "translation": "\"At a high level\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "kurwegorwo hejuru",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-139",
+      "word": "kwita ku bidukikije",
+      "category": "spacing_rules",
+      "definition": "Mans \"Taking care of the environment.\"",
+      "rule": "Standard form: 'kwita ku bidukikije'. The form 'kwita kubidukikije' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Kwita ku bidukikije.",
+            "translation": "Mans \"Taking care of the environment.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "kwita kubidukikije",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-140",
+      "word": "mba ndindiriye ko",
+      "category": "spacing_rules",
+      "definition": "\"I stay waiting for\"",
+      "rule": "Standard form: 'mba ndindiriye ko'. The form 'mbandindiriyeko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mba ndindiriye ko....",
+            "translation": "\"I stay waiting for\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mbandindiriyeko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-141",
+      "word": "mu bukwe bwanjye",
+      "category": "spacing_rules",
+      "definition": "\"In my wedding.\"",
+      "rule": "Standard form: 'mu bukwe bwanjye'. The form 'mubukwebwanjye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu bukwe bwanjye.",
+            "translation": "\"In my wedding.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mubukwebwanjye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-142",
+      "word": "mu buzima bwe",
+      "category": "spacing_rules",
+      "definition": "\"In his/her life.\"",
+      "rule": "Standard form: 'mu buzima bwe'. The form 'mubuzimabwe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu buzima bwe.",
+            "translation": "\"In his/her life.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mubuzimabwe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-143",
+      "word": "mu gikoni",
+      "category": "spacing_rules",
+      "definition": "\"In the kitchen.\"",
+      "rule": "Standard form: 'mu gikoni'. The form 'mugikoni' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu gikoni.",
+            "translation": "\"In the kitchen.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mugikoni",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-144",
+      "word": "mu kwa mbere",
+      "category": "spacing_rules",
+      "definition": "\"In January.\"",
+      "rule": "Standard form: 'mu kwa mbere'. The form 'mukwambere' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu kwa mbere.",
+            "translation": "\"In January.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mukwambere",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "Elliptical month reference (reviewer): 'Mu kwa' is short for 'Mu kwezi kwa' (in the month of); months are referenced by ordinal - 'Mu kwa mbere' = first month = January, 'Mu kwa kabiri' = February."
+    },
+    {
+      "id": "SP-145",
+      "word": "mu mabara yose",
+      "category": "spacing_rules",
+      "definition": "\"In all colors.\"",
+      "rule": "Standard form: 'mu mabara yose'. The form 'mumabarayose' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu mabara yose.",
+            "translation": "\"In all colors.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumabarayose",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-146",
+      "word": "mu magambo",
+      "category": "spacing_rules",
+      "definition": "\"In words.\"",
+      "rule": "Standard form: 'mu magambo'. The form 'mumagambo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu magambo.",
+            "translation": "\"In words.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumagambo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-147",
+      "word": "mu mahugurwa",
+      "category": "spacing_rules",
+      "definition": "\"In the trainings\"",
+      "rule": "Standard form: 'mu mahugurwa'. The form 'mumahugurwa' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu mahugurwa.",
+            "translation": "\"In the trainings\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumahugurwa",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-148",
+      "word": "mu mazina ye",
+      "category": "spacing_rules",
+      "definition": "\"In his or her name.\"",
+      "rule": "Standard form: 'mu mazina ye'. The form 'mumazinaye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu mazina ye.",
+            "translation": "\"In his or her name.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumazinaye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-149",
+      "word": "mumbwirire ngo",
+      "category": "spacing_rules",
+      "definition": "*Tell him or her on my behalf that....\"",
+      "rule": "Standard form: 'mumbwirire ngo'. The form 'mumbwirirengo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mumbwirire ngo..",
+            "translation": "*Tell him or her on my behalf that....\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumbwirirengo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-150",
+      "word": "mu menyo",
+      "category": "spacing_rules",
+      "definition": "\"In the teeth.\"",
+      "rule": "Standard form: 'mu menyo'. The form 'mumenyo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu menyo.",
+            "translation": "\"In the teeth.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumenyo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-151",
+      "word": "mu mutwe wawe",
+      "category": "spacing_rules",
+      "definition": "\"In your head..\"",
+      "rule": "Standard form: 'mu mutwe wawe'. The form 'mumutwewawe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu mutwe wawe.",
+            "translation": "\"In your head..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mumutwewawe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-152",
+      "word": "mu nda za ba nyina",
+      "category": "spacing_rules",
+      "definition": "\"In the womb of their mothers\"",
+      "rule": "Standard form: 'mu nda za ba nyina'. The form 'mundazabanyina' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu nda za ba nyina.",
+            "translation": "\"In the womb of their mothers\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mundazabanyina",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-153",
+      "word": "mu ntara",
+      "category": "spacing_rules",
+      "definition": "\"In the province.\"",
+      "rule": "Standard form: 'mu ntara'. The form 'muntara' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu ntara.",
+            "translation": "\"In the province.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "muntara",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-154",
+      "word": "munyakazi",
+      "category": "spacing_rules",
+      "definition": "\"Hard worker.\"",
+      "rule": "Standard form: 'munyakazi'. The form 'munya kazi' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Munyakazi.",
+            "translation": "\"Hard worker.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "munya kazi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-155",
+      "word": "murashobokanye",
+      "category": "spacing_rules",
+      "definition": "\"You are a perfect match\"",
+      "rule": "Standard form: 'murashobokanye'. The form 'mura shobokanye' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Murashobokanye.",
+            "translation": "\"You are a perfect match\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mura shobokanye",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-156",
+      "word": "murakaza neza",
+      "category": "spacing_rules",
+      "definition": "\"You are welcome\"",
+      "rule": "Standard form: 'murakaza neza'. The form 'murakazaneza' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Murakaza neza.",
+            "translation": "\"You are welcome\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "murakazaneza",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-157",
+      "word": "murisanga",
+      "category": "spacing_rules",
+      "definition": "\"You are welcome\"",
+      "rule": "Standard form: 'murisanga'. The form 'muri sanga' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Murisanga.",
+            "translation": "\"You are welcome\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "muri sanga",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-158",
+      "word": "muri ba nde",
+      "category": "spacing_rules",
+      "definition": "\"Who are you?\"",
+      "rule": "Standard form: 'muri ba nde'. The form 'muribande' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Muri ba nde?",
+            "translation": "\"Who are you?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "muribande",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-159",
+      "word": "muri kumutuka",
+      "category": "spacing_rules",
+      "definition": "\"You are insulting him/her.\"",
+      "rule": "Standard form: 'muri kumutuka'. The form 'murikumutuka' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Muri kumutuka.",
+            "translation": "\"You are insulting him/her.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "murikumutuka",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-160",
+      "word": "muri kumwe",
+      "category": "spacing_rules",
+      "definition": "\"You are together.\"",
+      "rule": "Standard form: 'muri kumwe'. The form 'murikumwe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Muri kumwe.",
+            "translation": "\"You are together.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "murikumwe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-161",
+      "word": "mu ruhande rwanyu",
+      "category": "spacing_rules",
+      "definition": "\"By your side.\"",
+      "rule": "Standard form: 'mu ruhande rwanyu'. The form 'muruhande rwanyu.' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu ruhande rwanyu.",
+            "translation": "\"By your side.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "muruhande rwanyu.",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-162",
+      "word": "mu ruturuturu",
+      "category": "spacing_rules",
+      "definition": "\"Early in the morning\"",
+      "rule": "Standard form: 'mu ruturuturu'. The form 'muruturuturu' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mu ruturuturu.",
+            "translation": "\"Early in the morning\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "muruturuturu",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-163",
+      "word": "mvugira ngo",
+      "category": "spacing_rules",
+      "definition": "\"Say this for me..\"",
+      "rule": "Standard form: 'mvugira ngo'. The form 'mvugi rango' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mvugira ngo.",
+            "translation": "\"Say this for me..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mvugi rango",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-164",
+      "word": "mwa bantu mwe",
+      "category": "spacing_rules",
+      "definition": "Said when addressing to a lot people\"you guys!\"",
+      "rule": "Standard form: 'mwa bantu mwe'. The form 'mwabantu mwe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mwa bantu mwe!",
+            "translation": "Said when addressing to a lot people\"you guys!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mwabantu mwe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3637,7 +4387,547 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-165",
+      "word": "mwabaye gute koko",
+      "category": "spacing_rules",
+      "definition": "\"What on earth happened to you guys?\"",
+      "rule": "Standard form: 'mwabaye gute koko'. The form 'mwabayegutekoko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mwabaye gute koko?",
+            "translation": "\"What on earth happened to you guys?\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mwabayegutekoko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-166",
+      "word": "mwari mwarambabaje",
+      "category": "spacing_rules",
+      "definition": "\"You had made me sad.\"",
+      "rule": "Standard form: 'mwari mwarambabaje'. The form 'mwarimwarambabaje' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Mwari mwarambabaje.",
+            "translation": "\"You had made me sad.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "mwarimwarambabaje",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-167",
+      "word": "n'ikimenyimenyi",
+      "category": "spacing_rules",
+      "definition": "\"As a proof\"",
+      "rule": "Standard form: 'n'ikimenyimenyi'. The form 'n'ikimenyi menyi' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "N'ikimenyimenyi.",
+            "translation": "\"As a proof\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "n'ikimenyi menyi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-168",
+      "word": "na byo ni bibi",
+      "category": "spacing_rules",
+      "definition": "\"It is bad also\"",
+      "rule": "Standard form: 'na byo ni bibi'. The form 'nabyo nibibi' joins or splits word boundaries incorrectly. Reviewer emendation: the collected correction 'Nabyo ni bibi' was amended to 'na byo ni bibi'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Na byo ni bibi.",
+            "translation": "\"It is bad also\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nabyo nibibi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase",
+      "notes": "Reviewer emendation: 'Nabyo' separates - 'Na byo'."
+    },
+    {
+      "id": "SP-169",
+      "word": "nanjye ndumva",
+      "category": "spacing_rules",
+      "definition": "\"I also think....\"",
+      "rule": "Standard form: 'nanjye ndumva'. The form 'nanjyendumva' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nanjye ndumva...",
+            "translation": "\"I also think....\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "nanjyendumva",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-170",
+      "word": "nari narakubuze",
+      "category": "spacing_rules",
+      "definition": "\"I have not seen you for long.\"",
+      "rule": "Standard form: 'nari narakubuze'. The form 'narinarakubuze' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nari narakubuze.",
+            "translation": "\"I have not seen you for long.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "narinarakubuze",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-171",
+      "word": "naringize ngo",
+      "category": "spacing_rules",
+      "definition": "It means \"i thought that.\"",
+      "rule": "Standard form: 'naringize ngo'. The form 'naringizengo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Naringize ngo.",
+            "translation": "It means \"i thought that.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "naringizengo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-172",
+      "word": "nari ntwite",
+      "category": "spacing_rules",
+      "definition": "\"I was pregnant.\"",
+      "rule": "Standard form: 'nari ntwite'. The form 'narintwite' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Nari ntwite.",
+            "translation": "\"I was pregnant.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "narintwite",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-173",
+      "word": "ndabizi ko",
+      "category": "spacing_rules",
+      "definition": "\"I know that\"",
+      "rule": "Standard form: 'ndabizi ko'. The form 'ndabiziko' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndabizi ko.",
+            "translation": "\"I know that\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndabiziko",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-174",
+      "word": "ndagira nte",
+      "category": "spacing_rules",
+      "definition": "\"What should I do!\"",
+      "rule": "Standard form: 'ndagira nte'. The form 'ndagirante' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndagira nte!",
+            "translation": "\"What should I do!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndagirante",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-175",
+      "word": "ndagukunda pe",
+      "category": "spacing_rules",
+      "definition": "\"I love you for real\"",
+      "rule": "Standard form: 'ndagukunda pe'. The form 'Ndagukundape' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndagukunda pe!",
+            "translation": "\"I love you for real\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ndagukundape",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-176",
+      "word": "ndaribwa mu nda",
+      "category": "spacing_rules",
+      "definition": "\"i have a stomachache\"",
+      "rule": "Standard form: 'ndaribwa mu nda'. The form 'ndaribwa munda' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndaribwa mu nda.",
+            "translation": "\"i have a stomachache\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndaribwa munda",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-177",
+      "word": "ndashaka ko tubana",
+      "category": "spacing_rules",
+      "definition": "\"I want us to live together.\"",
+      "rule": "Standard form: 'ndashaka ko tubana'. The form 'ndashaka kotubana' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndashaka ko tubana.",
+            "translation": "\"I want us to live together.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndashaka kotubana",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-178",
+      "word": "ndashaka gukora nkawe",
+      "category": "spacing_rules",
+      "definition": "\"I want to work like you.\"",
+      "rule": "Standard form: 'ndashaka gukora nkawe'. The form 'ndashakagu korankawe' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndashaka gukora nkawe.",
+            "translation": "\"I want to work like you.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndashakagu korankawe",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-179",
+      "word": "ndeba hasi",
+      "category": "spacing_rules",
+      "definition": "\"I look down\"",
+      "rule": "Standard form: 'ndeba hasi'. The form 'ndebahasi' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndeba hasi.",
+            "translation": "\"I look down\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndebahasi",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-180",
+      "word": "ndi guseka",
+      "category": "spacing_rules",
+      "definition": "\"I am laughing\"",
+      "rule": "Standard form: 'ndi guseka'. The form 'ndiguseka' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndi guseka.",
+            "translation": "\"I am laughing\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndiguseka",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-181",
+      "word": "ndi kwayura",
+      "category": "spacing_rules",
+      "definition": "\"I am yawning.\"",
+      "rule": "Standard form: 'ndi kwayura'. The form 'ndikwayura' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndi kwayura.",
+            "translation": "\"I am yawning.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndikwayura",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-182",
+      "word": "ndi mu rukundo",
+      "category": "spacing_rules",
+      "definition": "\"I'm in love.\"",
+      "rule": "Standard form: 'ndi mu rukundo'. The form 'ndimurukundo' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndi mu rukundo.",
+            "translation": "\"I'm in love.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndimurukundo",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-183",
+      "word": "ndi muzima",
+      "category": "spacing_rules",
+      "definition": "\"I am healthy.\"",
+      "rule": "Standard form: 'ndi muzima'. The form 'ndimuzima' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndi muzima.",
+            "translation": "\"I am healthy.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndimuzima",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
+      "pos": "phrase"
+    },
+    {
+      "id": "SP-184",
+      "word": "ndumva ubwoba bundenze",
+      "category": "spacing_rules",
+      "definition": "\"I am so afraid!\"",
+      "rule": "Standard form: 'ndumva ubwoba bundenze'. The form 'ndumva ubwobabundenze' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ndumva ubwoba bundenze!",
+            "translation": "\"I am so afraid!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ndumva ubwobabundenze",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14"
+    },
+    {
+      "id": "SP-185",
+      "word": "ngaho rero",
+      "category": "spacing_rules",
+      "definition": "\"There you go\"",
+      "rule": "Standard form: 'ngaho rero'. The form 'ngahorero' joins or splits word boundaries incorrectly.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ngaho rero.",
+            "translation": "\"There you go\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ngahorero",
+            "error": "Word-boundary error"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     },
     {
@@ -3667,7 +4957,7 @@
       "contributor": "Sarah Izabayo",
       "reviewed_by": "Christophe Mumaragishyika",
       "status": "verified",
-      "added_date": "2026-08-13",
+      "added_date": "2026-08-14",
       "pos": "phrase"
     }
   ],
