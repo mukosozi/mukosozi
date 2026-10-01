@@ -11,7 +11,7 @@
     "description": "A structured linguistic knowledge base for Kinyarwanda: grammar rules, lexical exceptions, and neologisms. Each entry is reviewed by a native speaker and traceable to a documented rule ID.",
     "contact": "mukosozi.rw@gmail.com",
     "repository": "https://github.com/mukosozi/mukosozi",
-    "last_export": "2026-08-14"
+    "last_export": "2026-10-01"
   },
   "grammar_rules": [
     {
@@ -258,6 +258,1282 @@
       "contributor": "Christophe Mumaragishyika",
       "status": "verified",
       "added_date": "2026-01-01"
+    },
+    {
+      "id": "LE-003",
+      "word": "abantu benshi barabivuga",
+      "category": "spelling",
+      "definition": "Means\"a lot of people say it\"",
+      "rule": "Standard form: 'abantu benshi barabivuga'. The form 'Abantu benci barabivuga' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Abantu benshi barabivuga.",
+            "translation": "Means\"a lot of people say it\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Abantu benci barabivuga",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-004",
+      "word": "abaturage",
+      "category": "spelling",
+      "definition": "Means \"population\"",
+      "rule": "Standard form: 'abaturage'. The form 'abaturajye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Abaturage",
+            "translation": "Means \"population\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "abaturajye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-005",
+      "word": "amacandwe",
+      "category": "spelling",
+      "definition": "\"Saliva\"",
+      "rule": "Standard form: 'amacandwe'. The form 'Amacyandwe' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Amacandwe.",
+            "translation": "\"Saliva\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Amacyandwe",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-006",
+      "word": "amahitamo",
+      "category": "spelling",
+      "definition": "\"Choice\"",
+      "rule": "Standard form: 'amahitamo'. The form 'amahitamwo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Amahitamo.",
+            "translation": "\"Choice\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "amahitamwo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-007",
+      "word": "amapfa",
+      "category": "spelling",
+      "definition": "Means \"Hunger\"",
+      "rule": "Standard form: 'amapfa'. The form 'amamfa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Amapfa",
+            "translation": "Means \"Hunger\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "amamfa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-008",
+      "word": "amatsiko",
+      "category": "spelling",
+      "definition": "\"Curiosity.\"",
+      "rule": "Standard form: 'amatsiko'. The form 'amansiko' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Amatsiko.",
+            "translation": "\"Curiosity.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "amansiko",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-009",
+      "word": "amashyi",
+      "category": "spelling",
+      "definition": "\"Clapping\"",
+      "rule": "Standard form: 'amashyi'. The form 'amashi' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Amashyi.",
+            "translation": "\"Clapping\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "amashi",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-010",
+      "word": "amasiganwa",
+      "category": "spelling",
+      "definition": "\"Tournament.\"",
+      "rule": "Standard form: 'amasiganwa'. The form 'amasiganywa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Amasiganwa.",
+            "translation": "\"Tournament.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "amasiganywa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-011",
+      "word": "arajunjamye",
+      "category": "spelling",
+      "definition": "\"he/she looks gloomy/pensive.\"",
+      "rule": "Standard form: 'arajunjamye'. The form 'arajunzamye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Arajunjamye.",
+            "translation": "\"he/she looks gloomy/pensive.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "arajunzamye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-012",
+      "word": "arakennye",
+      "category": "spelling",
+      "definition": "\"He/she is poor.\"",
+      "rule": "Standard form: 'arakennye'. The form 'arakenye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Arakennye.",
+            "translation": "\"He/she is poor.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "arakenye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-013",
+      "word": "azabyihitiramo",
+      "category": "spelling",
+      "definition": "\"He/She will choose for herself.\"",
+      "rule": "Standard form: 'azabyihitiramo'. The form 'azambyihitiramo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Azabyihitiramo.",
+            "translation": "\"He/She will choose for herself.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "azambyihitiramo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-014",
+      "word": "bakiriho",
+      "category": "spelling",
+      "definition": "\"They are still alive.\"",
+      "rule": "Standard form: 'bakiriho'. The form 'bacyiriho' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Bakiriho!",
+            "translation": "\"They are still alive.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "bacyiriho",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-015",
+      "word": "bakiseseka",
+      "category": "spelling",
+      "definition": "\"They are squeezing themselves\"",
+      "rule": "Standard form: 'bakiseseka'. The form 'bakisoseka' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Bakiseseka.",
+            "translation": "\"They are squeezing themselves\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "bakisoseka",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-016",
+      "word": "bambwirire",
+      "category": "spelling",
+      "definition": "\"Tell them\"",
+      "rule": "Standard form: 'bambwirire'. The form 'banbwirire' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Bambwirire.",
+            "translation": "\"Tell them\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "banbwirire",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-017",
+      "word": "barajiginkwa",
+      "category": "spelling",
+      "definition": "\"A jealous person.\"",
+      "rule": "Standard form: 'barajiginkwa'. The form 'barajigimwa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Barajiginkwa.",
+            "translation": "\"A jealous person.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "barajigimwa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-018",
+      "word": "barampagurutsa",
+      "category": "spelling",
+      "definition": "\"They stood me up.\"",
+      "rule": "Standard form: 'barampagurutsa'. The form 'baramagurutsa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Barampagurutsa.",
+            "translation": "\"They stood me up.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "baramagurutsa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-019",
+      "word": "bigize indyo nyarwanda",
+      "category": "spelling",
+      "definition": "\"That compose a Rwandan meal\"",
+      "rule": "Standard form: 'bigize indyo nyarwanda'. The form 'bigizi indyo nyarwanda' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Bigize indyo nyarwanda.",
+            "translation": "\"That compose a Rwandan meal\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "bigizi indyo nyarwanda",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-020",
+      "word": "binyuranije",
+      "category": "spelling",
+      "definition": "\"Against.\"",
+      "rule": "Standard form: 'binyuranije'. The form 'binyuranyije' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Binyuranije.",
+            "translation": "\"Against.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "binyuranyije",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-021",
+      "word": "birampumuriye",
+      "category": "spelling",
+      "definition": "\"It smells good to me!\"",
+      "rule": "Standard form: 'birampumuriye'. The form 'biramumuriye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Birampumuriye!",
+            "translation": "\"It smells good to me!\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "biramumuriye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-022",
+      "word": "bituma ntitaba",
+      "category": "spelling",
+      "definition": "\"It stopped me from picking your call\"",
+      "rule": "Standard form: 'bituma ntitaba'. The form 'bituma natitaba' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Bituma ntitaba.",
+            "translation": "\"It stopped me from picking your call\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "bituma natitaba",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-023",
+      "word": "byimazeyo",
+      "category": "spelling",
+      "definition": "\"Fully.\"",
+      "rule": "Standard form: 'byimazeyo'. The form 'byimazeho' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Byimazeyo",
+            "translation": "\"Fully.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "byimazeho",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-024",
+      "word": "byose",
+      "category": "spelling",
+      "definition": "\"All of them.\"",
+      "rule": "Standard form: 'byose'. The form 'byox' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Byose.",
+            "translation": "\"All of them.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "byox",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-025",
+      "word": "kirazira",
+      "category": "spelling",
+      "definition": "\"Prohibited.\"",
+      "rule": "Standard form: 'kirazira'. The form 'cyirazira' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Kirazira.",
+            "translation": "\"Prohibited.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "cyirazira",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-026",
+      "word": "kiyoborwa na",
+      "category": "spelling",
+      "definition": "\"It was led by..\"",
+      "rule": "Standard form: 'kiyoborwa na'. The form 'cyiyoborwa na' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Kiyoborwa na...",
+            "translation": "\"It was led by..\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "cyiyoborwa na",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-027",
+      "word": "cyane",
+      "category": "spelling",
+      "definition": "\"So much.\"",
+      "rule": "Standard form: 'cyane'. The form 'cyne' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Cyane.",
+            "translation": "\"So much.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "cyne",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-028",
+      "word": "icyakora",
+      "category": "spelling",
+      "definition": "\"However,....\"",
+      "rule": "Standard form: 'icyakora'. The form 'cyokora' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyakora.",
+            "translation": "\"However,....\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "cyokora",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-029",
+      "word": "dukeneye",
+      "category": "spelling",
+      "definition": "\"We need...\"",
+      "rule": "Standard form: 'dukeneye'. The form 'ducyeneye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Dukeneye.",
+            "translation": "\"We need...\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ducyeneye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-030",
+      "word": "dufatanyije",
+      "category": "spelling",
+      "definition": "\"In collaboration.\"",
+      "rule": "Standard form: 'dufatanyije'. The form 'dufatanije' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Dufatanyije.",
+            "translation": "\"In collaboration.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "dufatanije",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-031",
+      "word": "gucecekesha",
+      "category": "spelling",
+      "definition": "\"To silence someone.\"",
+      "rule": "Standard form: 'gucecekesha'. The form 'gucececyesha' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gucecekesha.",
+            "translation": "\"To silence someone.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gucececyesha",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-032",
+      "word": "gucikikana",
+      "category": "spelling",
+      "definition": "\"To circulate.\"",
+      "rule": "Standard form: 'gucikikana'. The collected correction 'Gucicikanya' is invalid; the attested form was already standard.",
+      "examples": {
+        "correct": [
+          {
+            "text": "gucikikana",
+            "translation": "\"To circulate.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Gucicikanya.",
+            "error": "Invalid correction; the attested form is standard"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "flip: 'gucikikana' is the standard form (reviewer) - the collected pair was reversed; 'Gucicikanya' was the error."
+    },
+    {
+      "id": "LE-033",
+      "word": "gukebura",
+      "category": "spelling",
+      "definition": "\"This is like punishing verbally a person who has done a mistake\"",
+      "rule": "Standard form: 'gukebura'. The form 'gucyebura' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gukebura.",
+            "translation": "\"This is like punishing verbally a person who has done a mistake\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gucyebura",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-034",
+      "word": "gukenera",
+      "category": "spelling",
+      "definition": "\"To need\"",
+      "rule": "Standard form: 'gukenera'. The form 'gucyenera.' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gukenera.",
+            "translation": "\"To need\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gucyenera.",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-035",
+      "word": "gukemanga",
+      "category": "spelling",
+      "definition": "\"Doubting.\"",
+      "rule": "Standard form: 'gukemanga'. The form 'gukemanka' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gukemanga.",
+            "translation": "\"Doubting.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gukemanka",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-036",
+      "word": "gukundwa",
+      "category": "spelling",
+      "definition": "\"Being loved.\"",
+      "rule": "Standard form: 'gukundwa'. The form 'gukungwa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gukundwa.",
+            "translation": "\"Being loved.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gukungwa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-037",
+      "word": "gushyingirwa",
+      "category": "spelling",
+      "definition": "\"Getting married.\"",
+      "rule": "Standard form: 'gushyingirwa'. The form 'gushingigwa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gushyingirwa.",
+            "translation": "\"Getting married.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gushingigwa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-038",
+      "word": "gutsindagira umuhanda",
+      "category": "spelling",
+      "definition": "Literal: to press or compact hard against a surface so it attaches permanently (as a road roller compacting a fresh layer); joking/informal: to trudge a long distance on foot.",
+      "rule": "Standard form: 'gutsindagira umuhanda'. The form 'gusindangira umuhanda' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gutsindagira umuhanda.",
+            "translation": "Literal: to press or compact hard against a surface so it attaches permanently (as a road roller compacting a fresh layer); joking/informal: to trudge a long distance on foot."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gusindangira umuhanda",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase",
+      "notes": "Reviewer: literal sense is road-construction compaction, pressing a fresh layer hard against a surface so it attaches permanently (the rolling-drum machine); the 'walking a long distance' sense is a joke usage, one's feet as the rollers. Minimal pair with 'gusindagiza' (to support a weak walker); the two are often confused due to near-identical typography."
+    },
+    {
+      "id": "LE-039",
+      "word": "gusindagiza",
+      "category": "spelling",
+      "definition": "To help a person walking because he/she is weak.",
+      "rule": "Standard form: 'gusindagiza'. The form 'gutsindagiza' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Gusindagiza.",
+            "translation": "To help a person walking because he/she is weak."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "gutsindagiza",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer: minimal pair with 'gutsindagira' (to press/compact hard); the two are commonly confused due to the discrepancy in typography."
+    },
+    {
+      "id": "LE-040",
+      "word": "hambere aha",
+      "category": "spelling",
+      "definition": "From the beinning",
+      "rule": "Standard form: 'hambere aha'. The form 'hambera aha' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Hambere aha!",
+            "translation": "From the beinning"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "hambera aha",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-041",
+      "word": "ibintu bisekeje",
+      "category": "spelling",
+      "definition": "this means \"funny things\"",
+      "rule": "Standard form: 'ibintu bisekeje'. The form 'ibinu bisekeje' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibintu bisekeje",
+            "translation": "this means \"funny things\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibinu bisekeje",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-042",
+      "word": "ibiribwa",
+      "category": "spelling",
+      "definition": "\"Foods\"",
+      "rule": "Standard form: 'ibiribwa'. The form 'ibiribga' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibiribwa,",
+            "translation": "\"Foods\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibiribga",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-043",
+      "word": "ibirori by'ibitambo",
+      "category": "spelling",
+      "definition": "\"Sacrifice event\"",
+      "rule": "Standard form: 'ibirori by'ibitambo'. The form 'ibirori byibiitambo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibirori by'ibitambo.",
+            "translation": "\"Sacrifice event\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibirori byibiitambo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-044",
+      "word": "ibishyimbo",
+      "category": "spelling",
+      "definition": "\"Beans\"",
+      "rule": "Standard form: 'ibishyimbo'. The form 'ibishimbo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibishyimbo.",
+            "translation": "\"Beans\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibishimbo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-045",
+      "word": "ibitoki",
+      "category": "spelling",
+      "definition": "\"Green bananas\"",
+      "rule": "Standard form: 'ibitoki'. The form 'ibitocyi' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibitoki.",
+            "translation": "\"Green bananas\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibitocyi",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-046",
+      "word": "ibitwenge",
+      "category": "spelling",
+      "definition": "\"Laughter\"",
+      "rule": "Standard form: 'ibitwenge'. The form 'ibitwenjye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibitwenge.",
+            "translation": "\"Laughter\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibitwenjye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-047",
+      "word": "ibyishimo",
+      "category": "spelling",
+      "definition": "\"Happiness.\"",
+      "rule": "Standard form: 'ibyishimo'. The form 'ibyichimo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ibyishimo.",
+            "translation": "\"Happiness.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ibyichimo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-048",
+      "word": "ikibanza",
+      "category": "spelling",
+      "definition": "\"Plot of land.\"",
+      "rule": "Standard form: 'ikibanza'. The form 'icyibanza' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikibanza.",
+            "translation": "\"Plot of land.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyibanza",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-049",
+      "word": "ikibondo",
+      "category": "spelling",
+      "definition": "\"a toddler.\"",
+      "rule": "Standard form: 'ikibondo'. The form 'icyibondo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikibondo.",
+            "translation": "\"a toddler.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyibondo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-050",
+      "word": "ikigande",
+      "category": "spelling",
+      "definition": "\"A sturbon person\"",
+      "rule": "Standard form: 'ikigande'. The form 'icyigande' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikigande",
+            "translation": "\"A sturbon person\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyigande",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-051",
+      "word": "ikinyarwanda",
+      "category": "spelling",
+      "definition": "Kinyarwanda language",
+      "rule": "Standard form: 'ikinyarwanda'. The form 'icyinyarwanda' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikinyarwanda.",
+            "translation": "Kinyarwanda language"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyinyarwanda",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-052",
+      "word": "ikinyoma",
+      "category": "spelling",
+      "definition": "\"A lie.\"",
+      "rule": "Standard form: 'ikinyoma'. The form 'icyinyoma' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikinyoma.",
+            "translation": "\"A lie.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyinyoma",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
     },
     {
       "id": "SP-002",

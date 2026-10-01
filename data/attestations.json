@@ -10,6 +10,56 @@
     "created": "2026-08-14"
   },
   "index": {
+    "abantu benci barabivuga": "LE-003",
+    "abaturajye": "LE-004",
+    "amacyandwe": "LE-005",
+    "amahitamwo": "LE-006",
+    "amamfa": "LE-007",
+    "amansiko": "LE-008",
+    "amashi": "LE-009",
+    "amasiganywa": "LE-010",
+    "arajunzamye": "LE-011",
+    "arakenye": "LE-012",
+    "azambyihitiramo": "LE-013",
+    "bacyiriho": "LE-014",
+    "bakisoseka": "LE-015",
+    "banbwirire": "LE-016",
+    "barajigimwa": "LE-017",
+    "baramagurutsa": "LE-018",
+    "bigizi indyo nyarwanda": "LE-019",
+    "binyuranyije": "LE-020",
+    "biramumuriye": "LE-021",
+    "bituma natitaba": "LE-022",
+    "byimazeho": "LE-023",
+    "byox": "LE-024",
+    "cyirazira": "LE-025",
+    "cyiyoborwa na": "LE-026",
+    "cyne": "LE-027",
+    "cyokora": "LE-028",
+    "ducyeneye": "LE-029",
+    "dufatanije": "LE-030",
+    "gucececyesha": "LE-031",
+    "gucikikana": "LE-032",
+    "gucyebura": "LE-033",
+    "gucyenera.": "LE-034",
+    "gukemanka": "LE-035",
+    "gukungwa": "LE-036",
+    "gushingigwa": "LE-037",
+    "gusindangira umuhanda": "LE-038",
+    "gutsindagiza": "LE-039",
+    "hambera aha": "LE-040",
+    "ibinu bisekeje": "LE-041",
+    "ibiribga": "LE-042",
+    "ibirori byibiitambo": "LE-043",
+    "ibishimbo": "LE-044",
+    "ibitocyi": "LE-045",
+    "ibitwenjye": "LE-046",
+    "ibyichimo": "LE-047",
+    "icyibanza": "LE-048",
+    "icyibondo": "LE-049",
+    "icyigande": "LE-050",
+    "icyinyarwanda": "LE-051",
+    "icyinyoma": "LE-052",
     "aba hungu": "SP-002",
     "ababantu": "SP-003",
     "ababantu bari kunda": "SP-004",
@@ -337,6 +387,457 @@
     "yitwande": "SP-326"
   },
   "entries": {
+    "LE-003": [
+      {
+        "observed": "Abantu benci barabivuga",
+        "text": "Abantu benshi barabivuga.",
+        "gloss": "Means\"a lot of people say it\"",
+        "source": "WhatsApp",
+        "date": "2026-07-02"
+      }
+    ],
+    "LE-004": [
+      {
+        "observed": "abaturajye",
+        "text": "Abaturage",
+        "gloss": "Means \"population\"",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-005": [
+      {
+        "observed": "Amacyandwe",
+        "text": "Amacandwe.",
+        "gloss": "\"Saliva\"",
+        "source": "Instagram",
+        "date": "2026-07-25"
+      }
+    ],
+    "LE-006": [
+      {
+        "observed": "amahitamwo",
+        "text": "Amahitamo.",
+        "gloss": "\"Choice\"",
+        "source": "TikTok",
+        "date": "2026-07-30"
+      }
+    ],
+    "LE-007": [
+      {
+        "observed": "amamfa",
+        "text": "Amapfa",
+        "gloss": "Means \"Hunger\"",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-008": [
+      {
+        "observed": "amansiko",
+        "text": "Amatsiko.",
+        "gloss": "\"Curiosity.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "LE-009": [
+      {
+        "observed": "amashi",
+        "text": "Amashyi.",
+        "gloss": "\"Clapping\"",
+        "source": "Other",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-010": [
+      {
+        "observed": "amasiganywa",
+        "text": "Amasiganwa.",
+        "gloss": "\"Tournament.\"",
+        "source": "Snapchat",
+        "date": "2026-07-25"
+      }
+    ],
+    "LE-011": [
+      {
+        "observed": "arajunzamye",
+        "text": "Arajunjamye.",
+        "gloss": "\"he/she looks gloomy/pensive.\"",
+        "source": "Other",
+        "date": "2026-07-29"
+      }
+    ],
+    "LE-012": [
+      {
+        "observed": "arakenye",
+        "text": "Arakennye.",
+        "gloss": "\"He/she is poor.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "LE-013": [
+      {
+        "observed": "azambyihitiramo",
+        "text": "Azabyihitiramo.",
+        "gloss": "\"He/She will choose for herself.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "LE-014": [
+      {
+        "observed": "bacyiriho",
+        "text": "Bakiriho!",
+        "gloss": "\"They are still alive.\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
+      }
+    ],
+    "LE-015": [
+      {
+        "observed": "bakisoseka",
+        "text": "Bakiseseka.",
+        "gloss": "\"They are squeezing themselves\"",
+        "source": "Other",
+        "date": "2026-07-18"
+      }
+    ],
+    "LE-016": [
+      {
+        "observed": "banbwirire",
+        "text": "Bambwirire.",
+        "gloss": "\"Tell them\"",
+        "source": "Website/blog",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-017": [
+      {
+        "observed": "barajigimwa",
+        "text": "Barajiginkwa.",
+        "gloss": "\"A jealous person.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-24"
+      }
+    ],
+    "LE-018": [
+      {
+        "observed": "baramagurutsa",
+        "text": "Barampagurutsa.",
+        "gloss": "\"They stood me up.\"",
+        "source": "Other",
+        "date": "2026-07-29"
+      }
+    ],
+    "LE-019": [
+      {
+        "observed": "bigizi indyo nyarwanda",
+        "text": "Bigize indyo nyarwanda.",
+        "gloss": "\"That compose a Rwandan meal\"",
+        "source": "Other",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-020": [
+      {
+        "observed": "binyuranyije",
+        "text": "Binyuranije.",
+        "gloss": "\"Against.\"",
+        "source": "AI-generated",
+        "date": "2026-07-19"
+      }
+    ],
+    "LE-021": [
+      {
+        "observed": "biramumuriye",
+        "text": "Birampumuriye!",
+        "gloss": "\"It smells good to me!\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "LE-022": [
+      {
+        "observed": "bituma natitaba",
+        "text": "Bituma ntitaba.",
+        "gloss": "\"It stopped me from picking your call\"",
+        "source": "TikTok",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-023": [
+      {
+        "observed": "byimazeho",
+        "text": "Byimazeyo",
+        "gloss": "\"Fully.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-17"
+      }
+    ],
+    "LE-024": [
+      {
+        "observed": "byox",
+        "text": "Byose.",
+        "gloss": "\"All of them.\"",
+        "source": "Website/blog",
+        "date": "2026-07-20"
+      }
+    ],
+    "LE-025": [
+      {
+        "observed": "cyirazira",
+        "text": "Kirazira.",
+        "gloss": "\"Prohibited.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "LE-026": [
+      {
+        "observed": "cyiyoborwa na",
+        "text": "Kiyoborwa na...",
+        "gloss": "\"It was led by..\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "LE-027": [
+      {
+        "observed": "cyne",
+        "text": "Cyane.",
+        "gloss": "\"So much.\"",
+        "source": "Other",
+        "date": "2026-07-23"
+      }
+    ],
+    "LE-028": [
+      {
+        "observed": "cyokora",
+        "text": "Icyakora.",
+        "gloss": "\"However,....\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "LE-029": [
+      {
+        "observed": "ducyeneye",
+        "text": "Dukeneye.",
+        "gloss": "\"We need...\"",
+        "source": "TikTok",
+        "date": "2026-07-29"
+      }
+    ],
+    "LE-030": [
+      {
+        "observed": "dufatanije",
+        "text": "Dufatanyije.",
+        "gloss": "\"In collaboration.\"",
+        "source": "Facebook",
+        "date": "2026-07-30"
+      }
+    ],
+    "LE-031": [
+      {
+        "observed": "gucececyesha",
+        "text": "Gucecekesha.",
+        "gloss": "\"To silence someone.\"",
+        "source": "Instagram",
+        "date": "2026-07-21"
+      }
+    ],
+    "LE-032": [
+      {
+        "observed": "gucikikana",
+        "text": "gucikikana",
+        "gloss": "\"To circulate.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-19",
+        "note": "attested in the standard form; the correction in the collection file was a collection-side error"
+      }
+    ],
+    "LE-033": [
+      {
+        "observed": "gucyebura",
+        "text": "Gukebura.",
+        "gloss": "\"This is like punishing verbally a person who has done a mistake\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-13"
+      }
+    ],
+    "LE-034": [
+      {
+        "observed": "gucyenera.",
+        "text": "Gukenera.",
+        "gloss": "\"To need\"",
+        "source": "Other",
+        "date": "2026-07-08"
+      }
+    ],
+    "LE-035": [
+      {
+        "observed": "gukemanka",
+        "text": "Gukemanga.",
+        "gloss": "\"Doubting.\"",
+        "source": "Snapchat",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-036": [
+      {
+        "observed": "gukungwa",
+        "text": "Gukundwa.",
+        "gloss": "\"Being loved.\"",
+        "source": "TikTok",
+        "date": "2026-07-21"
+      }
+    ],
+    "LE-037": [
+      {
+        "observed": "gushingigwa",
+        "text": "Gushyingirwa.",
+        "gloss": "\"Getting married.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-15"
+      }
+    ],
+    "LE-038": [
+      {
+        "observed": "gusindangira umuhanda",
+        "text": "Gutsindagira umuhanda.",
+        "gloss": "\"walking by feet for a long time\" informally",
+        "source": "WhatsApp",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-039": [
+      {
+        "observed": "gutsindagiza",
+        "text": "Gusindagiza.",
+        "gloss": "To help a person walking because he/she is weak.",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-040": [
+      {
+        "observed": "hambera aha",
+        "text": "Hambere aha!",
+        "gloss": "From the beinning",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-041": [
+      {
+        "observed": "ibinu bisekeje",
+        "text": "Ibintu bisekeje",
+        "gloss": "this means \"funny things\"",
+        "source": "WhatsApp",
+        "date": "2026-07-01"
+      }
+    ],
+    "LE-042": [
+      {
+        "observed": "ibiribga",
+        "text": "Ibiribwa,",
+        "gloss": "\"Foods\"",
+        "source": "Other",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-043": [
+      {
+        "observed": "ibirori byibiitambo",
+        "text": "Ibirori by'ibitambo.",
+        "gloss": "\"Sacrifice event\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-044": [
+      {
+        "observed": "ibishimbo",
+        "text": "Ibishyimbo.",
+        "gloss": "\"Beans\"",
+        "source": "Other",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-045": [
+      {
+        "observed": "ibitocyi",
+        "text": "Ibitoki.",
+        "gloss": "\"Green bananas\"",
+        "source": "WhatsApp",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-046": [
+      {
+        "observed": "ibitwenjye",
+        "text": "Ibitwenge.",
+        "gloss": "\"Laughter\"",
+        "source": "Other",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-047": [
+      {
+        "observed": "ibyichimo",
+        "text": "Ibyishimo.",
+        "gloss": "\"Happiness.\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "LE-048": [
+      {
+        "observed": "icyibanza",
+        "text": "Ikibanza.",
+        "gloss": "\"Plot of land.\"",
+        "source": "Other",
+        "date": "2026-07-16"
+      }
+    ],
+    "LE-049": [
+      {
+        "observed": "icyibondo",
+        "text": "Ikibondo.",
+        "gloss": "\"a toddler.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-17"
+      }
+    ],
+    "LE-050": [
+      {
+        "observed": "icyigande",
+        "text": "Ikigande",
+        "gloss": "\"A sturbon person\"",
+        "source": "WhatsApp",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-051": [
+      {
+        "observed": "icyinyarwanda",
+        "text": "Ikinyarwanda.",
+        "gloss": "Kinyarwanda language",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "LE-052": [
+      {
+        "observed": "icyinyoma",
+        "text": "Ikinyoma.",
+        "gloss": "\"A lie.\"",
+        "source": "TikTok",
+        "date": "2026-07-28"
+      }
+    ],
     "SP-002": [
       {
         "observed": "ABA hungu",
