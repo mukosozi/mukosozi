@@ -60,6 +60,56 @@
     "icyigande": "LE-050",
     "icyinyarwanda": "LE-051",
     "icyinyoma": "LE-052",
+    "icyirenge": "LE-053",
+    "icyirori": "LE-054",
+    "icyiruhuko": "LE-055",
+    "icyitegererezo": "LE-056",
+    "icyiyaga": "LE-057",
+    "ifashabere": "LE-058",
+    "igisekulu": "LE-059",
+    "igitenjye": "LE-060",
+    "igurube": "LE-061",
+    "ijyikoma.": "LE-062",
+    "ijyishanga": "LE-063",
+    "ijyiterane": "LE-064",
+    "ikerekezo": "LE-065",
+    "ikibo": "LE-066",
+    "ikimwira": "LE-067",
+    "ikitonderwa": "LE-068",
+    "ikizere": "LE-069",
+    "ikoti ryivura": "LE-070",
+    "ikubiyemwo byose": "LE-071",
+    "ikweto": "LE-072",
+    "ikyondo": "LE-073",
+    "ikyuma": "LE-074",
+    "imamba": "LE-075",
+    "imana nirenganya": "LE-076",
+    "imande zose": "LE-077",
+    "iminduka": "LE-078",
+    "imirimbanyi": "LE-079",
+    "imiryaango yacu": "LE-080",
+    "imitagihe": "LE-081",
+    "impfumbyi": "LE-082",
+    "imuguke": "LE-083",
+    "imumeko": "LE-084",
+    "imungure": "LE-085",
+    "inambara": "LE-086",
+    "inandaro": "LE-087",
+    "incuro nyinci": "LE-088",
+    "ineruro": "LE-089",
+    "ingadyi": "LE-090",
+    "injyeso": "LE-091",
+    "inkito": "LE-092",
+    "inkwono": "LE-093",
+    "inkyuro": "LE-094",
+    "insepfu": "LE-095",
+    "intocye": "LE-096",
+    "inumwa": "LE-097",
+    "inyamanswa": "LE-098",
+    "inyengero": "LE-099",
+    "inyeragutabara.": "LE-100",
+    "inyeri": "LE-101",
+    "inyingi": "LE-102",
     "aba hungu": "SP-002",
     "ababantu": "SP-003",
     "ababantu bari kunda": "SP-004",
@@ -836,6 +886,458 @@
         "gloss": "\"A lie.\"",
         "source": "TikTok",
         "date": "2026-07-28"
+      }
+    ],
+    "LE-053": [
+      {
+        "observed": "icyirenge",
+        "text": "Ikirenge.",
+        "gloss": "\"The Foot\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-20"
+      }
+    ],
+    "LE-054": [
+      {
+        "observed": "icyirori",
+        "text": "Ikirori.",
+        "gloss": "\"Party.\"",
+        "source": "TikTok",
+        "date": "2026-07-22"
+      }
+    ],
+    "LE-055": [
+      {
+        "observed": "icyiruhuko",
+        "text": "Ikiruhuko.",
+        "gloss": "\"Leave\" as a work leave.",
+        "source": "WhatsApp",
+        "date": "2026-07-08"
+      }
+    ],
+    "LE-056": [
+      {
+        "observed": "icyitegererezo",
+        "text": "Ikitegererezo.",
+        "gloss": "\"A role model\"",
+        "source": "WhatsApp",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-057": [
+      {
+        "observed": "icyiyaga",
+        "text": "Ikiyaga.",
+        "gloss": "\"Lake\"",
+        "source": "Other",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-058": [
+      {
+        "observed": "ifashabere",
+        "text": "Imfashabere.",
+        "gloss": "\"Breastmilk substitute\"",
+        "source": "Other",
+        "date": "2026-07-15"
+      }
+    ],
+    "LE-059": [
+      {
+        "observed": "igisekulu",
+        "text": "Igisekuru.",
+        "gloss": "\"lineage\"",
+        "source": "WhatsApp",
+        "date": "2026-07-18"
+      }
+    ],
+    "LE-060": [
+      {
+        "observed": "igitenjye",
+        "text": "Igitenge.",
+        "gloss": "\"A wrapper\"",
+        "source": "WhatsApp",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-061": [
+      {
+        "observed": "igurube",
+        "text": "Ingurube.",
+        "gloss": "\"Pigs.\"",
+        "source": "TikTok",
+        "date": "2026-07-25"
+      }
+    ],
+    "LE-062": [
+      {
+        "observed": "Ijyikoma.",
+        "text": "Igikoma.",
+        "gloss": "\"A porridge\"",
+        "source": "WhatsApp",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-063": [
+      {
+        "observed": "ijyishanga",
+        "text": "Igishanga.",
+        "gloss": "\"Swamp.\"",
+        "source": "TikTok",
+        "date": "2026-07-27"
+      }
+    ],
+    "LE-064": [
+      {
+        "observed": "ijyiterane",
+        "text": "Igiterane.",
+        "gloss": "\"A concert\"",
+        "source": "WhatsApp",
+        "date": "2026-07-07"
+      }
+    ],
+    "LE-065": [
+      {
+        "observed": "ikerekezo",
+        "text": "Icyerekezo",
+        "gloss": "This is \"direction\"",
+        "source": "WhatsApp",
+        "date": "2026-07-04"
+      }
+    ],
+    "LE-066": [
+      {
+        "observed": "ikibo",
+        "text": "Icyibo.",
+        "gloss": "Means\" a pot\"",
+        "source": "WhatsApp",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-067": [
+      {
+        "observed": "ikimwira",
+        "text": "Ikimyira.",
+        "gloss": "\"Mucus\"",
+        "source": "Other",
+        "date": "2026-07-15"
+      }
+    ],
+    "LE-068": [
+      {
+        "observed": "ikitonderwa",
+        "text": "Icyitonderwa.",
+        "gloss": "\"Note\"",
+        "source": "Instagram",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-069": [
+      {
+        "observed": "ikizere",
+        "text": "Icyizere.",
+        "gloss": "\"The trust\"",
+        "source": "WhatsApp",
+        "date": "2026-07-06"
+      }
+    ],
+    "LE-070": [
+      {
+        "observed": "ikoti ryivura",
+        "text": "Ikoti ry'imvura.",
+        "gloss": "\"Rain coat\"",
+        "source": "Instagram",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-071": [
+      {
+        "observed": "ikubiyemwo byose",
+        "text": "Ikubiyemo byose.",
+        "gloss": "\"It includes everything.\"",
+        "source": "Other",
+        "date": "2026-07-17"
+      }
+    ],
+    "LE-072": [
+      {
+        "observed": "ikweto",
+        "text": "Inkweto.",
+        "gloss": "\"Shoes\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "LE-073": [
+      {
+        "observed": "ikyondo",
+        "text": "Icyondo.",
+        "gloss": "\"Mud\"",
+        "source": "Other",
+        "date": "2026-07-25"
+      }
+    ],
+    "LE-074": [
+      {
+        "observed": "ikyuma",
+        "text": "icyuma.",
+        "gloss": "\"Knife. It is used to say \"Metal\" also.",
+        "source": "TikTok",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-075": [
+      {
+        "observed": "imamba",
+        "text": "Impamba.",
+        "gloss": "This is kind of food or drinks someone is given when is about to start a long journey. This yime it is in form of money as well.",
+        "source": "Instagram",
+        "date": "2026-07-04"
+      }
+    ],
+    "LE-076": [
+      {
+        "observed": "imana nirenganya",
+        "text": "Imana ntirenganya.",
+        "gloss": "God is just",
+        "source": "Instagram",
+        "date": "2026-07-02",
+        "note": "reviewer ruling: standard form is 'Imana ntirenganya'"
+      }
+    ],
+    "LE-077": [
+      {
+        "observed": "imande zose",
+        "text": "Impande zose.",
+        "gloss": "\"All sides\"",
+        "source": "TikTok",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-078": [
+      {
+        "observed": "iminduka",
+        "text": "Impinduka.",
+        "gloss": "\"A change\"",
+        "source": "WhatsApp",
+        "date": "2026-07-16"
+      }
+    ],
+    "LE-079": [
+      {
+        "observed": "Imirimbanyi",
+        "text": "Impirimbanyi.",
+        "gloss": "A courageous person.",
+        "source": "Other",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-080": [
+      {
+        "observed": "imiryaango yacu",
+        "text": "Imiryango yacu.",
+        "gloss": "\"Our families.\"",
+        "source": "TikTok",
+        "date": "2026-07-18"
+      }
+    ],
+    "LE-081": [
+      {
+        "observed": "imitagihe",
+        "text": "Impitagihe",
+        "gloss": "\"Past\"",
+        "source": "Other",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-082": [
+      {
+        "observed": "impfumbyi",
+        "text": "Imfubyi.",
+        "gloss": "\"An orphan\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "LE-083": [
+      {
+        "observed": "Imuguke",
+        "text": "Impuguke.",
+        "gloss": "The person with a high degree in a certain field",
+        "source": "X (Twitter)",
+        "date": "2026-07-05"
+      }
+    ],
+    "LE-084": [
+      {
+        "observed": "Imumeko",
+        "text": "Impumeko.",
+        "gloss": "\"The mood\"",
+        "source": "Other",
+        "date": "2026-07-14"
+      }
+    ],
+    "LE-085": [
+      {
+        "observed": "imungure",
+        "text": "Impungure.",
+        "gloss": "\"It's a meal where beans and maize are mixed.\"",
+        "source": "TikTok",
+        "date": "2026-07-26"
+      }
+    ],
+    "LE-086": [
+      {
+        "observed": "inambara",
+        "text": "Intambara.",
+        "gloss": "\"War\"",
+        "source": "WhatsApp",
+        "date": "2026-07-13"
+      }
+    ],
+    "LE-087": [
+      {
+        "observed": "inandaro",
+        "text": "Intandaro.",
+        "gloss": "when you want to mention the source of something for it to happen",
+        "source": "Other",
+        "date": "2026-07-01"
+      }
+    ],
+    "LE-088": [
+      {
+        "observed": "incuro nyinci",
+        "text": "Incuro nyinshi.",
+        "gloss": "It means \"many times\"",
+        "source": "WhatsApp",
+        "date": "2026-07-04",
+        "note": "reviewer ruling: standard form is 'inshuro nyinshi'"
+      }
+    ],
+    "LE-089": [
+      {
+        "observed": "Ineruro",
+        "text": "Interuro.",
+        "gloss": "This means a sentence",
+        "source": "Other",
+        "date": "2026-07-02"
+      }
+    ],
+    "LE-090": [
+      {
+        "observed": "Ingadyi",
+        "text": "Ingagi",
+        "gloss": "Mean \"Gorilla\"",
+        "source": "WhatsApp",
+        "date": "2026-07-03"
+      }
+    ],
+    "LE-091": [
+      {
+        "observed": "injyeso",
+        "text": "Ingeso.",
+        "gloss": "\"Habit\"",
+        "source": "TikTok",
+        "date": "2026-07-23"
+      }
+    ],
+    "LE-092": [
+      {
+        "observed": "inkito",
+        "text": "Inyito.",
+        "gloss": "\"Meaning.\"",
+        "source": "WhatsApp",
+        "date": "2026-07-19"
+      }
+    ],
+    "LE-093": [
+      {
+        "observed": "inkwono",
+        "text": "Inkono.",
+        "gloss": "\"Clay cooking pot.\"",
+        "source": "Other",
+        "date": "2026-07-19"
+      }
+    ],
+    "LE-094": [
+      {
+        "observed": "inkyuro",
+        "text": "Incyuro.",
+        "gloss": "\"A biting remark made to put someone in their place or point out their faults.'",
+        "source": "Other",
+        "date": "2026-07-11"
+      }
+    ],
+    "LE-095": [
+      {
+        "observed": "insepfu",
+        "text": "Isepfu.",
+        "gloss": "\"Hiccups.\"",
+        "source": "X (Twitter)",
+        "date": "2026-07-26"
+      }
+    ],
+    "LE-096": [
+      {
+        "observed": "intocye",
+        "text": "Intoke.",
+        "gloss": "\"Fingers\"",
+        "source": "WhatsApp",
+        "date": "2026-07-09"
+      }
+    ],
+    "LE-097": [
+      {
+        "observed": "inumwa",
+        "text": "Intumwa.",
+        "gloss": "\"Messengers\"",
+        "source": "Website/blog",
+        "date": "2026-07-12"
+      }
+    ],
+    "LE-098": [
+      {
+        "observed": "inyamanswa",
+        "text": "Inyamaswa.",
+        "gloss": "\"Animals\"",
+        "source": "TikTok",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-099": [
+      {
+        "observed": "inyengero",
+        "text": "Inkengero.",
+        "gloss": "\"Suburbs.\"",
+        "source": "Snapchat",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-100": [
+      {
+        "observed": "inyeragutabara.",
+        "text": "Inkeragutabara.",
+        "gloss": "\"Rescue\"",
+        "source": "Other",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-101": [
+      {
+        "observed": "inyeri",
+        "text": "Inkeri.",
+        "gloss": "\"Strawberry\"",
+        "source": "Snapchat",
+        "date": "2026-07-10"
+      }
+    ],
+    "LE-102": [
+      {
+        "observed": "inyingi",
+        "text": "Inkingi.",
+        "gloss": "\"Pillar\"",
+        "source": "WhatsApp",
+        "date": "2026-07-10"
       }
     ],
     "SP-002": [

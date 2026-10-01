@@ -1536,6 +1536,1278 @@
       "added_date": "2026-10-01"
     },
     {
+      "id": "LE-053",
+      "word": "ikirenge",
+      "category": "spelling",
+      "definition": "\"The Foot\"",
+      "rule": "Standard form: 'ikirenge'. The form 'icyirenge' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikirenge.",
+            "translation": "\"The Foot\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyirenge",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-054",
+      "word": "ikirori",
+      "category": "spelling",
+      "definition": "\"Party.\"",
+      "rule": "Standard form: 'ikirori'. The form 'icyirori' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikirori.",
+            "translation": "\"Party.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyirori",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-055",
+      "word": "ikiruhuko",
+      "category": "spelling",
+      "definition": "\"Leave\" as a work leave.",
+      "rule": "Standard form: 'ikiruhuko'. The form 'icyiruhuko' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikiruhuko.",
+            "translation": "\"Leave\" as a work leave."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyiruhuko",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-056",
+      "word": "ikitegererezo",
+      "category": "spelling",
+      "definition": "\"A role model\"",
+      "rule": "Standard form: 'ikitegererezo'. The form 'icyitegererezo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikitegererezo.",
+            "translation": "\"A role model\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyitegererezo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-057",
+      "word": "ikiyaga",
+      "category": "spelling",
+      "definition": "\"Lake\"",
+      "rule": "Standard form: 'ikiyaga'. The form 'icyiyaga' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikiyaga.",
+            "translation": "\"Lake\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "icyiyaga",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-058",
+      "word": "imfashabere",
+      "category": "spelling",
+      "definition": "\"Breastmilk substitute\"",
+      "rule": "Standard form: 'imfashabere'. The form 'ifashabere' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Imfashabere.",
+            "translation": "\"Breastmilk substitute\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ifashabere",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-059",
+      "word": "igisekuru",
+      "category": "spelling",
+      "definition": "\"lineage\"",
+      "rule": "Standard form: 'igisekuru'. The form 'igisekulu' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Igisekuru.",
+            "translation": "\"lineage\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "igisekulu",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-060",
+      "word": "igitenge",
+      "category": "spelling",
+      "definition": "\"A wrapper\"",
+      "rule": "Standard form: 'igitenge'. The form 'igitenjye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Igitenge.",
+            "translation": "\"A wrapper\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "igitenjye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-061",
+      "word": "ingurube",
+      "category": "spelling",
+      "definition": "\"Pigs.\"",
+      "rule": "Standard form: 'ingurube'. The form 'igurube' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ingurube.",
+            "translation": "\"Pigs.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "igurube",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-062",
+      "word": "igikoma",
+      "category": "spelling",
+      "definition": "\"A porridge\"",
+      "rule": "Standard form: 'igikoma'. The form 'Ijyikoma.' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Igikoma.",
+            "translation": "\"A porridge\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ijyikoma.",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-063",
+      "word": "igishanga",
+      "category": "spelling",
+      "definition": "\"Swamp.\"",
+      "rule": "Standard form: 'igishanga'. The form 'ijyishanga' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Igishanga.",
+            "translation": "\"Swamp.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ijyishanga",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-064",
+      "word": "igiterane",
+      "category": "spelling",
+      "definition": "\"A concert\"",
+      "rule": "Standard form: 'igiterane'. The form 'ijyiterane' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Igiterane.",
+            "translation": "\"A concert\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ijyiterane",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-065",
+      "word": "icyerekezo",
+      "category": "spelling",
+      "definition": "This is \"direction\"",
+      "rule": "Standard form: 'icyerekezo'. The form 'ikerekezo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyerekezo",
+            "translation": "This is \"direction\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikerekezo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-066",
+      "word": "icyibo",
+      "category": "spelling",
+      "definition": "Means\" a pot\"",
+      "rule": "Standard form: 'icyibo'. The form 'ikibo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyibo.",
+            "translation": "Means\" a pot\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikibo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-067",
+      "word": "ikimyira",
+      "category": "spelling",
+      "definition": "\"Mucus\"",
+      "rule": "Standard form: 'ikimyira'. The form 'ikimwira' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikimyira.",
+            "translation": "\"Mucus\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikimwira",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-068",
+      "word": "icyitonderwa",
+      "category": "spelling",
+      "definition": "\"Note\"",
+      "rule": "Standard form: 'icyitonderwa'. The form 'ikitonderwa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyitonderwa.",
+            "translation": "\"Note\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikitonderwa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-069",
+      "word": "icyizere",
+      "category": "spelling",
+      "definition": "\"The trust\"",
+      "rule": "Standard form: 'icyizere'. The form 'ikizere' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyizere.",
+            "translation": "\"The trust\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikizere",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-070",
+      "word": "ikoti ry'imvura",
+      "category": "spelling",
+      "definition": "\"Rain coat\"",
+      "rule": "Standard form: 'ikoti ry'imvura'. The form 'ikoti ryivura' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikoti ry'imvura.",
+            "translation": "\"Rain coat\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikoti ryivura",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-071",
+      "word": "ikubiyemo byose",
+      "category": "spelling",
+      "definition": "\"It includes everything.\"",
+      "rule": "Standard form: 'ikubiyemo byose'. The form 'ikubiyemwo byose' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ikubiyemo byose.",
+            "translation": "\"It includes everything.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikubiyemwo byose",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-072",
+      "word": "inkweto",
+      "category": "spelling",
+      "definition": "\"Shoes\"",
+      "rule": "Standard form: 'inkweto'. The form 'ikweto' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inkweto.",
+            "translation": "\"Shoes\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikweto",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-073",
+      "word": "icyondo",
+      "category": "spelling",
+      "definition": "\"Mud\"",
+      "rule": "Standard form: 'icyondo'. The form 'ikyondo' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Icyondo.",
+            "translation": "\"Mud\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikyondo",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-074",
+      "word": "icyuma",
+      "category": "spelling",
+      "definition": "\"Knife. It is used to say \"Metal\" also.",
+      "rule": "Standard form: 'icyuma'. The form 'ikyuma' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "icyuma.",
+            "translation": "\"Knife. It is used to say \"Metal\" also."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "ikyuma",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Reviewer confirmed as collected; this batch holds siblings running the opposite way on the surface (icyi/iki), both standard."
+    },
+    {
+      "id": "LE-075",
+      "word": "impamba",
+      "category": "spelling",
+      "definition": "This is kind of food or drinks someone is given when is about to start a long journey. This yime it is in form of money as well.",
+      "rule": "Standard form: 'impamba'. The form 'imamba' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impamba.",
+            "translation": "This is kind of food or drinks someone is given when is about to start a long journey. This yime it is in form of money as well."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "imamba",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-076",
+      "word": "Imana ntirenganya",
+      "category": "spelling",
+      "definition": "God is just",
+      "rule": "Standard form: 'Imana ntirenganya'. The form 'imana nirenganya' is a non-standard spelling. Reviewer emendation: the collected correction 'Imana ntirenganya' was amended to 'Imana ntirenganya'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Imana ntirenganya.",
+            "translation": "God is just"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "imana nirenganya",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "notes": "Imana (God) keeps its capital (rule 4). ni- -> nti- is the bound negative (see NEG-001)."
+    },
+    {
+      "id": "LE-077",
+      "word": "impande zose",
+      "category": "spelling",
+      "definition": "\"All sides\"",
+      "rule": "Standard form: 'impande zose'. The form 'imande zose' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impande zose.",
+            "translation": "\"All sides\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "imande zose",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-078",
+      "word": "impinduka",
+      "category": "spelling",
+      "definition": "\"A change\"",
+      "rule": "Standard form: 'impinduka'. The form 'iminduka' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impinduka.",
+            "translation": "\"A change\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "iminduka",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-079",
+      "word": "impirimbanyi",
+      "category": "spelling",
+      "definition": "A courageous person.",
+      "rule": "Standard form: 'impirimbanyi'. The form 'Imirimbanyi' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impirimbanyi.",
+            "translation": "A courageous person."
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Imirimbanyi",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-080",
+      "word": "imiryango yacu",
+      "category": "spelling",
+      "definition": "\"Our families.\"",
+      "rule": "Standard form: 'imiryango yacu'. The form 'imiryaango yacu' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Imiryango yacu.",
+            "translation": "\"Our families.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "imiryaango yacu",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-081",
+      "word": "impitagihe",
+      "category": "spelling",
+      "definition": "\"Past\"",
+      "rule": "Standard form: 'impitagihe'. The form 'imitagihe' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impitagihe",
+            "translation": "\"Past\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "imitagihe",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase"
+    },
+    {
+      "id": "LE-082",
+      "word": "imfubyi",
+      "category": "spelling",
+      "definition": "\"An orphan\"",
+      "rule": "Standard form: 'imfubyi'. The form 'impfumbyi' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Imfubyi.",
+            "translation": "\"An orphan\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "impfumbyi",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-083",
+      "word": "impuguke",
+      "category": "spelling",
+      "definition": "The person with a high degree in a certain field",
+      "rule": "Standard form: 'impuguke'. The form 'Imuguke' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impuguke.",
+            "translation": "The person with a high degree in a certain field"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Imuguke",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-084",
+      "word": "impumeko",
+      "category": "spelling",
+      "definition": "\"The mood\"",
+      "rule": "Standard form: 'impumeko'. The form 'Imumeko' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impumeko.",
+            "translation": "\"The mood\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Imumeko",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-085",
+      "word": "impungure",
+      "category": "spelling",
+      "definition": "\"It's a meal where beans and maize are mixed.\"",
+      "rule": "Standard form: 'impungure'. The form 'imungure' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Impungure.",
+            "translation": "\"It's a meal where beans and maize are mixed.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "imungure",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-086",
+      "word": "intambara",
+      "category": "spelling",
+      "definition": "\"War\"",
+      "rule": "Standard form: 'intambara'. The form 'inambara' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Intambara.",
+            "translation": "\"War\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inambara",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-087",
+      "word": "intandaro",
+      "category": "spelling",
+      "definition": "when you want to mention the source of something for it to happen",
+      "rule": "Standard form: 'intandaro'. The form 'inandaro' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Intandaro.",
+            "translation": "when you want to mention the source of something for it to happen"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inandaro",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-088",
+      "word": "inshuro nyinshi",
+      "category": "spelling",
+      "definition": "It means \"many times\"",
+      "rule": "Standard form: 'inshuro nyinshi'. The form 'incuro nyinci' is a non-standard spelling. Reviewer emendation: the collected correction 'Incuro nyinshi' was amended to 'inshuro nyinshi'.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inshuro nyinshi.",
+            "translation": "It means \"many times\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "incuro nyinci",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01",
+      "pos": "phrase",
+      "notes": "Reviewer emendation: 'incuro' -> 'inshuro' (the collected fix corrected only the second word)."
+    },
+    {
+      "id": "LE-089",
+      "word": "interuro",
+      "category": "spelling",
+      "definition": "This means a sentence",
+      "rule": "Standard form: 'interuro'. The form 'Ineruro' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Interuro.",
+            "translation": "This means a sentence"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ineruro",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-090",
+      "word": "ingagi",
+      "category": "spelling",
+      "definition": "Mean \"Gorilla\"",
+      "rule": "Standard form: 'ingagi'. The form 'Ingadyi' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ingagi",
+            "translation": "Mean \"Gorilla\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "Ingadyi",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-091",
+      "word": "ingeso",
+      "category": "spelling",
+      "definition": "\"Habit\"",
+      "rule": "Standard form: 'ingeso'. The form 'injyeso' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Ingeso.",
+            "translation": "\"Habit\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "injyeso",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-092",
+      "word": "inyito",
+      "category": "spelling",
+      "definition": "\"Meaning.\"",
+      "rule": "Standard form: 'inyito'. The form 'inkito' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inyito.",
+            "translation": "\"Meaning.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inkito",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-093",
+      "word": "inkono",
+      "category": "spelling",
+      "definition": "\"Clay cooking pot.\"",
+      "rule": "Standard form: 'inkono'. The form 'inkwono' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inkono.",
+            "translation": "\"Clay cooking pot.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inkwono",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-094",
+      "word": "incyuro",
+      "category": "spelling",
+      "definition": "\"A biting remark made to put someone in their place or point out their faults.'",
+      "rule": "Standard form: 'incyuro'. The form 'inkyuro' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Incyuro.",
+            "translation": "\"A biting remark made to put someone in their place or point out their faults.'"
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inkyuro",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-095",
+      "word": "isepfu",
+      "category": "spelling",
+      "definition": "\"Hiccups.\"",
+      "rule": "Standard form: 'isepfu'. The form 'insepfu' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Isepfu.",
+            "translation": "\"Hiccups.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "insepfu",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-096",
+      "word": "intoke",
+      "category": "spelling",
+      "definition": "\"Fingers\"",
+      "rule": "Standard form: 'intoke'. The form 'intocye' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Intoke.",
+            "translation": "\"Fingers\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "intocye",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-097",
+      "word": "intumwa",
+      "category": "spelling",
+      "definition": "\"Messengers\"",
+      "rule": "Standard form: 'intumwa'. The form 'inumwa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Intumwa.",
+            "translation": "\"Messengers\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inumwa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-098",
+      "word": "inyamaswa",
+      "category": "spelling",
+      "definition": "\"Animals\"",
+      "rule": "Standard form: 'inyamaswa'. The form 'inyamanswa' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inyamaswa.",
+            "translation": "\"Animals\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inyamanswa",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-099",
+      "word": "inkengero",
+      "category": "spelling",
+      "definition": "\"Suburbs.\"",
+      "rule": "Standard form: 'inkengero'. The form 'inyengero' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inkengero.",
+            "translation": "\"Suburbs.\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inyengero",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-100",
+      "word": "inkeragutabara",
+      "category": "spelling",
+      "definition": "\"Rescue\"",
+      "rule": "Standard form: 'inkeragutabara'. The form 'inyeragutabara.' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inkeragutabara.",
+            "translation": "\"Rescue\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inyeragutabara.",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-101",
+      "word": "inkeri",
+      "category": "spelling",
+      "definition": "\"Strawberry\"",
+      "rule": "Standard form: 'inkeri'. The form 'inyeri' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inkeri.",
+            "translation": "\"Strawberry\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inyeri",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": "LE-102",
+      "word": "inkingi",
+      "category": "spelling",
+      "definition": "\"Pillar\"",
+      "rule": "Standard form: 'inkingi'. The form 'inyingi' is a non-standard spelling.",
+      "examples": {
+        "correct": [
+          {
+            "text": "Inkingi.",
+            "translation": "\"Pillar\""
+          }
+        ],
+        "incorrect": [
+          {
+            "text": "inyingi",
+            "error": "Non-standard form"
+          }
+        ]
+      },
+      "contributor": "Sarah Izabayo",
+      "reviewed_by": "Christophe Mumaragishyika",
+      "status": "verified",
+      "added_date": "2026-10-01"
+    },
+    {
       "id": "SP-002",
       "word": "abahungu",
       "category": "spacing_rules",

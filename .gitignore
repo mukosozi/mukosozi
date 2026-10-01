@@ -151,3 +151,6 @@ data/word_bank_private.json
 # Output from the private kinyarwanda-nlp-toolkit (if symlinked or copied locally)
 toolkit/
 training_data/
+
+# Local review workspace: unreviewed corpus and triage, never published
+review/
